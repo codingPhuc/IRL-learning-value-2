@@ -16,3 +16,9 @@ https://www.volunteermatch.org/search/opp3543166.jsp
 
 
 https://www.picktime.com/hollywoodpaltutoring  
+- tutor for kid 
+- take a lot of time is it really worth it ?  long distance 
+- have online tutor sevice 
+
+
+
