@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1 (2).md",
+                "file": "Untitled 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1 (2)"
+              "title": "Untitled 7"
             }
           },
           {
@@ -54,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1 (2).md",
+                "file": "Untitled 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1 (2)"
+              "title": "Outline of Untitled 7"
             }
           }
         ],
@@ -183,11 +183,18 @@
   },
   "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
+    "Untitled 6 (1).canvas",
+    "Untitled 7.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled (1).canvas",
+    "Untitled 2 (1).md",
+    "Untitled 3.canvas",
+    "Untitled 8.md",
+    "Untitled 1 (2).md",
     "Untitled 1.canvas",
     "Untitled 6 (1).md",
-    "Untitled.canvas",
     "templates/Untitled.md",
-    "Untitled 8.md",
     "prepare for calamity/peoples/Untitled.md",
     "prepare for calamity/peoples/person of interest.md",
     "prepare for calamity/charity  that interest me.md",
@@ -206,11 +213,7 @@
     "prepare for calamity/perpare too be kick out/Van life/Untitled.md",
     "prepare for calamity/perpare too be kick out/Van life/Van life.md",
     "prepare for calamity/peoples/Todo for Living circumstances.md",
-    "prepare for calamity/immigration  visa +  green  card/green card.md",
-    "Books/how to win friend and influence people.md",
     "picture/boy_guitar.png",
-    "2024-04-10.md",
-    "2024-05-31.md",
     "prepare for calamity/transfer-student-profile.pdf",
     "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "prepare for calamity/long beach to cal state long beach.pdf",
@@ -234,7 +237,6 @@
     "Untitled 5.canvas",
     "learing raod map for ielts.canvas",
     "Untitled 2.canvas",
-    "Untitled 3.canvas",
     "Untitled 4.canvas"
   ]
 }
