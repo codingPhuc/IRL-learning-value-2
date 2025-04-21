@@ -240,11 +240,23 @@ Check if the Golden West library has any old books for sale program.
 go to here to search for the require books  
 https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true
 your id card is the library card   
+you can only brow your book for like 2 hour at a time 
+
+#Todo_question  
+- [ ] do you have the part ranger parking pass ? 
+- [ ] s
 
 
 
+##  Student Services Center 
 
 
+You can get a student ID card from the Admissions & Records Department located in the Student Services Center.
+
+#Todo_question 
+- [ ] get your id card 
+## book store 
+they  said that it is best to buy from then since the book the professor request does not exits 
 ###  open  courses text book 
 https://goldenwestcollege.libguides.com/oer/students#s-lg-box-21028906 
 text book that have the 0 dollar  icon ![Zero Cost Digital Textbooks](https://ssb-prod.ec.cccd.edu/wtlgifs/book-icon.png "Zero Cost Digital Textbooks")  mean that they cost nothing and can have a pdf file to show the information of the text book  
@@ -252,6 +264,8 @@ there will also be a link  for the courses  that are there with the material ,  
 
 ##  joining  club 
 it currently is not possible to join a club at least that is what the counselor say ?  you can try  contacting club member to see whether they are qualify or not ? 
+
+
 
 # Cost Reduction
 ### Scholarships

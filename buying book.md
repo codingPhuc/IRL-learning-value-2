@@ -60,3 +60,4 @@ Want help making a quick checklist or tool to compare textbook options for your 
 
 you can buy old text book  or rent it for a semester at  the library [[Golden West Community College#Library]] 
 
+book ok
