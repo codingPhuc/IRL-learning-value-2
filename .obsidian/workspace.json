@@ -177,11 +177,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
+    "Untitled 8.md",
     "prepare for calamity/peoples/Untitled.md",
     "prepare for calamity/peoples/person of interest.md",
     "prepare for calamity/charity  that interest me.md",
@@ -209,7 +211,6 @@
     "prepare for calamity/transfer-student-profile.pdf",
     "prepare for calamity/Los Angeles University of California.md",
     "ielts/18 Writing.md",
-    "ielts/17 Reading.md",
     "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "prepare for calamity/long beach to cal state long beach.pdf",
     "prepare for calamity/eebs_flowchartprogram_transferstudents.general.pdf",
