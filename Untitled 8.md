@@ -16,7 +16,7 @@ Hheheh
 	- [x] [[Golden West Community College#joining club]]
 
 - [ ] Where to get cheap book can you buy it back from other people  
-	- [ ] 
+	- [ ] [[buying book]]
 
 - [ ] Volenteer help you with your university profile try to volenteer 
 

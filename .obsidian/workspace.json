@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "buying book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 8"
+              "title": "buying book"
+            }
+          },
+          {
+            "id": "497e1e26f0794aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "collage/Golden  West/Golden West Community College.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golden West Community College"
             }
           },
           {
@@ -39,14 +53,10 @@
             "id": "67c8cc416a87e151",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prepare for calamity/collage/Golden  West/Golden West Community College.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Golden West Community College"
+              "title": "New tab"
             }
           }
         ]
@@ -168,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "buying book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 8"
+              "title": "Outline of buying book"
             }
           }
         ],
@@ -197,8 +207,9 @@
   },
   "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
-    "collage/Golden  West/Golden West Community College.md",
     "Untitled 8.md",
+    "collage/Golden  West/Golden West Community College.md",
+    "buying book.md",
     "2025-04-11.md",
     "Untitled 7.md",
     "Untitled 6 (1).canvas",
@@ -227,7 +238,6 @@
     "prepare for calamity/perpare too be kick out/Van life/info 1.md",
     "prepare for calamity/perpare too be kick out/Van life/Gas Price.md",
     "prepare for calamity/perpare too be kick out/Van life/Untitled.md",
-    "prepare for calamity/perpare too be kick out/Van life/Van life.md",
     "picture/boy_guitar.png",
     "prepare for calamity/transfer-student-profile.pdf",
     "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
