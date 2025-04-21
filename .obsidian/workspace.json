@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheap stuff.md",
+                "file": "charity  that interest me.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheap stuff"
+              "title": "Outline of charity  that interest me"
             }
           }
         ],
@@ -213,10 +213,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14f4fe244931288f",
+  "active": "497e1e26f0794aa8",
   "lastOpenFiles": [
-    "Untitled 8.md",
     "cheap stuff.md",
+    "Untitled 8.md",
     "charity  that interest me.md",
     "enlish study/ielts/16 Writing.md",
     "financial resources and bank.md",
