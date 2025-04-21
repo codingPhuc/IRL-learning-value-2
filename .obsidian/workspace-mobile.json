@@ -11,14 +11,10 @@
             "id": "879e8ab014ed2697",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 8.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled 8"
+              "title": "New tab"
             }
           }
         ]
@@ -49,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Untitle",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -84,7 +80,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fa1c0affd16e263e",
@@ -151,9 +147,11 @@
   },
   "active": "879e8ab014ed2697",
   "lastOpenFiles": [
+    "/Untitled 1 (2).md",
+    "Untitled 1 (2).md",
+    "Untitled 8.md",
     "/templates/Untitled.md",
     "/templates",
-    "Untitled 8.md",
     "basic skill/obsidian git bug.md",
     "prepare for calamity/peoples",
     "prepare for calamity/collage/Los Angeles University",
