@@ -12,4 +12,6 @@ https://www.volunteermatch.org/search/opp3797689.jsp
 https://www.volunteermatch.org/search/opp2860074.jsp 
 - this will provide a good strategy  for plan A  and help advance our virtual reality goal and increase social skill 
 https://www.volunteermatch.org/search/opp3543166.jsp 
- - this will provide a good strategy  for plan A , increase social skill math skill 
+ - this will provide a good strategy  for plan A , increase social skill math skill  
+
+
