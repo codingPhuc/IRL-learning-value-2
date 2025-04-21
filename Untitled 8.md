@@ -16,11 +16,11 @@ Hheheh
 	- [x] [[Golden West Community College#joining club]]
 
 - [ ] Where to get cheap book can you buy it back from other people  
-	- [ ] [[buying book]]
+	- [x] [[buying book]]
 
-- [ ] Volenteer help you with your university profile try to volenteer 
+- [ ] Volenteer help you with your university profile try to volenteer  [[charity  that interest me]]
 
-- [ ] Tell your mom about the bill you have to pay 
+- [x] Tell your mom about the bill you have to pay  
 
 - [ ] Tell the bank of america to give you a saving account 
 
