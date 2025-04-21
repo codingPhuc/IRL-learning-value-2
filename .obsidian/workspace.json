@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "cheap stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 8"
+              "title": "cheap stuff"
             }
           }
         ]
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "charity  that interest me.md",
+                "file": "cheap stuff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of charity  that interest me"
+              "title": "Outline of cheap stuff"
             }
           }
         ],
@@ -213,9 +213,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "497e1e26f0794aa8",
+  "active": "14f4fe244931288f",
   "lastOpenFiles": [
     "Untitled 8.md",
+    "cheap stuff.md",
     "charity  that interest me.md",
     "enlish study/ielts/16 Writing.md",
     "financial resources and bank.md",
@@ -245,7 +246,6 @@
     "prepare for calamity/Tasks to do.md",
     "prepare for calamity/survival/working.md",
     "prepare for calamity/perpare too be kick out/rent.md",
-    "prepare for calamity/perpare too be kick out/Keep  calm  and follow these plan.md",
     "picture/boy_guitar.png",
     "prepare for calamity/transfer-student-profile.pdf",
     "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",

@@ -4,7 +4,7 @@ Hheheh
 
 - [ ] https://www.wigsforkids.org/locations/little-clips-phenix-salon-suites/ 
 
-- [ ] Where do I get cheap sampo 
+- [ ] Where do I get cheap sampo  [[cheap stuff]]
 
 - [ ] How to break the ice with friend 
 
@@ -22,7 +22,8 @@ Hheheh
 
 - [x] Tell your mom about the bill you have to pay  
 
-- [ ] Tell the bank of america to give you a saving account 
-
-- [ ] Noi chi nhung mua kem ba mau 
+- [x] Tell the bank of america to give you a saving account
+	- [ ] waiting for a response  
+	- [ ] research about saving account 
+- [ ] Noi chi nhung mua kem danh rang 3 mau 
 
