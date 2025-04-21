@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "Untitled 1 (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1 (2)"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "Untitled 1 (2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Untitled 1 (2)"
             }
           }
         ],
@@ -183,6 +183,10 @@
   },
   "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 6 (1).md",
+    "Untitled.canvas",
+    "templates/Untitled.md",
     "Untitled 8.md",
     "prepare for calamity/peoples/Untitled.md",
     "prepare for calamity/peoples/person of interest.md",
@@ -207,10 +211,7 @@
     "picture/boy_guitar.png",
     "2024-04-10.md",
     "2024-05-31.md",
-    "2024-03-26.md",
     "prepare for calamity/transfer-student-profile.pdf",
-    "prepare for calamity/Los Angeles University of California.md",
-    "ielts/18 Writing.md",
     "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "prepare for calamity/long beach to cal state long beach.pdf",
     "prepare for calamity/eebs_flowchartprogram_transferstudents.general.pdf",
@@ -230,12 +231,10 @@
     "prepare for calamity/transfer-student-profile.pdf.crdownload",
     "prepare for calamity/collage/golden west to long beach california state.pdf",
     "Untitled 6.canvas",
-    "Untitled.canvas",
     "Untitled 5.canvas",
     "learing raod map for ielts.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "Untitled 4.canvas",
-    "Untitled 1.canvas"
+    "Untitled 4.canvas"
   ]
 }
