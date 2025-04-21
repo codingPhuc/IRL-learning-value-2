@@ -119,7 +119,7 @@ This looks like a Reddit-style comment thread discussing **deal-finding websites
 ### 🧰 Tools Mentioned
 
 - **Slickdeals.net** – Forum for deal-sharing.
-    
+    https://slickdeals.net/
 - **mydealz.de** – German equivalent, more active.
     
 - **JoinHoney** – Browser extension for promo codes.
