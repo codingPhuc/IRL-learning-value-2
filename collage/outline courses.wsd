@@ -1,0 +1,60 @@
+@startuml
+top to bottom direction
+skinparam packageStyle rectangle
+
+' Define courses and prerequisites
+class "CHEM 1A (5 units)" {
+    audit
+}
+class "CHEM 4 (5 units)" {
+}
+class "MATH 170 (3 units)" {
+    audit
+}
+class "MATH 180 (5 units)" {
+    audit
+}
+class "MATH 190 (5 units)" {
+}
+class "MATH 191 (5 units)" {
+}
+class "MATH 220 (5 units)" {
+}
+class "MATH 270 (5 units)" {
+}
+class "PHYS 1A (4 units)" {
+
+}
+class "PHYS 1C (4 units)" {
+}
+class "PHYS 2A (4 units)" {
+}
+class "ENGR 11 (3 units)" {
+}
+class "ENGR 12 (1 unit)" {
+}
+class "ECHT 130 (3 units)" {
+}
+class "ENGR 1 (2 units)" {
+}
+
+' Add connections based on prerequisites
+"CHEM 4 (5 units)" --> "CHEM 1A (5 units)"
+"MATH 170 (3 units)" --> "CHEM 1A (5 units)"
+"MATH 170 (3 units)" --> "MATH 180 (5 units)"
+"MATH 170 (3 units)" --> "PHYS 2A (4 units)"
+"PHYS 2A (4 units)" -->  "PHYS 1A (4 units)"
+"MATH 180 (5 units)" --> "MATH 190 (5 units)"
+"MATH 190 (5 units)" --> "MATH 191 (5 units)"
+"MATH 190 (5 units)" --> "PHYS 1A (4 units)"
+"MATH 191 (5 units)" --> "MATH 220 (5 units)"
+"MATH 191 (5 units)"  -->  "PHYS 1C (4 units)"
+"MATH 220 (5 units)" --> "MATH 270 (5 units)"
+"PHYS 1A (4 units)" --> "PHYS 1C (4 units)"
+"PHYS 1A (4 units)" --> "ENGR 11 (3 units)"
+"PHYS 1C (4 units)" --> "ENGR 12 (1 unit)"
+"MATH 270 (5 units)" --> "ENGR 11 (3 units)"
+"MATH 270 (5 units)" --> "ENGR 12 (1 unit)"
+"ENGR 11 (3 units)" --> "ENGR 12 (1 unit)"
+
+@enduml

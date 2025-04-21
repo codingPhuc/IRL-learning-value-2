@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "817b90f9863219bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddfa31cfb1a1060b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9fbf26f98b5740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "67c8cc416a87e151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prepare for calamity/collage/Golden  West/Golden West Community College.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golden West Community College"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "241e4a3228153a70",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda24222fe12194b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1519d39e08493179",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27930df27c9e2924",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "981c772747a5cc1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Autism",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "c98530c0d8c3c35f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e19d372a1be8c29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f113b6d36e60987",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "writting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for writting"
+            }
+          },
+          {
+            "id": "9dd6a149f0428346",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "writting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from writting"
+            }
+          },
+          {
+            "id": "234817bda79c2934",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c41711a60d63264",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1519d39e08493179",
+  "lastOpenFiles": [
+    "prepare for calamity/peoples/Untitled.md",
+    "prepare for calamity/peoples/person of interest.md",
+    "prepare for calamity/charity  that interest me.md",
+    "prepare for calamity/coupon bank and tips.md",
+    "prepare for calamity/Todo what to bring and  buy.md",
+    "prepare for calamity/Untitled 1.md",
+    "prepare for calamity/Untitled 2.md",
+    "prepare for calamity/Tasks to do.md",
+    "prepare for calamity/survival/working.md",
+    "prepare for calamity/perpare too be kick out/rent.md",
+    "prepare for calamity/perpare too be kick out/Keep  calm  and follow these plan.md",
+    "prepare for calamity/perpare too be kick out/Van life/App for vans life and their used.md",
+    "prepare for calamity/perpare too be kick out/Van life/Laws again van life.md",
+    "prepare for calamity/perpare too be kick out/Van life/info 1.md",
+    "prepare for calamity/perpare too be kick out/Van life/Gas Price.md",
+    "prepare for calamity/perpare too be kick out/Van life/Untitled.md",
+    "prepare for calamity/perpare too be kick out/Van life/Van life.md",
+    "prepare for calamity/peoples/Todo for Living circumstances.md",
+    "prepare for calamity/immigration  visa +  green  card/green card.md",
+    "Books/how to win friend and influence people.md",
+    "picture/boy_guitar.png",
+    "2024-04-10.md",
+    "2024-05-31.md",
+    "2024-03-26.md",
+    "prepare for calamity/transfer-student-profile.pdf",
+    "prepare for calamity/Los Angeles University of California.md",
+    "ielts/18 Writing.md",
+    "ielts/17 Reading.md",
+    "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
+    "prepare for calamity/long beach to cal state long beach.pdf",
+    "prepare for calamity/eebs_flowchartprogram_transferstudents.general.pdf",
+    "PDF reader/521H0509.pdf",
+    "Pasted image 20250411143345.png",
+    "Pasted image 20250411143604.png",
+    "templates",
+    "Pasted image 20250411143426.png",
+    "Pasted image 20250411143304.png",
+    "Pasted image 20250411143158.png",
+    "prepare for calamity/perpare too be kick out",
+    "Pasted image 20250324123109.png",
+    "Pasted image 20250324123100.png",
+    "Pasted image 20250324123055.png",
+    "Pasted image 20250324123050.png",
+    "prepare for calamity/collage/Golden  West",
+    "prepare for calamity/transfer-student-profile.pdf.crdownload",
+    "prepare for calamity/collage/golden west to long beach california state.pdf",
+    "Untitled 6.canvas",
+    "Untitled.canvas",
+    "Untitled 5.canvas",
+    "learing raod map for ielts.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 4.canvas",
+    "Untitled 1.canvas"
+  ]
+}
