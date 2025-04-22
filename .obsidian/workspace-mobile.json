@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "Note todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 8"
+              "title": "Note todo"
             }
           }
         ]
@@ -175,7 +175,7 @@
     "Untitled 7.md",
     "/Untitled 1 (2).md",
     "Untitled 1 (2).md",
-    "Untitled 8.md",
+    "Note todo.md",
     "/templates/Untitled.md",
     "/templates",
     "basic skill/obsidian git bug.md",
