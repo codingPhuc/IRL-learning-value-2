@@ -96,5 +96,5 @@ IDME-TCXH-I4WM-2N1Y
 - [x] Can I choose any courses that   I want even thought it is not constraint to major 
 - [x] How much is the fee for international student I know that it 320$ for unit but is this true 
 - [x] is there an honor program at the community college 
-- [ ] is these course transferable to from my first semester 
-- [ ] is there finance aid that or scholar ship for international student  
+- [x] is these course transferable to from my first semester 
+- [x] is there finance aid that or scholar ship for international student  

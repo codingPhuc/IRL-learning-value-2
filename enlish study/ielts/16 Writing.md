@@ -1,6 +1,6 @@
 16 academic
 [[writting]]
-# part 1 : 
+# lanpart 1 : 
 task 1 : 
 
 The chart showcase the constrast between the ownership  of electrical  application and time spent on house work  in one country in a 99 year periot starting from  1920. The overall trend of the graph lean more toward a increase in house hold application from 1920 on ward and a decrease on time spent on house hold chore  

@@ -97,6 +97,93 @@ good place to shop for groceries at no  charge low cost shopping  , and get free
 
 #  facility   
 
+## Clubs 
+
+
+
+Thanks for the detailed goals—super helpful for filtering! Based on what you’re aiming for (STEM-focused transfer, strong extracurriculars, teaching goals, and some social and religious aspects), here’s a breakdown of **which clubs align best with your objectives**, and why:
+
+---
+
+### ✅ **Recommended Clubs**
+
+These clubs directly support your STEM/teaching/religious/social goals and can strengthen your application:
+
+| **Club Name**                              | **Why It's a Good Fit**                                                                                                      | **Meeting Info**                                                  |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **N.E.R.D (Science Club)** x               | Directly STEM-related. Shows initiative and interest in science—great for transfer and research universities.                | Math Science 254 Thursdays, 2:00pm - 2:20pm                       |
+| **Physics Club** x                         | Good for STEM resume, especially if you’re aiming for R1 universities. You might also meet serious academic peers here.      | Language Arts 127 Bi-weekly Thursdays (Starting Feb 13) at 2:00pm |
+| **Future Teachers of America** x           | Supports your teaching visa goal. Adds education-focused experience and looks great on your application.                     | SSC 1350 2nd & 4th Wednesdays, 12:00pm - 1:00pm                   |
+| **California Nursing Student Association** | If you're interested in biomedical STEM or care-oriented fields. Zoom format also makes it flexible.                         | Zoom Selected Thursdays, 7:30pm - 8:30pm                          |
+| **GLASA**                                  | LGBTQ+ inclusive and social-oriented. Can help broaden your network, and possibly meet a partner. Shows inclusivity on apps. | Language Arts 127 Wednesdays, 1:00pm - 2:00pm                     |
+| **Ratio Christi**                          | Christian apologetics club. Great for networking around religion, potentially helpful with R1 religious visa context.        | TBD                                                               |
+| **PUENTE**                                 | Strong mentoring and transfer support. Especially great for underrepresented students aiming for universities.               | TBD                                                               |
+| **Student Veterans Organization**          | If you're eligible, this can strengthen your leadership and community involvement angle.                                     | TBD                                                               |
+Great question. When you're checking out a club—whether you're emailing an advisor, talking to a member, or attending a meeting—asking the right questions helps you decide if it’s worth your time **and** gives a good impression. Here's a list of **smart, goal-oriented questions**, grouped by your priorities:
+
+---
+
+### 🧠 **For Academic/Transfer Goals (STEM, Teaching, R1 Universities)**
+
+- What kind of projects or activities does the club do? Are any related to STEM or research? x
+    
+- Do members participate in academic competitions, conferences, or science fairs? x
+    
+- Are there any guest speakers, workshops, or events that help with transfer or career readiness? x
+    
+- Do you offer leadership opportunities that would look good on transfer applications?  x
+    
+- Is this club involved in any community outreach or teaching events (like tutoring younger students)? x 
+---
+
+### 🎯 **For Building a Strong Resume & Visa Narrative**
+
+- Can involvement in this club help me with a future teaching or research position?
+    
+- Do any past members of this club successfully transfer to CSU or R1 universities? 
+    
+- Does the club offer certificates, awards, or roles that I can include on my resume? x
+    
+- Are there ways I can take on a leadership role here in the next semester or two?
+    
+
+---
+
+### ✝️ **For Religious/R1 Visa-Supportive Goals**
+
+- Does the club host events or discussions related to faith, culture, or religious diversity?
+    
+- Are there opportunities to volunteer or lead discussions related to religious topics?
+    
+- Is the club affiliated with any national or international religious organizations?
+    
+
+---
+
+### 👫 **For Social & Relationship Goals**
+
+- What’s the vibe of the club? Is it more academic or social? x
+    
+- Are there group hangouts, events, or volunteer days outside of regular meetings? x Is a meeting require too attend the club and so on ? 
+    
+- How do new members usually get involved or make friends here? x
+    
+
+---
+
+### 📝 **Generic but Strong Questions (Safe to Ask Any Club)**
+
+- What are the benefits of being an active member? x 
+    
+- How do you keep members engaged throughout the semester? x 
+    
+- What’s the best way to get started if I join today? can I join in the summer semester ?  x 
+    
+- Can I just sit in on a meeting to get a feel for it? 
+    
+- Are there any dues or fees to join? x 
+- any club with high transfer rate ? 
+    
 
 ##  bus 
 [bus](https://octa.net/getting-around/bus/oc-bus/fares-and-passes/overview/community-college-pass/golden-west/)
@@ -153,11 +240,22 @@ Check if the Golden West library has any old books for sale program.
 go to here to search for the require books  
 https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true
 your id card is the library card   
+you can only brow your book for like 2 hour at a time 
+
+#Todo_question  
+- [ ] do you have the part ranger parking pass ?  where you can park at different location ? 
 
 
 
+##  Student Services Center 
 
 
+You can get a student ID card from the Admissions & Records Department located in the Student Services Center.
+
+#Todo_question 
+- [ ] get your id card 
+## book store 
+they  said that it is best to buy from then since the book the professor request does not exits 
 ###  open  courses text book 
 https://goldenwestcollege.libguides.com/oer/students#s-lg-box-21028906 
 text book that have the 0 dollar  icon ![Zero Cost Digital Textbooks](https://ssb-prod.ec.cccd.edu/wtlgifs/book-icon.png "Zero Cost Digital Textbooks")  mean that they cost nothing and can have a pdf file to show the information of the text book  
@@ -165,6 +263,8 @@ there will also be a link  for the courses  that are there with the material ,  
 
 ##  joining  club 
 it currently is not possible to join a club at least that is what the counselor say ?  you can try  contacting club member to see whether they are qualify or not ? 
+
+
 
 # Cost Reduction
 ### Scholarships

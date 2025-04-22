@@ -2,9 +2,9 @@ Where can i get note book pen for cheap pass back ? 
 Hheheh
 - [ ] Where do i geg my hair cut and such 
 
-- [ ] https://www.wigsforkids.org/locations/little-clips-phenix-salon-suites/
+- [ ] https://www.wigsforkids.org/locations/little-clips-phenix-salon-suites/ 
 
-- [ ] Where do I get cheap sampo 
+- [ ] Where do I get cheap sampo  [[cheap stuff]]
 
 - [ ] How to break the ice with friend 
 
@@ -12,14 +12,18 @@ Hheheh
 
 - [ ] Pill process for insurence I need to make an apoinment for experience first 
 
-- [ ] Send email about club member and what their club is about 
+- [x] Send email about club member and what their club is about  
+	- [x] [[Golden West Community College#joining club]]
 
-- [ ] Where to get cheap book can you buy it back from other people 
+- [ ] Where to get cheap book can you buy it back from other people  
+	- [x] [[buying book]]
 
-- [ ] Volenteer help you with your university profile try to volenteer 
+- [ ] Volenteer help you with your university profile try to volenteer  [[charity  that interest me]]
 
-- [ ] Tell your mom about the bill you have to pay 
+- [x] Tell your mom about the bill you have to pay  
 
-- [ ] Tell the bank of america to give you a saving account 
+- [x] Tell the bank of america to give you a saving account
+	- [ ] waiting for a response  
+	- [ ] research about saving account 
+- [ ] Noi chi nhung mua kem danh rang 3 mau 
 
-- [ ] Noi chi nhung mua kem ba mau
