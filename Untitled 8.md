@@ -1,10 +1,13 @@
 Where can i get note book pen for cheap pass back ? 
-Hheheh
-- [ ] Where do i geg my hair cut and such 
+Hh
 
-- [ ] https://www.wigsforkids.org/locations/little-clips-phenix-salon-suites/ 
 
-- [ ] Where do I get cheap sampo  [[cheap stuff]]
+#Todo_question 
+- [x] Where do i geg my hair cut and such 
+
+- [x] https://www.wigsforkids.org/locations/little-clips-phenix-salon-suites/ 
+
+- [x] Where do I get cheap sampo  [[cheap stuff]]
 
 - [ ] How to break the ice with friend 
 
@@ -23,7 +26,11 @@ Hheheh
 - [x] Tell your mom about the bill you have to pay  
 
 - [x] Tell the bank of america to give you a saving account
-	- [ ] waiting for a response  
+	- [x] waiting for a response  
 	- [ ] research about saving account 
+	- [ ] Make an apointment though text
 - [ ] Noi chi nhung mua kem danh rang 3 mau 
+- [ ] Learn about cpu architecture 
+
+
 
