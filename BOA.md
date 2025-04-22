@@ -40,3 +40,6 @@ interest can change from time to time . What make interest rate rise and fall . 
 8. encourse job creation 
 when interest rate go down  it cheaper to brow money . The increase spending will ful the economy and leave to the creation of more job , if inflation is high and price rise  , the fed will push interest rate up  it become more expensive to take out a loan there will be less demand for good and service making drop there prices . Prices will stablize 
 the fed is trying to stablize prices create job and 
+
+# person who work there
+[kim.h.hoang@bofa.com](mailto:kim.h.hoang@bofa.com)

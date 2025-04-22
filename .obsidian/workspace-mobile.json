@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "BOA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "BOA"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Untitle",
+            "query": "Bank",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -151,6 +151,8 @@
   },
   "active": "879e8ab014ed2697",
   "lastOpenFiles": [
+    "bank food store and other.md",
+    "templates/Untitled.md",
     "buying book.md",
     "cheap stuff.md",
     "/collage/Golden  West/Golden West Community College.md",
@@ -184,8 +186,6 @@
     "prepare for calamity/Van life/Gas Price.md",
     "prepare for calamity/survival/Dumpster driving.md",
     "prepare for calamity/collage/university cost.md",
-    "California  State  university.md",
-    "prepare for calamity/collage/recomentded university for embedded.md",
-    "prepare for calamity/collage/Placement test.md"
+    "California  State  university.md"
   ]
 }
