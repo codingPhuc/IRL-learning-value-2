@@ -31,6 +31,8 @@ Hh
 	- [ ] Make an apointment though text
 - [ ] Noi chi nhung mua kem danh rang 3 mau 
 - [ ] Learn about cpu architecture 
+- [ ] Firgure out a way to text while talking like speach text 
+- [ ] AI voice to speak out the text 
 
 
 
