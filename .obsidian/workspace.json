@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charity  that interest me.md",
+                "file": "BOA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "charity  that interest me"
+              "title": "BOA"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plan A",
+                "query": "banko",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "charity  that interest me.md",
+                "file": "BOA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of charity  that interest me"
+              "title": "Outline of BOA"
             }
           }
         ],
@@ -215,9 +215,9 @@
   },
   "active": "497e1e26f0794aa8",
   "lastOpenFiles": [
+    "charity  that interest me.md",
     "cheap stuff.md",
     "Untitled 8.md",
-    "charity  that interest me.md",
     "enlish study/ielts/16 Writing.md",
     "financial resources and bank.md",
     "collage/Golden  West/Golden West Community College.md",
