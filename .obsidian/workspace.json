@@ -65,8 +65,21 @@
               "icon": "lucide-file",
               "title": "cheap stuff"
             }
+          },
+          {
+            "id": "5cc060cb2c958c6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14f4fe244931288f",
+  "active": "5cc060cb2c958c6a",
   "lastOpenFiles": [
     "Note todo.md",
     "BOA.md",
