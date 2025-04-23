@@ -199,13 +199,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheap stuff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheap stuff"
+              "title": "Outline"
             }
           }
         ],
