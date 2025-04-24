@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOA.md",
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOA"
+              "title": "Golden West Community College"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "banko",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,12 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Golden West Community College"
             }
           }
         ],
@@ -225,10 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cc060cb2c958c6a",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
-    "Note todo.md",
     "BOA.md",
+    "Note todo.md",
     "charity  that interest me.md",
     "cheap stuff.md",
     "Untitled 8.md",

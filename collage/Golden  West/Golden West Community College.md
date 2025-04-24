@@ -331,15 +331,15 @@ there will be  an even
 - [x] Will joining a club increase my metrics?
 - [x] Can I transfer to another community college?
 - [ ] ask  why  is it that he get to take  community  collage again  ? what is  his legal status  
-	- [ ] can you study major forever  to stay in the USA  ? 
-- [ ] ask  Tai  about his  bus  path  how can  you travel  for free on the bus   
+	- [x] can you study major forever  to stay in the USA  ? 
+- [x] ask  Tai  about his  bus  path  how can  you travel  for free on the bus   
 - [ ]  ask for does volunteer help when considering admission 
 - [ ] what type of volunteer   ?
 - [ ] how does point scoring  work in university   
-- [ ] the timely care health app  is not good right now  so try again latter 
-
+- [ ] the timely care health app  is not good right now  so try again latter  
+- [ ] Why is my email not receiving message from third party  ?  
 ##  question to find out 
-- [ ] which department should you go for general education 
+- [x] which department should you go for general education 
 - [ ] how to form relationship with collage kid here ?  
 ## question to ask student 
 - [x] did you  transfer  to another community collage ?  
