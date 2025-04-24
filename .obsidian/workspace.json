@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todo",
+                "query": "computer scie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -225,7 +226,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "BOA.md",
     "Note todo.md",
