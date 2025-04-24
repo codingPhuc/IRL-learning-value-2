@@ -303,10 +303,6 @@ _Note: Students may choose one adviser-approved course from 300- and 400-level I
 
 
 ##  transferring  from  [[Santa Ana College]]  
-
-
-
-
 ### **USC Computer Science and Computer Engineering Degree Requirements**
 
 #### **Writing Requirements (8 Units)**

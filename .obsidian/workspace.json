@@ -6,6 +6,7 @@
       {
         "id": "ddfa31cfb1a1060b",
         "type": "tabs",
+        "dimension": 78.11816192560175,
         "children": [
           {
             "id": "dd9fbf26f98b5740",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "collage/transfer   to Computer Engineering and Computer Science  in  University  of  southern  california.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golden West Community College"
+              "title": "transfer   to Computer Engineering and Computer Science  in  University  of  southern  california"
             }
           },
           {
@@ -51,6 +52,7 @@
       {
         "id": "11e30da700cdcc99",
         "type": "tabs",
+        "dimension": 21.88183807439825,
         "children": [
           {
             "id": "14f4fe244931288f",
@@ -121,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer scie",
+                "query": "usc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +134,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "collage/transfer   to Computer Engineering and Computer Science  in  University  of  southern  california.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Golden West Community College"
+              "title": "Outline of transfer   to Computer Engineering and Computer Science  in  University  of  southern  california"
             }
           }
         ],
@@ -226,8 +227,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "981c772747a5cc1e",
+  "active": "497e1e26f0794aa8",
   "lastOpenFiles": [
+    "collage/outline courses.md",
+    "Todo what to bring and  buy.md",
+    "collage/Golden  West/Golden West Community College.md",
     "BOA.md",
     "Note todo.md",
     "charity  that interest me.md",
@@ -235,7 +239,6 @@
     "Untitled 8.md",
     "enlish study/ielts/16 Writing.md",
     "financial resources and bank.md",
-    "collage/Golden  West/Golden West Community College.md",
     "collage/Irvine Valley College.md",
     "collage/long beach/Long Beach Community Collage.md",
     "buying book.md",
@@ -257,8 +260,6 @@
     "prepare for calamity/coupon bank and tips.md",
     "prepare for calamity/Todo what to bring and  buy.md",
     "prepare for calamity/Untitled 1.md",
-    "prepare for calamity/Untitled 2.md",
-    "prepare for calamity/Tasks to do.md",
     "picture/boy_guitar.png",
     "prepare for calamity/transfer-student-profile.pdf",
     "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
