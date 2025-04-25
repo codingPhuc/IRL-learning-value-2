@@ -134,8 +134,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +227,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "497e1e26f0794aa8",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
     "financial resources and bank.md",
     "collage/Irvine Valley  2  transfer computer science.pdf",
