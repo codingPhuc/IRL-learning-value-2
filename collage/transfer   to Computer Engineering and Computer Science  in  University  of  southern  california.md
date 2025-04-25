@@ -444,6 +444,9 @@ _Note: Students may choose one adviser-approved course from 300- and 400-level I
 # Electrical  engineering 
 
 [electrical engineer](https://viterbiadmission.usc.edu/wp-content/uploads/2022/05/ECE.pdf)
+The courses that over lap are the mathematic courses 
+the physics course 
+the writing  courses 
 
 # Todo  
 - [ ] what is the process like for transferring to USC   
