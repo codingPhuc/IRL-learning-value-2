@@ -440,6 +440,11 @@ _Note: Students may choose one adviser-approved course from 300- and 400-level I
 
 
 
+
+# Electrical  engineering 
+
+[electrical engineer](https://viterbiadmission.usc.edu/wp-content/uploads/2022/05/ECE.pdf)
+
 # Todo  
 - [ ] what is the process like for transferring to USC   
 - [ ] how must point do  I need to transfer  
