@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usc",
+                "query": "python ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +228,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "497e1e26f0794aa8",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "collage/outline courses.md",
     "Todo what to bring and  buy.md",
