@@ -49,8 +49,9 @@ Bạn trai của chị kỳ kỳ và
 - seem be treated as a prince 
 - have a job worth over  100 million dong 
 - I can ask him about   
-## [[Tai]] elder son
+## [[Tai]] elder son 
 
+- chị nhung  chị nhung không thích ăn thịt nạt   
 ![[Pasted image 20250123074241.png]] 
 - KPop idol fan
 -  seem to be tech savvy    
@@ -63,13 +64,19 @@ Bạn trai của chị kỳ kỳ và
 - he does not want to stand  around all the time need something  to do  
 - list son tung 
 - chirst devil  gamer 
-- gamming youtuber like  valorant 
+- gamming youtuber like  valorant   
+- bà  chi nhung dang  bi mệt   , dì quyền đang lo cho sức khỏe của 
+
+
+
+
 
 
 **Summary:**
 
-**About Nhung:**
 
+
+**About Nhung:**
 - Nhung is a mother of three (children aged 12, 5, and 1) visiting on a business visa.
 - She seems to enjoy knitting (as seen on Facebook).
 - She loves dogs.
@@ -77,7 +84,6 @@ Bạn trai của chị kỳ kỳ và
 - She appears distressed when her son talks back.
 - She doesn't seem to care about others' opinions.
 - You made an inappropriate joke today about men liking fat women.
-
 **Reflections on Your Wrongdoing:**
 - You regret eating an entire chicken despite being told otherwise.
 - In Vietnamese culture, sincerity may sometimes mask true feelings; you should be cautious.

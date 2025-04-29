@@ -6,7 +6,7 @@
       {
         "id": "ddfa31cfb1a1060b",
         "type": "tabs",
-        "dimension": 78.11816192560175,
+        "dimension": 36.32385120350109,
         "children": [
           {
             "id": "dd9fbf26f98b5740",
@@ -52,7 +52,7 @@
       {
         "id": "11e30da700cdcc99",
         "type": "tabs",
-        "dimension": 21.881838074398253,
+        "dimension": 63.67614879649891,
         "children": [
           {
             "id": "14f4fe244931288f",
@@ -60,28 +60,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheap stuff.md",
+                "file": "2024-06-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cheap stuff"
-            }
-          },
-          {
-            "id": "5cc060cb2c958c6a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "2024-06-22"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -134,8 +121,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "peoples/person of interest.md",
+                "file": "2024-06-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of person of interest"
+              "title": "Outline of 2024-06-22"
             }
           }
         ],
@@ -228,8 +214,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "497e1e26f0794aa8",
+  "active": "14f4fe244931288f",
   "lastOpenFiles": [
+    "2025-04-11.md",
+    "2024-05-31.md",
+    "2025-01-23.md",
+    "2024-06-22.md",
+    "2024-03-29.md",
+    "2024-03-26.md",
+    "2024-01-20.md",
+    "2024-04-10.md",
+    "cheap stuff.md",
+    "peoples/person of interest.md",
     "collage/Golden  West/Golden West Community College.md",
     "financial resources and bank.md",
     "collage/Irvine Valley  2  transfer computer science.pdf",
@@ -244,25 +240,16 @@
     "BOA.md",
     "Note todo.md",
     "charity  that interest me.md",
-    "cheap stuff.md",
     "Untitled 8.md",
     "enlish study/ielts/16 Writing.md",
     "collage/Irvine Valley College.md",
     "collage/long beach/Long Beach Community Collage.md",
     "buying book.md",
-    "2025-04-11.md",
-    "Untitled 7.md",
     "Untitled 6 (1).canvas",
     "Untitled.canvas",
-    "Untitled.md",
     "Untitled (1).canvas",
-    "Untitled 2 (1).md",
     "Untitled 3.canvas",
-    "Untitled 1 (2).md",
     "Untitled 1.canvas",
-    "Untitled 6 (1).md",
-    "templates/Untitled.md",
-    "prepare for calamity/peoples/Untitled.md",
     "picture/boy_guitar.png",
     "prepare for calamity/transfer-student-profile.pdf",
     "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
