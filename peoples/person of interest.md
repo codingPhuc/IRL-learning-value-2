@@ -64,21 +64,32 @@ Bạn trai của chị kỳ kỳ và
 - list son tung 
 - chirst devil  gamer 
 - gamming youtuber like  valorant 
-## Nhumg mom of three  
-- she seem to like knitting thought the Facebook post  
-- when here on business visa and stay with her 3 children  
-	-  the age they were at was 12 year old , 5 year old and 1 year old 
-- she love the dog  
-- she seem  to be a person that say everything is fine when everything is not 
-- seem to be in distress every time her son talk back to her 
-- don't care about  other opinion on her 
-- today I made a bad joke about how men here like fat women 
-##  #my_wrong_doing 
-- the chicken I should have not eaten the whole chicken like that   , when they say something you do the opposite 
-- Vietnamese people like to hide under sincerity   , always think twice when they help you 
-- I need to be more pro active in your approach  
-- 
 
+
+**Summary:**
+
+**About Nhung:**
+
+- Nhung is a mother of three (children aged 12, 5, and 1) visiting on a business visa.
+- She seems to enjoy knitting (as seen on Facebook).
+- She loves dogs.
+- She tends to say everything is fine even when it's not.
+- She appears distressed when her son talks back.
+- She doesn't seem to care about others' opinions.
+- You made an inappropriate joke today about men liking fat women.
+
+**Reflections on Your Wrongdoing:**
+- You regret eating an entire chicken despite being told otherwise.
+- In Vietnamese culture, sincerity may sometimes mask true feelings; you should be cautious.
+- You need to be more proactive and communicate your problems more openly.
+- Pay closer attention when Nhung lectures her son, Tai.
+- Think before you speak, especially in sensitive situations.
+- When your mom makes a suggestion, it often actually means an expectation — clarify if it's really a suggestion.
+- When offered food, you should eat minimally and only when suggested.    
+
+
+
+Would you also like a slightly more condensed or even bullet-pointed version for easier study?
 ## family dog 
 - The bread is a chiquaqua  and chó  bắc kỳ 
 ## the young son  not wearing glasses   (Andi )
