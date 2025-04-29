@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "peoples/person of interest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golden West Community College"
+              "title": "person of interest"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Todo_question",
+                "query": "relation ship",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "peoples/person of interest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Golden West Community College"
+              "title": "Outline of person of interest"
             }
           }
         ],
@@ -227,8 +228,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "497e1e26f0794aa8",
   "lastOpenFiles": [
+    "collage/Golden  West/Golden West Community College.md",
     "financial resources and bank.md",
     "collage/Irvine Valley  2  transfer computer science.pdf",
     "collage/los angles 1  transfer electric.pdf",
@@ -239,7 +241,6 @@
     "collage/outline courses.md",
     "collage/El Camino College.md",
     "Todo what to bring and  buy.md",
-    "collage/Golden  West/Golden West Community College.md",
     "BOA.md",
     "Note todo.md",
     "charity  that interest me.md",

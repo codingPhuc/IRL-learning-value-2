@@ -73,6 +73,12 @@ Bạn trai của chị kỳ kỳ và
 - seem to be in distress every time her son talk back to her 
 - don't care about  other opinion on her 
 - today I made a bad joke about how men here like fat women 
+##  #my_wrong_doing 
+- the chicken I should have not eaten the whole chicken like that   , when they say something you do the opposite 
+- Vietnamese people like to hide under sincerity   , always think twice when they help you 
+- I need to be more pro active in your approach  
+- 
+
 ## family dog 
 - The bread is a chiquaqua  and chó  bắc kỳ 
 ## the young son  not wearing glasses   (Andi )
