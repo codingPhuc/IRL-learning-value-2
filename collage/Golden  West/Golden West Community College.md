@@ -95,10 +95,22 @@ good for  plan C
 https://www.goldenwestcollege.edu/student-equity/the-stand/index.html 
 good place to shop for groceries at no  charge low cost shopping  , and get free  food , you do not need to have a reservation they will just check if you are a student at golden west 
 
+
+
+
+
 #  facility   
+
+
 
 ## Clubs 
 
+###  contact 
+Dnanez@gwc.cccd.edu  
+
+### alpha grama sigma  
+https://www.goldenwestcollege.edu/campus-life/clubs/ags/index.html 
+counselor : "bolague1@gwc.cccd.edu" <bolague1@gwc.cccd.edu> 
 
 
 Thanks for the detailed goals—super helpful for filtering! Based on what you’re aiming for (STEM-focused transfer, strong extracurriculars, teaching goals, and some social and religious aspects), here’s a breakdown of **which clubs align best with your objectives**, and why:
@@ -108,6 +120,8 @@ Thanks for the detailed goals—super helpful for filtering! Based on what you�
 ### ✅ **Recommended Clubs**
 
 These clubs directly support your STEM/teaching/religious/social goals and can strengthen your application:
+club leader email 
+
 
 | **Club Name**                              | **Why It's a Good Fit**                                                                                                      | **Meeting Info**                                                  |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -225,7 +239,9 @@ Please contact them at
 Phone: 714-895-8146  
 Email: isp@gwc.cccd.edu
 Veronica
-They are also available by chat
+They are also available by chat  
+
+
 ## Other Info
 1. The proof of finance I need is about $27k.
 2. You can take as little as 12 units of class at Golden West.
@@ -246,7 +262,10 @@ you can only brow your book for like 2 hour at a time
 - [ ] do you have the part ranger parking pass ?  where you can park at different location ? 
 
 
+## IT help desk  
 
+phone number : 
++1 714 438 8111  
 ##  Student Services Center 
 
 
@@ -267,6 +286,12 @@ it currently is not possible to join a club at least that is what the counselor 
 
 
 # Cost Reduction
+
+##  seeing tuition  payment 
+[https://www.goldenwestcollege.edu/enrollment/admissions/web-schedule-bill/index.html](https://www.goldenwestcollege.edu/enrollment/admissions/web-schedule-bill/index.html)
+
+
+
 ### Scholarships
 [Scholarships](https://www.goldenwestcollege.edu/scholarships/index.html)
 
