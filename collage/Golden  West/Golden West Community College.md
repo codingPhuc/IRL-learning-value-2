@@ -270,7 +270,6 @@ phone number :
 
 
 You can get a student ID card from the Admissions & Records Department located in the Student Services Center.
-
 #Todo_question 
 - [ ] get your id card 
 ## book store 

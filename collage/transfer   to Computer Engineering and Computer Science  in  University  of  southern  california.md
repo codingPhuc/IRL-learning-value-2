@@ -1,5 +1,17 @@
 
 
+## transfer  GPA 
+### Determining Your Transfer GPA
+
+USC calculates your transfer GPA on the basis of your grades in all USC-transferable courses, including grades of D and below. Plus and minus grading is taken into account. Expired incompletes, unofficial withdrawals and missing grades are treated as an “F.” Credit/No Credit and Pass/No Pass marks are not included in the transfer GPA.USC does not honor other colleges’ academic “renewal” or “forgiveness” programs that permit students to improve a substandard grade. If you repeat a transferable course for which you earned a grade of D+ or lower, both grades will be included in your transfer GPA. If the grade on the first course was a C- or higher, only the first grade is included.
+
+Your transfer GPA is different from the GPA earned in courses you take at USC. The transfer GPA and your USC GPA are kept separate until it is time to determine if you are eligible to graduate and earn graduation honors, as described in the [USC Catalogue](https://catalogue.usc.edu/).
+
+
+
+
+
+
 ## subreddit for transfer 
 https://www.reddit.com/r/TransferToTop25/
 
