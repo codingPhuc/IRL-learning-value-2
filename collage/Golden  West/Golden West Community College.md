@@ -97,10 +97,7 @@ good place to shop for groceries at no  charge low cost shopping  , and get free
 
 
 
-
-
-#  facility   
-
+# extra activity  for transfer 
 
 
 ## Clubs 
@@ -198,6 +195,37 @@ Great question. When you're checking out a club—whether you're emailing an adv
 - Are there any dues or fees to join? x 
 - any club with high transfer rate ? 
     
+### 🎓 **Student Government at GWC**
+
+Student Government is a group of students working directly with the college to enhance campus life and represent the student body.
+
+#### Key Committees:
+
+- **Campus Life Committee**  
+    Organizes programs and life events (e.g., social events, snacks, student engagement).
+    
+- **Publicity Committee**  
+    Focuses on communication and marketing—promotes events and keeps students informed.
+    
+- **Student Advocacy Committee**  
+    Advocates for student rights and well-being, similar to a student judiciary. Helps plan activities and improve student experience.
+    
+
+🔗 [Student Government Info](https://www.goldenwestcollege.edu/campus-life/student-government/index.html)
+
+
+
+### 🏛️ **Local CSU Transfer Considerations**
+
+- **Cal State Fullerton** and **Cal State Long Beach** prioritize students from local feeder colleges such as **Golden West College**.
+    
+- Students from **Los Angeles** or **UCLA/UCI** may be lower priority for local CSU campuses.
+
+#  facility   
+##  instructor contact 
+
+[https://www.cccd.edu/employees/directories.html](https://www.cccd.edu/employees/directories.html) 
+
 
 ##  bus 
 [bus](https://octa.net/getting-around/bus/oc-bus/fares-and-passes/overview/community-college-pass/golden-west/)
@@ -207,6 +235,20 @@ Great question. When you're checking out a club—whether you're emailing an adv
 
 https://www.reddit.com/r/OregonStateUniv/comments/1en1q7h/is_it_difficult_for_an_international_graduate/ 
 https://www.schooljobs.com/careers/cccd/transferjobs?sort=Salary%7CAscending
+
+## 🌟 Opportunities for Student Involvement & Leadership
+
+### 🏫 **On-Campus Jobs & Leadership Roles**
+
+- **Various Campus Offices** regularly post open positions. These offices review applicants directly based on their needs.
+    
+- Check the **GWC Job Portal** and visit departments individually for the latest job openings.
+    
+- Some opportunities include working with the **Academic Success Center** (ASC) as a tutor:  
+    🔗 [Academic Success Center – Become a Tutor](https://www.goldenwestcollege.edu/asc/index.html)
+    
+
+
 ## Health  facility    
 
 
@@ -278,9 +320,6 @@ they  said that it is best to buy from then since the book the professor request
 https://goldenwestcollege.libguides.com/oer/students#s-lg-box-21028906 
 text book that have the 0 dollar  icon ![Zero Cost Digital Textbooks](https://ssb-prod.ec.cccd.edu/wtlgifs/book-icon.png "Zero Cost Digital Textbooks")  mean that they cost nothing and can have a pdf file to show the information of the text book  
 there will also be a link  for the courses  that are there with the material ,  so if you have trouble finding the material you should click on the link whenever you register for courses 
-
-##  joining  club 
-it currently is not possible to join a club at least that is what the counselor say ?  you can try  contacting club member to see whether they are qualify or not ? 
 
 
 
@@ -354,17 +393,23 @@ there will be  an even
 - [x] Where is the scholarship for metrics in Golden West?
 - [x] Will joining a club increase my metrics?
 - [x] Can I transfer to another community college?
-- [ ] ask  why  is it that he get to take  community  collage again  ? what is  his legal status  
+- [x] ask  why  is it that he get to take  community  collage again  ? what is  his legal status    
+	- [x] he  retack community collage  a bunch of time  
 	- [x] can you study major forever  to stay in the USA  ? 
 - [x] ask  Tai  about his  bus  path  how can  you travel  for free on the bus   
-- [ ]  ask for does volunteer help when considering admission 
-- [ ] what type of volunteer   ?
+- [ ]  ask for does volunteer help when considering admission you need to ask the counselor  
+- [ ] what type of volunteer   ? you need to ask the immigrant advisor  
 - [ ] how does point scoring  work in university   
 - [ ] the timely care health app  is not good right now  so try again latter  
-- [ ] Why is my email not receiving message from third party  ?  
+- [x] Why is my email not receiving message from third party  ?   the email will be activated  1 week before class time 
+- [x] how can I see past class material? for example the past spring material so that I can see it before  entering the class 
+	![[Semester at golden  West fall 2025#🗓️ Fall 2025 (14 Credits)]]
+
+
+
 ##  question to find out 
 - [x] which department should you go for general education 
-- [ ] how to form relationship with collage kid here ?  
+- [x] how to form relationship with collage kid here ?  
 ## question to ask student 
 - [x] did you  transfer  to another community collage ?  
 	- [x] if you had  transfer  , what  are the most  important thing school consider  for transfer  
@@ -372,7 +417,8 @@ there will be  an even
 - [x] are you a  stem major ? 
 	- [ ] if you are a stem major which teacher are the most difficult and which teacher are easy 
 	- [ ] how do you submit your lab assignment  , do teacher require you to enter the book code in order to submit the lab assignment 
-- [ ] do  teacher  monitor student and strict with copyrighted material   
+- [ ] do  teacher  monitor student and strict with 
+- [ ] copyrighted material   
 - [ ] are you a computer science  major 
 	- [ ] if you are  where you  able to access the github free student gift bag ? 
 		- [ ] if you did what  proof did you show to prove to github
