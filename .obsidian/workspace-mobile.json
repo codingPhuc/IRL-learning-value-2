@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note todo.md",
+                "file": "university/recomentded university for embedded.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note todo"
+              "title": "recomentded university for embedded"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Untitle",
+            "query": "Texas ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -151,15 +151,31 @@
   },
   "active": "879e8ab014ed2697",
   "lastOpenFiles": [
-    "/peoples/person of interest.md",
-    "/peoples",
-    "/daily note/2025-05-02.md",
-    "daily note/2025-05-02.md",
+    "cyber security.md",
+    "daily note/2025-05-04.md",
+    "picture to chanage/Pasted image 20250506105740.png",
+    "picture to chanage",
+    "Shopping list.md",
+    "/daily note/2025-05-04.md",
+    "/cyber security.md",
+    "/picture to chanage/Pasted image 20250506105740.png",
+    "/jobs/DSP.md",
+    "/jobs",
+    "/daily note/2025-05-07.md",
+    "daily note/2025-05-07.md",
     "/daily note",
     "/collage/transfer   to Computer Engineering and Computer Science  in  University  of  southern  california.md",
     "/collage/Golden  West/Golden West Community College.md",
     "/collage/Golden  West",
     "/collage",
+    "/career path.md",
+    "/Shopping list.md",
+    "/picture to chanage",
+    "Note todo.md",
+    "/peoples/person of interest.md",
+    "/peoples",
+    "/daily note/2025-05-02.md",
+    "daily note/2025-05-02.md",
     "collage/Golden  West/Golden West Community College.md",
     "Air port.md",
     "BOA.md",
@@ -170,22 +186,8 @@
     "/Untitled 8.md",
     "/cheap stuff.md",
     "/charity  that interest me.md",
-    "/buying book.md",
-    "/enlish study/ielts/16 Writing.md",
     "/enlish study/ielts",
     "/enlish study",
-    "/collage/long beach/Long Beach Community Collage.md",
-    "/collage/long beach",
-    "/Books (1)",
-    "/Books",
-    "Untitled 7.md",
-    "/Untitled 1 (2).md",
-    "Untitled 1 (2).md",
-    "Note todo.md",
-    "/templates/Untitled.md",
-    "/templates",
-    "basic skill/obsidian git bug.md",
-    "prepare for calamity/What to bring.md",
-    "prepare for calamity/Air port.md"
+    "/collage/long beach"
   ]
 }
