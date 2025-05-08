@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "daily note/2025-05-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Golden West Community College"
+              "title": "Outline of 2025-05-07"
             }
           }
         ],
@@ -227,10 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14f4fe244931288f",
+  "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
-    "daily note/2025-05-07.md",
     "collage/Golden  West/Golden West Community College.md",
+    "daily note/2025-05-07.md",
     "peoples/person of interest.md",
     "collage/Golden  West/Semester at golden  West fall 2025.md",
     "collage/Golden  West/Semester at golden  West.md",
