@@ -90,10 +90,9 @@ làm nhiều bài viết về học ở mỹ # Part 1 - làm nghề gì khi đi 
 u/GaoCanJump
 
 
-
-
 https://www.immi-usa.com/h1b-visa/h1b-visa-for-teachers/ 
 h1b for teacher 
+
 
 
 
