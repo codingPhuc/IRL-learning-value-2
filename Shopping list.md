@@ -1,7 +1,8 @@
 
-- [ ]   pumice stone 
+- [ ]  pumice stone 
 - [ ] acer laptop fan  
-- [ ] screw driver kit  for cleaning 
+- [ ] screw driver kit  for cleaning  
+- [ ] new mouse  
 
 
 
