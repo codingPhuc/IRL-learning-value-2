@@ -11,7 +11,7 @@ diversify
 - [x] create a PayPal account for bank of America 
 contact the person that give you your bank of America card an tell her 
 - [x] figure out how  money can be send from Europe to America  ask the bank employee 
-- [ ] what is Zello and how can you used it  ?
+- [x] what is Zello and how can you used it  ?
 - [ ] how to open a credit  account > 
 
 ##  Todo for technology 
@@ -37,7 +37,48 @@ contact the person that give you your bank of America card an tell her
 # ![[Long Beach Community Collage#Todo_question]]
 
 
+
+
+
+
 # Todo relationship 
 ![[person of interest#Todo for living circumstances]]
 
-- [ ] "Nếu ngày xưa anh hai với chị ba được cha mẹ lo đầy đủ để có gia đình ổn định như bây giờ, thì em nghĩ chuyện phụ lại cho cha mẹ vài trăm đồng mỗi tháng không phải là điều quá khó. Nhưng nếu hiện tại anh hai chị ba không thể hỗ trợ được thì em cũng không xin nữa. Cha mẹ nói vẫn lo được cho em. Nếu anh hai chị ba muốn gửi thì em cảm ơn, còn không gửi cũng không sao."
+- [x] "Nếu ngày xưa anh hai với chị ba được cha mẹ lo đầy đủ để có gia đình ổn định như bây giờ, thì em nghĩ chuyện phụ lại cho cha mẹ vài trăm đồng mỗi tháng không phải là điều quá khó. Nhưng nếu hiện tại anh hai chị ba không thể hỗ trợ được thì em cũng không xin nữa. Cha mẹ nói vẫn lo được cho em. Nếu anh hai chị ba muốn gửi thì em cảm ơn, còn không gửi cũng không sao."
+
+
+#Todo_question 
+- [x] Where do i geg my hair cut and such 
+
+- [x] https://www.wigsforkids.org/locations/little-clips-phenix-salon-suites/ 
+
+- [x] Where do I get cheap sampo  [[cheap stuff]]
+
+- [ ] How to break the ice with friend 
+
+- [ ] How should i approach relationship 
+
+- [ ] Pill process for insurence I need to make an apoinment for experience first 
+
+- [x] Send email about club member and what their club is about  
+	- [x] [[Golden West Community College#joining club]]
+
+- [ ] Where to get cheap book can you buy it back from other people  
+	- [x] [[buying book]]
+
+- [ ] Volenteer help you with your university profile try to volenteer  [[charity  that interest me]]
+
+- [x] Tell your mom about the bill you have to pay  
+
+- [x] Tell the bank of america to give you a saving account
+	- [x] waiting for a response  
+	- [ ] research about saving account 
+	- [ ] Make an apointment though text
+- [ ] Noi chi nhung mua kem danh rang 3 mau 
+- [ ] Learn about cpu architecture 
+- [ ] Firgure out a way to text while talking like speach text 
+- [ ] AI voice to speak out the text 
+
+
+
+Nhung thich an mo k thich an  nat

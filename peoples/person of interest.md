@@ -155,19 +155,19 @@ thuốc  turmeric  1 cái  40$  5 cái  200$
 #  Todo for living circumstances  
 
 ## my family 
-- [ ] tell your mom  about  wanting xiumai? 
+- [x] tell your mom  about  wanting xiumai? 
 
 
 ##  di  phuong  
-- [ ] tell your mom  about  what food  di  phuong like  ? 
+- [x] tell your mom  about  what food  di  phuong like  ? 
 ### Tai elder son
 
 - [ ] learn about Kpop and what Kpop Idol he like 
 - [ ] learn  about  valorant  
 ### Nhung mom of three
 
-- [ ] learn about her interest in nursing
-- [ ] learn about her knitting interest
+- [x] learn about her interest in nursing
+- [x] learn about her knitting interest
 ### the other son
 
 - [ ] learn about robox
