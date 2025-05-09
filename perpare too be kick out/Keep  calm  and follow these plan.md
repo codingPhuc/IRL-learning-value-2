@@ -2,7 +2,7 @@
 #  finding places to rent 
 
 1.  she kick me out of the house 
-find a rental  places  on [[rent]] 
+find a rental  places  on [[perpare too be kick out/rent]] 
 - how can you move all your stuff their 
 - how which moving service do you used 
 - talk to people about this

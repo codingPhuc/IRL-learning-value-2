@@ -1,3 +1,6 @@
+# #criterial 
+
+
 You're already covering many of the **key factors** to consider when evaluating a **university or program**, especially if you're thinking of transferring or choosing between offers. Here's a more complete list, building on yours:
 
 ---
