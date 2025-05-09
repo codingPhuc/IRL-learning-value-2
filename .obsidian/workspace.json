@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transfer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -246,7 +246,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd9fbf26f98b5740",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
     "collage/School to transfer to criterial.md",
     "collage/Rent.md",
