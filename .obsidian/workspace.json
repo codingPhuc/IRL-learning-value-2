@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "Shopping list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Golden West Community College"
+              "title": "Outline of Shopping list"
             }
           }
         ],
@@ -246,11 +246,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5c0a5f74d130d73",
+  "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
+    "collage/Golden  West/Golden West Community College.md",
     "Shopping list.md",
     "daily note/2025-05-10.md",
-    "collage/Golden  West/Golden West Community College.md",
     "jobs/DSP.md",
     "financial resources and bank.md",
     "collage/Irvine Valley College.md",
