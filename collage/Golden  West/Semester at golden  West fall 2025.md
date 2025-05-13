@@ -1252,10 +1252,14 @@ Thanks for the clarification! Let's update the **MATH G180** class in all three 
 
 ### 💻 Focus: Maximize online/hybrid, minimize campus time (meet 9 in-person unit rule)
 
-- **ENGL C1000 – Abraham Tarango**  
-    🧑‍🏫 _Rating: 4.7, Diff: 2.2 → ✅ OK_  
-    📍 Hybrid | Tue/Thu 2:30 PM – 3:50 PM | CRN 22741
-    
+
+Elizabeth Shiroishi
+- **CRN:** 23185  
+    **Format:** HY (Hybrid)  
+    **Dates:** 10/20 – 12/13 (8 Weeks)  
+    **Online Time:** 6.8 Hrs/Wk  
+    **In-Person:** Wed | 6:00 PM – 8:05 PM  
+    **Room:** Language Arts 105
 - **MATH G180 – Antony Hoang**  
     🧑‍🏫 _Rating: 4.5, Diff: 3.2 → ✅ Ratio OK_  
     📍 Hybrid | CRN 23464  
@@ -1332,3 +1336,100 @@ Let me know if you want to:
 - Export this to an **Obsidian-ready format**.
     
 - Get a printable PDF version.
+
+
+
+## ✅ Proposed Fall 2025 Schedule (Meets 12 Units, 9 In-Person Minimum)
+
+### 📘 **ENGL C1000 – Academic Reading and Writing**
+
+**Instructor:** Elizabeth Shiroishi  
+**CRN:** 23185 | **Units:** 4  
+**Format:** Hybrid (8 Weeks: Oct 20 – Dec 13)
+
+- 🕒 Online: 6.8 Hrs/Wk asynchronous
+    
+- 🏫 In-Person: **Wednesdays | 6:00 PM – 8:05 PM**
+    
+- 📍 Room: Language Arts 105
+    
+- 🧑‍🏫 Rating: 5.0 | Difficulty: 2.5 ✅
+    
+
+---
+
+### 📐 **MATH G180 – Calculus I**
+
+**Instructor:** Antony Hoang  
+**CRN:** 23464 | **Units:** 4  
+**Format:** Hybrid
+
+- 🖥️ Online: Weekly asynchronous lectures
+    
+- 🏫 In-Person: **3 Fridays only** → 10/3, 11/7, 12/12
+    
+- 🕒 Time: 11:00 AM – 1:00 PM
+    
+- 🧑‍🏫 Rating: 4.5 | Difficulty: 3.2 ✅
+    
+
+---
+
+### 🔬 **BIOL G100 – Introduction to Biology**
+
+**Instructor:** Nikki Plaster  
+**CRN:** 21327 | **Units:** 4  
+**Format:** In-Person
+
+- 🏫 Class Times: **Mon/Wed | 9:20 AM – 12:30 PM**
+    
+- 📍 Room: TBD
+    
+- 🧑‍🏫 Rating: Good reviews from students (hands-on lab style)
+    
+
+---
+
+### 💻 **CS G132 – C++ Programming, 1st Semester**
+
+**Instructor:** Cristian Racataian  
+**CRN:** 21363 | **Units:** 3  
+**Format:** Fully Online (16 Weeks)
+
+- 🖥️ Online: ~5.6 Hrs/Wk asynchronous (2.6 hrs scheduled + 3 hrs arranged)
+    
+- 📍 Location: Golden West ONLINE
+    
+- 🧑‍🏫 Rating: Solid for online learners (project-driven)
+    
+
+---
+
+### 📊 Weekly Breakdown
+
+| Day        | Classes                                       | Format          |
+| ---------- | --------------------------------------------- | --------------- |
+| **Mon**    | BIOL G100 – 9:20 AM to 12:30 PM               | In-Person       |
+| **Wed**    | BIOL G100 – 9:20 AM to 12:30 PM               | In-Person       |
+|            | ENGL C1000 – 6:00 PM to 8:05 PM (10/20+)      | In-Person       |
+| **Fri**    | MATH G180 – 11:00 AM to 1:00 PM (3 days only) | In-Person       |
+| **Online** | MATH G180 + C++ + ENGL (asynchronous)         | Online / Hybrid |
+
+---
+
+### 🎯 Summary
+
+- ✅ **Total Units:** 15
+    
+- ✅ **In-Person Units:** 9
+    
+- ✅ **Meets F1 Visa Requirement**
+    
+- 🔁 **Flexible Online Load**
+    
+- 🧠 **Good professor ratings** across the board
+    
+
+---
+
+Let me know if you'd like an alternate English or Bio section, or a visual calendar layout!
