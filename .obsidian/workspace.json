@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collage/Golden  West/Semester at golden  West fall 2025.md",
+                "file": "university/University of Southern California.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semester at golden  West fall 2025"
+              "title": "University of Southern California"
             }
           },
           {
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stone",
+                "query": "usc",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Semester at golden  West fall 2025.md",
+                "file": "university/University of Southern California.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Semester at golden  West fall 2025"
+              "title": "Outline of University of Southern California"
             }
           }
         ],
@@ -196,10 +196,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "981c772747a5cc1e",
+  "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
-    "collage/Golden  West/Semester at golden  West.md",
     "collage/Golden  West/Semester at golden  West fall 2025.md",
+    "collage/Golden  West/Semester at golden  West.md",
     "collage/Golden  West/Golden West Community College.md",
     "collage/Golden  West/long beach/spring.md",
     "collage/Golden  West/Untitled.md",
