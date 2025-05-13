@@ -574,3 +574,124 @@ Based on your course plan and priorities, here's a breakdown of **three optimize
 ---
 
 Would you like me to build an Obsidian version of one of these schedules, or help you register for a specific CRN?
+
+
+
+Thanks for the clarification! Let's update the **MATH G180** class in all three schedule options with the **correct and optimized sections**, including real instructors and improved evaluations. Here's the **revised version**:
+
+---
+
+## ✅ Option 1: **Best Chance of Getting an A**
+
+### 🧠 Focus: Best professors with favorable diff-to-rating ratios
+
+- **ENGL C1000 – Ayesha Zia**  
+    🧑‍🏫 _Rating: 5, Diff: 1.5 → ✅ Ratio OK (1.5 < 5 × 1.35)_  
+    📍 In-Person | CRN 21378 | Mon/Wed 8:50 AM – 10:55 AM
+    
+- **MATH G180 – Shawn Taylor**  
+    🧑‍🏫 _Rating: ~4.3, Diff: ~3.5 → ✅ Ratio OK_  
+    📍 In-Person | CRN 21570 | Mon/Wed 2:30 PM – 4:35 PM
+    
+- **BIOL G100 – Nikki Plaster**  
+    🧑‍🏫 _Rating: 4.1, Diff: 3.3 → ✅ Ratio OK_  
+    📍 In-Person | CRN 22481 | Tue/Thu 9:20 AM – 12:30 PM
+    
+- **ENGR G101 – Staff**  
+    📍 In-Person | CRN 24183 | Tue 6:00 PM – 8:10 PM
+    
+
+**📅 Weekly Schedule:**
+
+- Mon/Wed: ENGL 8:50–10:55, MATH 2:30–4:35
+    
+- Tue/Thu: BIOL 9:20–12:30
+    
+- Tue: ENGR 6:00–8:10
+    
+
+---
+
+## 🕓 Option 2: **Best Time-Saver (Least Time On Campus)**
+
+### 💻 Focus: Maximize online/hybrid, minimize campus time (meet 9 in-person unit rule)
+
+- **ENGL C1000 – Elizabeth Shiroishi**  
+    🧑‍🏫 _Rating: 5, Diff: 2.5 → ✅ Ratio OK_  
+    💻 Fully Online | CRN 22342
+    
+- **MATH G180 – Antony Hoang**  
+    🧑‍🏫 _Rating: 4.5, Diff: 3.2 → ✅ Ratio OK_  
+    📍 Hybrid | CRN 23464  
+    🧭 Online + 3 Fridays: 10/3, 11/7, 12/12 from 11:00 AM – 1:00 PM
+    
+- **BIOL G100 – Nikki Plaster**  
+    🧑‍🏫 In-Person | CRN 21327 | Mon/Wed 9:20 AM – 12:30 PM
+    
+- **ENGR G101 – Staff**  
+    📍 In-Person | CRN 24183 | Tue 6:00 PM – 8:10 PM
+    
+
+**📅 In-Person Units:**
+
+- Math (4), Bio (4), Engr (2) → ✅ **10 units in person**
+    
+- Online work flexible; only **3 on-campus Fridays** for Math
+    
+
+---
+
+## 🧘 Option 3: **Hybrid Balance (Mild In-Person, Flexible Online)**
+
+### 🎯 Focus: Blend of good professors, lower workload, and time flexibility
+
+- **ENGL C1000 – Abraham Tarango**  
+    🧑‍🏫 _Rating: 4.7, Diff: 2.2 → ✅ OK_  
+    📍 Hybrid | Tue/Thu 2:30 PM – 3:50 PM | CRN 22741
+    
+- **MATH G180 – Gita Alemansour**  
+    🧑‍🏫 _Rating: ~4.0, Diff: ~3.8 → ✅ OK, but faster pace_  
+    📍 In-Person | CRN 21530 | Tue/Thu 11:10 AM – 1:15 PM
+    
+- **BIOL G100 – Krystle Shamai**  
+    🧑‍🏫 _Rating: 4.3, Diff: 3.3 → ✅ OK_  
+    📍 Hybrid | CRN 22490 | Thu 2:30 PM – 5:40 PM
+    
+- **ENGR G101 – Staff**  
+    📍 In-Person | CRN 24183 | Tue 6:00 PM – 8:10 PM
+    
+
+**📅 Schedule Summary:**
+
+- Tue/Thu: MATH 11:10–1:15, ENGL 2:30–3:50, ENGR 6–8:10
+    
+- Thu: BIOL 2:30–5:40 PM
+    
+- Remaining work online (asynchronous)
+    
+
+---
+
+## 📚 Book Info (How to Get Textbooks)
+
+[No change – same steps apply using CRN or ZTC filter.]
+
+---
+
+## 🚦Final Recommendation (Updated)
+
+|Preference|Take This Option|Reason|
+|---|---|---|
+|🧠 Easy A Goal|**Option 1 (Shawn Taylor)**|Great balance of strong teachers and predictable in-person structure|
+|💻 Save Time|**Option 2 (Antony Hoang)**|Mostly online with flexible schedule, light campus presence|
+|⚖️ Balanced Lifestyle|**Option 3 (Gita Alemansour)**|Mix of structure and flexibility, all professors solid|
+
+---
+
+Let me know if you want to:
+
+- Register for any of these CRNs.
+    
+- Export this to an **Obsidian-ready format**.
+    
+- Get a printable PDF version.
