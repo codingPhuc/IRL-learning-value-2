@@ -102,7 +102,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd9fbf26f98b5740",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "collage/Golden  West/Semester at golden  West.md",
     "collage/Golden  West/Semester at golden  West fall 2025.md",
