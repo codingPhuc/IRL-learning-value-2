@@ -451,3 +451,126 @@ Would you like me to help pick one based on your personal preferences (schedule,
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Status|I|Z|CRN|Cred|Meeting Time|   |   |   |   |   |   |   |Location|Cap|Act|WL  <br>Cap|WL  <br>Act|Instructor|Date|Weeks|
 |**OPEN**|02||24183|2.00||T||||||06:00pm - 08:10pm|GWC Mathematics & Science Ctr 112|36|2|30|0|Staff|08/25-12/13|16|
+
+
+Based on your course plan and priorities, here's a breakdown of **three optimized schedules** for Fall 2025 at **Golden West College**, each tailored to a different goal:
+
+---
+
+## ✅ Option 1: **Best Chance of Getting an A**
+
+### 🧠 Focus: Best professors with favorable diff-to-rating ratios
+
+- **ENGL C1000 – Ayesha Zia**  
+    🧑‍🏫 _Rating: 5, Diff: 1.5 → ✅ Ratio OK (1.5 < 5 × 1.35)_  
+    📍 In-Person | CRN 21378 | Mon/Wed 8:50 AM – 10:55 AM
+    
+- **MATH G180 – Staff (Any of 3 sections)**  
+    🤷‍♂️ No professor data, but no one flagged as very difficult  
+    📍 Recommend Mon/Wed 11:10 AM – 1:15 PM (CRN 22200)
+    
+- **BIOL G100 – Nikki Plaster**  
+    🧑‍🏫 _Rating: 4.1, Diff: 3.3 → ✅ Ratio OK (3.3 < 4.1 × 1.35)_  
+    📍 In-Person | CRN 22479 | Mon/Wed 9:20 AM – 12:30 PM  
+    ❗ Conflict with ENGL C1000 — pick **Tue/Thu** section (CRN 22481)
+    
+- **ENGR G101 – Staff**  
+    📍 In-Person | CRN 24183 | Tue 6:00 PM – 8:10 PM
+    
+
+**📅 Weekly Schedule:**
+
+- Mon/Wed: Math 11:10–1:15
+    
+- Tue/Thu: Bio 9:20–12:30
+    
+- Tue: ENGR 6:00–8:10
+    
+- ENGL: Zia’s online CRN 21693 as a fallback if conflict arises
+    
+
+---
+
+## 🕓 Option 2: **Best Time-Saver (Least Time On Campus)**
+
+### 💻 Focus: Maximize online/hybrid, minimize campus time (meet 9 in-person unit rule)
+
+- **ENGL C1000 – Elizabeth Shiroishi**  
+    🧑‍🏫 _Rating: 5, Diff: 2.5 → ✅ Ratio OK (2.5 < 5 × 1.35)_  
+    💻 Fully Online | CRN 22342 (low weekly hours)
+    
+- **MATH G180 – Staff**  
+    🧍‍♂️ Required in-person | Recommend Tue/Thu 11:10 AM – 1:15 PM (CRN 23021)
+    
+- **BIOL G100 – Nikki Plaster**  
+    🧑‍🏫 In-Person | CRN 21327 | Mon/Wed 9:20 AM – 12:30 PM
+    
+- **ENGR G101 – Staff**  
+    📍 In-Person | CRN 24183 | Tue 6:00 PM – 8:10 PM
+    
+
+**📅 In-Person Units:**
+
+- Math (4), Bio (4), Engr (2) → ✅ **10 units in person**
+    
+
+**✅ All other work asynchronous or hybrid to reduce campus visits.**
+
+---
+
+## 🧘 Option 3: **Hybrid Balance (Mild In-Person, Flexible Online)**
+
+### 🎯 Focus: Blend of good professors, lower workload, and time flexibility
+
+- **ENGL C1000 – Abraham Tarango**  
+    🧑‍🏫 _Rating: 4.7, Diff: 2.2 → ✅ OK (2.2 < 4.7 × 1.35)_  
+    📍 Hybrid | Tue/Thu 2:30 PM – 3:50 PM (CRN 22741)
+    
+- **MATH G180 – Staff**  
+    📍 Recommend Tue/Thu 11:10 AM – 1:15 PM (CRN 23021)
+    
+- **BIOL G100 – Krystle Shamai**  
+    🧑‍🏫 _Rating: 4.3, Diff: 3.3 → ✅ OK (3.3 < 4.3 × 1.35)_  
+    📍 Hybrid | CRN 22490 | Thu 2:30 PM – 5:40 PM
+    
+- **ENGR G101 – Staff**  
+    📍 In-Person | Tue 6:00 PM – 8:10 PM
+    
+
+**📅 Schedule Summary:**
+
+- Tue/Thu: Math 11:10–1:15, English 2:30–3:50, Engr 6–8:10
+    
+- Thu: Bio Hybrid 2:30–5:40 PM
+    
+- Online portions spread over week (asynchronous)
+    
+
+---
+
+## 📚 Book Info (How to Get Textbooks)
+
+1. **Search by CRN** on the [GWC Bookstore site](https://www.goldenwestcollege.edu/bookstore/)
+    
+2. Use **ZTC indicator** to check for Zero Textbook Cost classes:
+    
+    - Biology (Plaster & Fitzpatrick) often ZTC
+        
+    - Confirm ZTC icon in class listing
+        
+3. Check professors’ Canvas page, or email them by CRN for early access.
+    
+
+---
+
+## 🚦Final Recommendation
+
+|Preference|Take This Option|Reason|
+|---|---|---|
+|🧠 Easy A Goal|**Option 1**|Best professors with favorable workload|
+|💻 Save Time|**Option 2**|Mostly online, efficient scheduling|
+|⚖️ Balanced Lifestyle|**Option 3**|Good teachers, manageable in-person time|
+
+---
+
+Would you like me to build an Obsidian version of one of these schedules, or help you register for a specific CRN?
