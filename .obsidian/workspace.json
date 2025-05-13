@@ -6,7 +6,6 @@
       {
         "id": "ddfa31cfb1a1060b",
         "type": "tabs",
-        "dimension": 36.32385120350109,
         "children": [
           {
             "id": "dd9fbf26f98b5740",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collage/explore the  campus.md",
+                "file": "collage/Golden  West/Semester at golden  West fall 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "explore the  campus"
+              "title": "Semester at golden  West fall 2025"
             }
           },
           {
@@ -51,56 +50,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "11e30da700cdcc99",
-        "type": "tabs",
-        "dimension": 63.67614879649891,
-        "children": [
-          {
-            "id": "14f4fe244931288f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Golden West Community College"
-            }
-          },
-          {
-            "id": "e5c0a5f74d130d73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Golden West Community College"
-            }
-          },
-          {
-            "id": "72d0221f39bf9d07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collage/Golden  West/Semester at golden  West.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semester at golden  West"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/explore the  campus.md",
+                "file": "collage/Golden  West/Semester at golden  West fall 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of explore the  campus"
+              "title": "Outline of Semester at golden  West fall 2025"
             }
           }
         ],
@@ -246,10 +195,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "dd9fbf26f98b5740",
   "lastOpenFiles": [
-    "Shopping list.md",
+    "collage/Golden  West/Semester at golden  West.md",
     "collage/Golden  West/Golden West Community College.md",
+    "collage/Golden  West/Semester at golden  West fall 2025.md",
+    "collage/Golden  West/Untitled.md",
+    "collage/explore the  campus.md",
+    "Shopping list.md",
     "daily note/2025-05-10.md",
     "jobs/DSP.md",
     "financial resources and bank.md",
@@ -268,16 +221,12 @@
     "collage/Untitled/Untitled.md",
     "collage/Untitled",
     "daily note/2025-05-07.md",
-    "collage/Golden  West/Semester at golden  West.md",
     "peoples/person of interest.md",
-    "collage/Golden  West/Semester at golden  West fall 2025.md",
     "perpare too be kick out/Van life/info 1.md",
     "career path.md",
     "jobs/career path.md",
-    "cyber security.md",
     "picture to chanage/Pasted image 20250506105740.png",
     "picture to chanage",
-    "daily note/2025-05-04.md",
     "collage/Irvine Valley  2  transfer computer science.pdf",
     "collage/el collage 2  transfer computer science.pdf",
     "Untitled 6 (1).canvas",
