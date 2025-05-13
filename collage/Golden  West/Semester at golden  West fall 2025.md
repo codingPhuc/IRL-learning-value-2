@@ -28,23 +28,6 @@ Here’s your course plan formatted cleanly for Obsidian, using Markdown-friendl
 
 ---
 
-### 🗓️ Spring 2026 (15 Credits)
-
-- **MATH G185 – Calculus 2**  
-    📚 _Credits: 4.0_
-    
-- **PHYS G185 – Calculus-Based Physics: Mechanics**  
-    🧪 _Credits: 4.0_
-    - **ENGL G110 – Critical Thinking, Literature**  
-    📚 _Credits: 4.0_
-    
-- **ART G100 – Introduction To Art** _(or other Arts)_  
-    🎨 _Credits: 3.0_
-    
-
-
----
-
 ### 📌 Comments & Reminders
 
 - ✅ **Meet with counselor** to confirm **transfer plan**
@@ -66,7 +49,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👩‍🏫 **Elaine Folayan**
+### 👩‍🏫 **Elaine Folayan** rating 3.7  diff 1.9 
 
 - **CRN:** 22351  
     **Format:** 72 (Fully Online)  
@@ -83,7 +66,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👨‍🏫 **Abraham Tarango**
+### 👨‍🏫 **Abraham Tarango** rating 4.7   diff 2.2 
 
 - **CRN:** 22741  
     **Format:** HY (Hybrid)  
@@ -107,7 +90,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👩‍🏫 **Elizabeth Shiroishi**
+### 👩‍🏫 **Elizabeth Shiroishi**  rating 5  diff 2.5 
 
 - **CRN:** 22746  
     **Format:** 72 (Fully Online)  
@@ -137,8 +120,8 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👨‍🏫 **Ryan Sandowicz**
-
+### 👨‍🏫 **Ryan Sandowicz** rating 1.9 diff 4.1
+ 
 - **CRN:** 22744  
     **Format:** 72 (Fully Online)  
     **Dates:** 10/20 – 12/13 (8 Weeks)  
@@ -154,7 +137,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👩‍🏫 **Leticia Valente**
+### 👩‍🏫 **Leticia Valente** ? 
 
 - **CRN:** 23143  
     **Format:** HY (Hybrid)  
@@ -191,7 +174,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👩‍🏫 **Tori Rogers**
+### 👩‍🏫 **Tori Rogers** rating 4.2 diff 2.8 
 
 - **CRN:** 21382  
     **Format:** HY (Hybrid)  
@@ -210,7 +193,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👨‍🏫 **Jamie Buehler**
+### 👨‍🏫 **Jamie Buehler** rating 4.4 diff 2.9
 
 - **CRN:** 21377  
     **Format:** 02 (In-Person)  
@@ -227,7 +210,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👨‍🏫 **Steven Nesbitt**
+### 👨‍🏫 **Steven Nesbitt** rating 3.4 diff 2.5 
 
 - **CRN:** 21695  
     **Format:** 72 (Fully Online)  
@@ -238,7 +221,7 @@ Would you like this converted to an Obsidian checklist or Kanban-style task boar
 
 ---
 
-### 👩‍🏫 **Ayesha Zia**
+### 👩‍🏫 **Ayesha Zia** rating 5 diff 1.5
 
 - **CRN:** 21378  
     **Format:** 02 (In-Person)  
@@ -287,12 +270,12 @@ If you'd like, I can help you narrow this down based on preferred **instructor**
 ## math 
 
 
-|Status|CRN|Units|Days|Time|Room|Instructor|Seats (Cap/Act)|Waitlist (Cap/Act)|Dates|Weeks|
-|---|---|---|---|---|---|---|---|---|---|---|
-|**OPEN**|22200|4.00|Mon, Wed|11:10 AM – 1:15 PM|GWC Math & Science Ctr 244|**Staff**|36 / 12|10 / 0|08/25–12/13|16|
-|**OPEN**|23021|4.00|Tue, Thu|11:10 AM – 1:15 PM|GWC Math & Science Ctr 117|**Staff**|36 / 4|10 / 0|08/25–12/13|16|
-|**WAITLISTED**|21432|4.00|Tue, Thu|2:30 PM – 4:35 PM|TBA|**Gita Alemansour**|64 / 64|10 / 3|08/25–12/13|16|
-|**OPEN**|21571|4.00|Mon, Wed|8:55 AM – 11:00 AM|GWC Math & Science Ctr 116|**Staff**|36 / 5|10 / 0|08/25–12/13|16|
+| Status         | CRN   | Units | Days     | Time               | Room                       | Instructor          | Seats (Cap/Act) | Waitlist (Cap/Act) | Dates       | Weeks |
+| -------------- | ----- | ----- | -------- | ------------------ | -------------------------- | ------------------- | --------------- | ------------------ | ----------- | ----- |
+| **OPEN**       | 22200 | 4.00  | Mon, Wed | 11:10 AM – 1:15 PM | GWC Math & Science Ctr 244 | **Staff**           | 36 / 12         | 10 / 0             | 08/25–12/13 | 16    |
+| **OPEN**       | 23021 | 4.00  | Tue, Thu | 11:10 AM – 1:15 PM | GWC Math & Science Ctr 117 | **Staff**           | 36 / 4          | 10 / 0             | 08/25–12/13 | 16    |
+| **WAITLISTED** | 21432 | 4.00  | Tue, Thu | 2:30 PM – 4:35 PM  | TBA                        | **Gita Alemansour** | 64 / 64         | 10 / 3             | 08/25–12/13 | 16    |
+| **OPEN**       | 21571 | 4.00  | Mon, Wed | 8:55 AM – 11:00 AM | GWC Math & Science Ctr 116 | **Staff**           | 36 / 5          | 10 / 0             | 08/25–12/13 | 16    |
 
 ---
 
@@ -339,7 +322,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **1. Nikki Plaster**
+### **1. Nikki Plaster** rating 4.1 diff 3.3
 
 - **Format**: In-person
     
@@ -362,7 +345,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **2. MaryLynne Lamantia**
+### **2. MaryLynne Lamantia** rating 4.6 diff 3.1
 
 - **Format**: Fully Online (CRNs: 22480, 21328)
     
@@ -377,7 +360,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **3. Krystle Shamai**
+### **3. Krystle Shamai** rating 4.3 diff 3.3
 
 - **Format**: Hybrid & Online
     
@@ -396,7 +379,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **4. Vic Kowalski**
+### **4. Vic Kowalski** rating 2.8 diff 3.5
 
 - **Format**: Hybrid
     
@@ -415,7 +398,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **5. Jennifer Mastroianni**
+### **5. Jennifer Mastroianni** rating 3.2 diff 3.3
 
 - **Format**: Fully Online
     
@@ -430,7 +413,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **6. Heather Manley**
+### **6. Heather Manley** rating 3 diff 3.5
 
 - **Format**: 8-week **Fast-Track** Online
     
@@ -447,7 +430,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **7. Andrew Dunnigan**
+### **7. Andrew Dunnigan** rating 5 diff 2.8
 
 - **Format**: In-person
     
@@ -466,7 +449,7 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 
 ---
 
-### **8. Denise Fitzpatrick**
+### **8. Denise Fitzpatrick** rating 1.9 diff 4.1
 
 - **Format**: In-person
     

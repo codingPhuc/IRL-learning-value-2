@@ -32,6 +32,23 @@ Class #2 (Choose one): June 23rd – August 1st
 - CRN: 12475
   
   
+### 🗓️ Spring 2026 (15 Credits)
+
+- **MATH G185 – Calculus 2**  
+    📚 _Credits: 4.0_
+    
+- **PHYS G185 – Calculus-Based Physics: Mechanics**  
+    🧪 _Credits: 4.0_
+    - **ENGL G110 – Critical Thinking, Literature**  
+    📚 _Credits: 4.0_
+    
+- **ART G100 – Introduction To Art** _(or other Arts)_  
+    🎨 _Credits: 3.0_
+    
+
+
+---
+
   
   
   - you need to spend the summer term in person   
