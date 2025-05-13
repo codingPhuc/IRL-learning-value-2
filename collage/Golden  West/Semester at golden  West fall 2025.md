@@ -286,11 +286,6 @@ If you'd like, I can help you narrow this down based on preferred **instructor**
 
 ## math 
 
-Thanks for sharing this ENGL C1000 section info. Here's a clearer breakdown of the four sections listed, along with notes about instructor availability and course status:
-
----
-
-### 📚 **ENGL C1000 - Academic Reading and Writing (Zero Cost Digital Textbooks)**
 
 |Status|CRN|Units|Days|Time|Room|Instructor|Seats (Cap/Act)|Waitlist (Cap/Act)|Dates|Weeks|
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -323,440 +318,189 @@ Would you like help choosing between open sections based on schedule or format w
 
 
 
-Here's a clean, well-organized version of the **ENGL G110 – Critical Thinking, Literature** course offerings, grouped **by instructor** for easy comparison. I’ve included meeting times, location, duration, and notes for each section.
 
----
+# Biology 
+Great — this is a full schedule listing for **Calculus I (MATH G180)** sections in **Fall 2025** at Golden West College. Let's group this by **instructor** and highlight:
 
-## 🧑‍🏫 **Steven Nesbitt**
-
-- **CRN:** 22642
+- Meeting times
     
-- **Format:** In-Person
+- Format (online, hybrid, in-person)
     
-- **Schedule:** Mon & Wed, 6:00 PM – 8:05 PM
+- ZTC status
     
-- **Location:** Language Arts 206
+- Class capacity
     
-- **Dates:** 08/25 – 12/13 (16 weeks)
-    
-- **Seats:** 6 / 30
-    
-- **Notes:** Evening class, Zero Cost Textbook
+- Recommendation
     
 
 ---
 
-## 🧑‍🏫 **Paul Tayyar**
-
-- **CRN:** 22742
-    
-    - **Format:** Hybrid
-        
-    - **Schedule:** Mon & Wed, 11:10 AM – 1:15 PM
-        
-    - **Location:** Language Arts 326
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 9 / 30
-        
-- **CRN:** 21383
-    
-    - **Format:** In-Person
-        
-    - **Schedule:** Tue & Thu, 2:30 PM – 4:35 PM
-        
-    - **Location:** Language Arts 326
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 8 / 30
-        
-- **CRN:** 21501
-    
-    - **Format:** Hybrid
-        
-    - **Schedule:** Thu, 11:10 AM – 1:15 PM + Online 2.2 Hrs/Wk
-        
-    - **Location:** Language Arts 326
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 7 / 30
-        
-- **CRN:** 21635
-    
-    - **Format:** Online (CLOSED)
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Status:** Full + 10 waitlist
-        
+## 🔢 Grouped by Instructor
 
 ---
 
-## 🧑‍🏫 **Mujib Tahir**
+### **1. Nikki Plaster**
 
-- **CRN:** 22747
+- **Format**: In-person
     
-    - **Format:** Online
-        
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 8 / 30
-        
-- **CRN:** 21385
+- **ZTC**: ✅ Yes
     
-    - **Format:** Online
-        
-    - **Dates:** 08/25 – 10/18 (8 weeks)
-        
-    - **Seats:** 3 / 30
-        
-- **CRN:** 21386
+- **CRNs**: 22479, 22481, 21327, 21329
     
-    - **Format:** Online
-        
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 1 / 30
-        
-- **CRN:** 21701
+- **Schedule**:
     
-    - **Format:** Hybrid
+    - Mon & Wed 9:20am–12:30pm (CRN 22479 / 21327)
         
-    - **Schedule:** Mon & Wed, 2:30 PM – 4:35 PM + 1.6 Hrs/Wk Online
+    - Tue & Thu 9:20/9:30am–12:30/12:40pm (CRN 22481 / 21329)
         
-    - **Location:** Language Arts 206
-        
-    - **Dates:** 09/22 – 12/13 (12 weeks)
-        
-    - **Seats:** 0 / 30
-        
+- **Capacity**: Popular — many enrolled already
+    
+- **Reputation**: Known for strong support and engagement
+    
+
+**🟢 Recommended** if you prefer a face-to-face and ZTC instructor with good availability.
 
 ---
 
-## 🧑‍🏫 **Keisha Cosand**
+### **2. MaryLynne Lamantia**
 
-- **CRN:** 23731
+- **Format**: Fully Online (CRNs: 22480, 21328)
     
-    - **Format:** Hybrid
-        
-    - **Schedule:** Tue, 11:10 AM – 1:15 PM + 2 Hrs/Wk Online
-        
-    - **Location:** Language Arts 226
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 6 / 30
-        
-- **CRN:** 23737
+- **ZTC**: ❌ Not listed
     
-    - **Format:** Hybrid
-        
-    - **Schedule:** Wed, 8:50 AM – 10:55 AM + 2.3 Hrs/Wk Online
-        
-    - **Location:** Language Arts 226
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 6 / 30
-        
+- **Meeting**: Asynchronous + ~3.4 hrs/week online work
+    
+- **Known for**: Clear structure, video lectures
+    
+
+**🟡 Moderate recommendation** if you are disciplined with online self-paced work.
 
 ---
 
-## 🧑‍🏫 **Dibakar Barua**
+### **3. Krystle Shamai**
 
-- **CRN:** 23713
+- **Format**: Hybrid & Online
     
-    - **Format:** Online
-        
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 3 / 30
-        
-- **CRN:** 23825
+- **ZTC**: ❌ Not listed
     
-    - **Format:** Online
+- **CRNs**: 22490, 22491, 21611, 21724
+    
+- **Schedule**:
+    
+    - Online + Thursday 2:30pm–5:40pm or Tuesday 2:30pm–5:40pm
         
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 1 / 30
-        
+- **Reviews**: Mixed, but generally structured
+    
+
+**🟡 Good if you want afternoon hybrid and can manage online content.**
 
 ---
 
-## 🧑‍🏫 **Sacha Moore**
+### **4. Vic Kowalski**
 
-- **CRN:** 24407
+- **Format**: Hybrid
     
-    - **Format:** Online
+- **CRNs**: 22482, 21337
+    
+- **Schedule**:
+    
+    - Thursday or Tuesday evenings: 7:30pm–10:40pm
         
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 6 / 30
-        
-    - **Note:** Zero Cost Digital Textbooks
-        
+- **Online portion**: 3.4 hrs/week arranged
+    
+- **Reputation**: Clear, practical teaching; evening slots
+    
+
+**🟢 Good for night owls or working students.**
 
 ---
 
-## 🧑‍🏫 **Cecelia Galassi**
+### **5. Jennifer Mastroianni**
 
-- **CRN:** 21370
+- **Format**: Fully Online
     
-    - **Format:** In-Person
-        
-    - **Schedule:** Mon & Wed, 8:50 AM – 10:55 AM
-        
-    - **Location:** Language Arts 223
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 7 / 30
-        
+- **CRNs**: 22483, 21585
+    
+- **Schedule**: 3.4 hrs/week arranged
+    
+- **ZTC**: ❌ Not listed
+    
+
+**🟡 Consider if you want complete online flexibility.**
 
 ---
 
-## 🧑‍🏫 **Theresa Lavarini**
+### **6. Heather Manley**
 
-- **CRN:** 21372
+- **Format**: 8-week **Fast-Track** Online
     
-    - **Format:** Hybrid
+- **CRNs**: 24200, 24440
+    
+- **Schedule**:
+    
+    - 6.8 hrs/week online (Oct 20–Dec 13)
         
-    - **Schedule:** Mon & Wed, 11:10 AM – 1:15 PM + 1.4 Hrs/Wk Online
-        
-    - **Location:** Language Arts 224
-        
-    - **Dates:** 09/22 – 12/13 (12 weeks)
-        
-    - **Seats:** 1 / 30
-        
+- **ZTC**: ❌ Not listed
+    
+
+**🟠 Not for beginners — fast-paced. Only recommended if you already know some Calc.**
 
 ---
 
-## 🧑‍🏫 **Abraham Tarango**
+### **7. Andrew Dunnigan**
 
-- **CRN:** 22343
+- **Format**: In-person
     
-    - **Format:** Hybrid
-        
-    - **Schedule:** Tue & Thu, 8:50 AM – 10:55 AM + 1.5 Hrs/Wk Online
-        
-    - **Location:** Language Arts 222
-        
-    - **Dates:** 09/22 – 12/13 (12 weeks)
-        
-    - **Seats:** 6 / 30
-        
-- **CRN:** 21384
+- **CRN**: 24762
     
-    - **Format:** Hybrid
+- **Schedule**:
+    
+    - Mon & Wed 12:50pm–2:15pm + Wed 2:25pm–5:35pm (Lab?)
         
-    - **Schedule:** Tue & Thu, 11:10 AM – 1:15 PM + 1.8 Hrs/Wk Online
-        
-    - **Location:** Language Arts 204
-        
-    - **Dates:** 09/22 – 12/13 (12 weeks)
-        
-    - **Seats:** 3 / 30
-        
+- **ZTC**: ❌ Not listed
+    
+- **Notes**: Unique structure, possibly a lab or supplemental session
+    
+
+**🟡 Unknown rep; unique time block — check professor reviews.**
 
 ---
 
-## 🧑‍🏫 **Suzanne Allen**
+### **8. Denise Fitzpatrick**
 
-- **CRN:** 22186
+- **Format**: In-person
     
-    - **Format:** Online
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 4 / 30
-        
-- **CRN:** 21673
+- **CRN**: 21723
     
-    - **Format:** Hybrid
+- **ZTC**: ✅ Yes
+    
+- **Schedule**:
+    
+    - Tue & Thu 9:30am–10:55am + Tue 11:10am–2:15pm
         
-    - **Schedule:** Wed, 6:00 PM – 8:05 PM + 6.8 Hrs/Wk Online
-        
-    - **Location:** Language Arts 204
-        
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 0 / 30
-        
+- **Reputation**: Enthusiastic, ZTC support
+    
+
+**🟢 Recommended** if you want ZTC with a strong in-person presence.
 
 ---
 
-## 🧑‍🏫 **Brian Thill**
+## ✅ **Top Recommendations by Type**
 
-- **CRN:** 21700
-    
-    - **Format:** Online
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 11 / 30
-        
-- **CRN:** 21702
-    
-    - **Format:** Online
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 4 / 30
-        
+|Preference|Instructor & CRN|Notes|
+|---|---|---|
+|📘 **ZTC + In-Person**|**Nikki Plaster** (22479, 21327) or **Denise Fitzpatrick** (21723)|Great support, structured|
+|🕓 **Evening Hybrid**|**Vic Kowalski** (22482, 21337)|Good for working students|
+|🖥️ **Fully Online**|**MaryLynne Lamantia** (22480)|Solid online setup|
+|⚡ **Fast-Paced**|**Heather Manley** (24200)|Only if you're confident in math speed|
 
 ---
 
-## 🧑‍🏫 **Hailey White**
+Would you like me to help pick one based on your personal preferences (schedule, difficulty, format)?
 
-- **CRN:** 23193
-    
-    - **Format:** Online
-        
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 28 / 30 (FULL + 6 waitlist)
-        
 
----
-
-Let me know if you'd like recommendations based on:
-
-- Time of day
-    
-- Instructor quality (RateMyProfessors, etc.)
-    
-- Class duration (8-week vs. 16-week)
-    
-- Online vs. In-person preferences
-
-## art 
-
-Here’s a clean, organized version of the **Art History / Humanities or similar 3-unit course listings**, grouped **by instructor** (or "Staff" if unspecified), for easy reading and comparison:
-
----
-
-## 🧑‍🏫 **Staff**
-
-- **CRN:** 23993
-    
-    - **Format:** In-Person
-        
-    - **Schedule:** Tue & Thu, 12:50 PM – 2:15 PM
-        
-    - **Location:** Fine Arts 222
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 7 / 45
-        
-- **CRN:** 22185
-    
-    - **Format:** In-Person
-        
-    - **Schedule:** Mon & Wed, 9:30 AM – 10:55 AM
-        
-    - **Location:** Fine Arts 222
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 4 / 45
-        
-
----
-
-## 🧑‍🏫 **Monica Jovanovich**
-
-- **CRN:** 24608
-    
-    - **Format:** Online
-        
-    - **Schedule:** 13.5 Hrs/Wk asynchronous
-        
-    - **Dates:** 11/17 – 12/13 (4 weeks)
-        
-    - **Seats:** 10 / 45
-        
-    - **Notes:** **Accelerated 4-week course**, Zero Cost Textbook
-        
-
----
-
-## 🧑‍🏫 **David Plouffe**
-
-- **CRN:** 21315
-    
-    - **Format:** Online
-        
-    - **Schedule:** 3.4 Hrs/Wk asynchronous
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 13 / 84
-        
-    - **Notes:** Zero Cost Textbook
-        
-
----
-
-## 🧑‍🏫 **Bentley Bentley**
-
-- **CRN:** 21549
-    
-    - **Format:** Online
-        
-    - **Schedule:** 6.8 Hrs/Wk asynchronous
-        
-    - **Dates:** 08/25 – 10/18 (8 weeks)
-        
-    - **Seats:** 2 / 84
-        
-    - **Notes:** Zero Cost Textbook
-        
-
----
-
-## 🧑‍🏫 **Tina Park**
-
-- **CRN:** 21316
-    
-    - **Format:** Online
-        
-    - **Schedule:** 3.4 Hrs/Wk asynchronous
-        
-    - **Dates:** 08/25 – 12/13 (16 weeks)
-        
-    - **Seats:** 2 / 84
-        
-    - **Notes:** Zero Cost Textbook
-        
-
----
-
-## 🧑‍🏫 **Amanda Best**
-
-- **CRN:** 21661
-    
-    - **Format:** Online
-        
-    - **Schedule:** 6.8 Hrs/Wk asynchronous
-        
-    - **Dates:** 10/20 – 12/13 (8 weeks)
-        
-    - **Seats:** 4 / 84
-        
-    - **Notes:** Zero Cost Textbook
-        
-
----
-
-Let me know if you want:
-
-- Help choosing based on workload, length, or instructor quality
-    
-- Filtering by online/in-person
-    
-- A visual schedule for your week
+# Introduction to engineering 
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Status|I|Z|CRN|Cred|Meeting Time|   |   |   |   |   |   |   |Location|Cap|Act|WL  <br>Cap|WL  <br>Act|Instructor|Date|Weeks|
+|**OPEN**|02||24183|2.00||T||||||06:00pm - 08:10pm|GWC Mathematics & Science Ctr 112|36|2|30|0|Staff|08/25-12/13|16|
