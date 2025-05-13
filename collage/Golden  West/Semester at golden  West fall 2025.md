@@ -1362,7 +1362,7 @@ Let me know if you want to:
 
 **Instructor:** Antony Hoang  
 **CRN:** 23464 | **Units:** 4  
-**Format:** Hybrid
+**Format:** Hybrid (16 Weeks)
 
 - 🖥️ Online: Weekly asynchronous lectures
     
@@ -1379,7 +1379,7 @@ Let me know if you want to:
 
 **Instructor:** Nikki Plaster  
 **CRN:** 21327 | **Units:** 4  
-**Format:** In-Person
+**Format:** In-Person(16 Weeks)
 
 - 🏫 Class Times: **Mon/Wed | 9:20 AM – 12:30 PM**
     
