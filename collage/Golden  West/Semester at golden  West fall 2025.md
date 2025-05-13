@@ -267,8 +267,9 @@ If you'd like, I can help you narrow this down based on preferred **instructor**
 
 
 
-## math 
+# Math  
 
+Staff
 
 | Status         | CRN   | Units | Days     | Time               | Room                       | Instructor          | Seats (Cap/Act) | Waitlist (Cap/Act) | Dates       | Weeks |
 | -------------- | ----- | ----- | -------- | ------------------ | -------------------------- | ------------------- | --------------- | ------------------ | ----------- | ----- |
@@ -277,50 +278,10 @@ If you'd like, I can help you narrow this down based on preferred **instructor**
 | **WAITLISTED** | 21432 | 4.00  | Tue, Thu | 2:30 PM – 4:35 PM  | TBA                        | **Gita Alemansour** | 64 / 64         | 10 / 3             | 08/25–12/13 | 16    |
 | **OPEN**       | 21571 | 4.00  | Mon, Wed | 8:55 AM – 11:00 AM | GWC Math & Science Ctr 116 | **Staff**           | 36 / 5          | 10 / 0             | 08/25–12/13 | 16    |
 
----
-
-### 🔍 Instructor Rating Status
-
-- **Gita Alemansour**: I was not able to check her rating due to a temporary browsing issue, but you can search for her on [RateMyProfessors.com](https://www.ratemyprofessors.com/).
-    
-- **Staff**: These are placeholder names for sections where the assigned instructor hasn’t been officially listed yet. These may later be assigned to any of the instructors mentioned in your earlier course listing.
-    
-
----
-
-### ✅ Suggestions:
-
-- If you're looking for **a guaranteed named professor**, go with **Gita Alemansour** — but that section is currently **full and waitlisted**.
-    
-- The other three sections are **open**, but you'll have to wait and see who gets assigned as the instructor.
-    
-- If instructor quality is your top priority, I recommend monitoring the schedule or choosing a section from the previously listed instructors who are already rated.
-    
-
-Would you like help choosing between open sections based on schedule or format while waiting for staff assignments to be finalized?
 
 
 
-
-# Biology 
-Great — this is a full schedule listing for **Calculus I (MATH G180)** sections in **Fall 2025** at Golden West College. Let's group this by **instructor** and highlight:
-
-- Meeting times
-    
-- Format (online, hybrid, in-person)
-    
-- ZTC status
-    
-- Class capacity
-    
-- Recommendation
-    
-
----
-
-## 🔢 Grouped by Instructor
-
----
+# Biology  
 
 ### **1. Nikki Plaster** rating 4.1 diff 3.3
 
@@ -480,6 +441,9 @@ Great — this is a full schedule listing for **Calculus I (MATH G180)** section
 ---
 
 Would you like me to help pick one based on your personal preferences (schedule, difficulty, format)?
+
+
+
 
 
 # Introduction to engineering 
