@@ -1171,12 +1171,7 @@ Thanks for the clarification! Let's update the **MATH G180** class in all three 
      %%
 |**OPEN**|72||21363|3.00|2.6 Hrs/Wk arr in addition to any scheduled hrs if applicable|   |   |   |   |   |   |   |Golden West ONLINE|45|6|30|0|Cristian Racataian|08/25-12/13|16|
 ||   |   |   |   |3 Hrs/Wk arr in addition to any scheduled hrs if applicable|   |   |   |   |   |   |   |Golden West ONLINE||   |   |   |   |08/25-12/13||
-**📅 In-Person Units:**
 
-- Math (4), Bio (4), Engr (2) → ✅ **10 units in person**
-    
-- Online work flexible; only **3 on-campus Fridays** for Math
-    
 
 **📅 Schedule Summary:**
 
@@ -1257,9 +1252,9 @@ Thanks for the clarification! Let's update the **MATH G180** class in all three 
 
 ### 💻 Focus: Maximize online/hybrid, minimize campus time (meet 9 in-person unit rule)
 
-- **ENGL C1000 – Elizabeth Shiroishi**  
-    🧑‍🏫 _Rating: 5, Diff: 2.5 → ✅ Ratio OK_  
-    💻 Fully Online | CRN 22342
+- **ENGL C1000 – Abraham Tarango**  
+    🧑‍🏫 _Rating: 4.7, Diff: 2.2 → ✅ OK_  
+    📍 Hybrid | Tue/Thu 2:30 PM – 3:50 PM | CRN 22741
     
 - **MATH G180 – Antony Hoang**  
     🧑‍🏫 _Rating: 4.5, Diff: 3.2 → ✅ Ratio OK_  
