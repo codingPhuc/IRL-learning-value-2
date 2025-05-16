@@ -156,12 +156,17 @@ Here’s a structured list of the courses, instructors, and what they are teachi
 
 - **ART G100** – **Sarah Salcido** (Art) 
 - **HIST G175** – **Michelle Ferry** (History) x 
-- [Paul Swendson](https://www.ratemyprofessors.com/professor/435624)
+
 - **MUS G139** – **Donovan Raitt** (Music)
 - **THEA G102** – **Rory Cowan** (Theater)
 
 Let me know if you need any modifications! 
 
+
+
+##  reschedule courses 
+- [Paul Swendson](https://www.ratemyprofessors.com/professor/435624) 
+- [Andrew Dunnigan]()
 
 
 
