@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collage/Golden  West/Semester at golden  West.md",
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semester at golden  West"
+              "title": "Golden West Community College"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "golde",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Semester at golden  West.md",
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Semester at golden  West"
+              "title": "Outline of Golden West Community College"
             }
           }
         ],
@@ -203,9 +204,10 @@
   },
   "active": "bb2806a82560bf8f",
   "lastOpenFiles": [
+    "collage/closes college.md",
     "collage/Golden  West/Golden West Community College.md",
-    "collage/Golden  West/Semester at golden  West.md",
     "collage/Golden  West/Semester at golden  West fall 2025.md",
+    "collage/Golden  West/Semester at golden  West.md",
     "bank food store and other.md",
     "collage/Los Angeles University/Untitled.md",
     "collage/School to transfer to criterial.md",
@@ -229,7 +231,6 @@
     "collage/Rent.md",
     "immigration/h1b/H1B.md",
     "collage/los angles 1  transfer electric.pdf",
-    "collage/Untitled/Untitled.md",
     "collage/Untitled",
     "picture to chanage/Pasted image 20250506105740.png",
     "picture to chanage",
