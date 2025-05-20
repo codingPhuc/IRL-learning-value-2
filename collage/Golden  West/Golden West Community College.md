@@ -439,4 +439,14 @@ what is great clip
 
 ### [Campbell Biology: Concepts and Connections](https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true#)
 
+Golden  west canvas  tell you  
+
+
+[https://www.goldenwestcollege.edu/asc/index.html](https://www.goldenwestcollege.edu/asc/index.html)  
+  
+**Zainab Umarji**  to  Everyone 11:36 AM  
+[https://coastdistrict.instructure.com/enroll/N6WACB](https://coastdistrict.instructure.com/enroll/N6WACB)  
+  
+**Zainab Umarji** 11:42 AM  
+[https://www.goldenwestcollege.edu/how-to-videos/index.html](https://www.goldenwestcollege.edu/how-to-videos/index.html)
 
