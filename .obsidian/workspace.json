@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "collage/Golden  West/Semester at golden  West.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golden West Community College"
+              "title": "Semester at golden  West"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "golde",
+                "query": "summer semes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "collage/Golden  West/Semester at golden  West.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Golden West Community College"
+              "title": "Outline of Semester at golden  West"
             }
           }
         ],
@@ -204,9 +204,9 @@
   },
   "active": "bb2806a82560bf8f",
   "lastOpenFiles": [
+    "collage/Golden  West/Golden West Community College.md",
     "Untitled 1.md",
     "collage/closes college.md",
-    "collage/Golden  West/Golden West Community College.md",
     "collage/Golden  West/Semester at golden  West fall 2025.md",
     "collage/Golden  West/Semester at golden  West.md",
     "bank food store and other.md",
