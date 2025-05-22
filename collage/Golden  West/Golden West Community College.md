@@ -233,6 +233,8 @@ Student Government is a group of students working directly with the college to e
 [bus](https://octa.net/getting-around/bus/oc-bus/fares-and-passes/overview/community-college-pass/golden-west/)
 ## parking 
 [park]([https://www.goldenwestcollege.edu/public-safety/parking/index.html](https://www.goldenwestcollege.edu/public-safety/parking/index.html) )
+[parking instruction](https://www.goldenwestcollege.edu/Links/pdf/public-safety/guest-visitor-parking-permit-guide.pdf)
+[parking website](https://cccd.t2hosted.com/cmn/addvehicle.aspx)
 ## job at the facility 
 
 https://www.reddit.com/r/OregonStateUniv/comments/1en1q7h/is_it_difficult_for_an_international_graduate/ 
