@@ -6,6 +6,11 @@ have  a sister studying computer engineering
 u/ChiwaShy2000 
 master in computer engineer 
 u/justHereForPunch 
+computer engineering phd  
+[Fluffy_Suit2](https://www.reddit.com/user/Fluffy_Suit2/)
+OP
 
+•[2y ago](https://www.reddit.com/r/AskAcademia/comments/176jp3r/comment/k4nhce3/)
+computer engineering 
 
 [[Embedded Software Development]]
