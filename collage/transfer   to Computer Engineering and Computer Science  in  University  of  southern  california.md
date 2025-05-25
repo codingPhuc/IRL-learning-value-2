@@ -464,9 +464,19 @@ the writing  courses
 
 https://calendar.usc.edu/
 
+
+
+
+
+
+
 # #Todo_question   
 - [ ] what is the process like for transferring to USC   
 - [ ] how must point do  I need to transfer  
 - [ ] bases on my research , the condition for me to transfer to usc on computer science major is very  slim  so I am thinking of going for a math bases major  or  a electrical engineering major that I can then take selective in computer science in [bases on the ucla transfer rate comp is 3%](https://admission.ucla.edu/apply/transfer/transfer-profile/2024/major) 
 - [ ] can I apply to multiple  major at usc ?  
+- [ ] usc financial aid https://www.reddit.com/r/IntltoUSA/comments/ty46gs/how_can_international_students_pay_for_usc/ 
+
+
+
 
