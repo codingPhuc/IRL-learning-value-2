@@ -169,3 +169,9 @@ https://www.reddit.com/r/cscareerquestions/comments/va6635/those_of_you_who_did_
 - **BinaryBlasphemy**: Works in formal methods research without a PhD; most coworkers have PhDs.
 - **delphinius81**: PhD in virtual environments and presence; works in educational games, AR, and VR for health and training.
 - **Fippy-Darkpaw**: PhD in CS, now working in simulation/gaming at a Fortune 500 company. Regular job offers from top-tier companies like Google, Amazon.
+
+
+
+## #Todo_question 
+- [ ] finding research opertunity 
+
