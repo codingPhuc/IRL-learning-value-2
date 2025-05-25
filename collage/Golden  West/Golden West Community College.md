@@ -401,15 +401,14 @@ there will be  an even
 	- [x] he  retack community collage  a bunch of time  
 	- [x] can you study major forever  to stay in the USA  ? 
 - [x] ask  Tai  about his  bus  path  how can  you travel  for free on the bus   
-- [ ]  ask for does volunteer help when considering admission you need to ask the counselor  
-- [ ] what type of volunteer   ? you need to ask the immigrant advisor  
-- [ ] how does point scoring  work in university   
-- [ ] the timely care health app  is not good right now  so try again latter  
+- [x]  ask for does volunteer help when considering admission you need to ask the counselor  
+- [x] what type of volunteer   ? you need to ask the immigrant advisor  
+- [x] how does point scoring  work in university   
+- [x] the timely care health app  is not good right now  so try again latter  
 - [x] Why is my email not receiving message from third party  ?   the email will be activated  1 week before class time 
 - [x] how can I see past class material? for example the past spring material so that I can see it before  entering the class 
 	![[Semester at golden  West fall 2025#🗓️ Fall 2025 (14 Credits)]]
-
-
+- [ ] figure out about research opportunity [[PHD#Todo_question]] 
 
 ##  question to find out 
 - [x] which department should you go for general education 

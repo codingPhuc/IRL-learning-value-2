@@ -22,7 +22,7 @@ Here’s your course plan formatted cleanly for Obsidian, using Markdown-friendl
 
     > 💬 **Note:** ART G100 or substitute course from Arts category
     
-- [ ] what is the book for all the above how can I get them  , what is the teacher I should take for all the above ?  
+- [x] what is the book for all the above how can I get them  , what is the teacher I should take for all the above ?  
 
 
 
