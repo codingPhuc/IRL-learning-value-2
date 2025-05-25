@@ -140,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "research ",
+                "query": "golden",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHD.md",
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PHD"
+              "title": "Outline of Golden West Community College"
             }
           }
         ],
@@ -245,8 +245,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc282a94eed0d4e9",
+  "active": "3effc1a315a90376",
   "lastOpenFiles": [
+    "PHD.md",
     "High-Performance Computing.md",
     "2024-03-29.md",
     "2024-05-31.md",
@@ -270,7 +271,6 @@
     "ielts/17 listening.md",
     "perpare too be kick out/rent.md",
     "jobs/PHD.md",
-    "PHD.md",
     "Machine Learning Engineer_Scientist.md",
     "jobs/Machine Learning Engineer_Scientist.md",
     "perpare too be kick out/Van life/info 1.md",

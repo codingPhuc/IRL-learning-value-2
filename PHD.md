@@ -171,7 +171,71 @@ https://www.reddit.com/r/cscareerquestions/comments/va6635/those_of_you_who_did_
 - **Fippy-Darkpaw**: PhD in CS, now working in simulation/gaming at a Fortune 500 company. Regular job offers from top-tier companies like Google, Amazon.
 
 
+## professor  building relationship 
+
+### **Best People to Ask**
+
+- **S-tier**: Professors you’ve worked closely with (e.g., through research, long-term projects, or frequent conversations).
+    
+- **A-tier**: Professors you visited regularly during office hours or took multiple courses with and performed well in.
+    
+- **B-tier**: Professors who only taught you once or twice but you did very well in their class—less personal, mostly reflects grades.
+    
+- **Others**: Postdocs, graduate students, or lecturers **only** if you had meaningful academic interaction—ideally just one LOR from a grad student, and better if co-signed by a faculty member.
+    
+
+---
+
+### **How to Build Relationships**
+
+- Attend office hours regularly.
+    
+- Engage meaningfully in seminars or discussions.
+    
+- Ask questions, seek feedback on papers/projects, and maintain email contact (especially important during remote learning).
+    
+
+---
+
+### **When and How to Ask**
+
+- Ask early—at least a month in advance.
+    
+- Be respectful and polite.
+    
+- Confirm that they feel comfortable writing a **strong** letter.
+    
+- Provide a document with:
+    
+    - Courses you took with them.
+        
+    - Your performance and standout work.
+        
+    - Your academic goals and interests.
+        
+
+---
+
+### **Other Tips**
+
+- It’s okay to take time after undergrad before applying to grad school.
+    
+- Don’t let anxiety stop you—many professors are happy to help.
+    
+- Rejection is not the end—ask others and move forward.
+    
+
+---
+
+### **TL;DR**
+
+Ask professors you've formed meaningful academic connections with, especially through research, multiple classes, or office hour conversations. Start early, communicate clearly, and don’t be afraid to reach out—even during remote learning.
+
+
 
 ## #Todo_question 
-- [ ] finding research opertunity 
+- [ ] finding research opertunity  
+- [ ] https://www.fullerton.edu/projectraise/community-college-students/ure/ 
+- [ ] https://sccollege.edu/students/studentservices/careerservices/SitePages/STEM-Career-Information.aspx 
+- [ ] https://www.goldenwestcollege.edu/stem/opportunities/index.html
 
