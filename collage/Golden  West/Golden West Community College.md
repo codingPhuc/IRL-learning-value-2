@@ -408,7 +408,11 @@ there will be  an even
 - [x] Why is my email not receiving message from third party  ?   the email will be activated  1 week before class time 
 - [x] how can I see past class material? for example the past spring material so that I can see it before  entering the class 
 	![[Semester at golden  West fall 2025#🗓️ Fall 2025 (14 Credits)]]
-- [ ] figure out about research opportunity [[PHD#Todo_question]] 
+- [ ] figure out about research opportunity [[PHD#Todo_question]]  
+- [ ] research about who in this https://www.goldenwestcollege.edu/pathways/stem/index.html 
+
+
+
 
 ##  question to find out 
 - [x] which department should you go for general education 
