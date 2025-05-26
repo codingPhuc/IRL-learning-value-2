@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "golden",
+                "query": "book",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,7 +259,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb2806a82560bf8f",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "collage/Golden  West/Golden West Community College.md",
     "PHD.md",
