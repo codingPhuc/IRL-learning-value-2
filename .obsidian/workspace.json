@@ -77,8 +77,7 @@
               "title": "Golden West Community College"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f87431ac6d32dc48",
@@ -232,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collage/Golden  West/Golden West Community College.md",
+                "file": "collage/Golden  West/Semester at golden  West.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Golden West Community College"
+              "title": "Outline of Semester at golden  West"
             }
           }
         ],
@@ -259,10 +258,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc282a94eed0d4e9",
+  "active": "bb2806a82560bf8f",
   "lastOpenFiles": [
-    "PHD.md",
     "collage/Golden  West/Golden West Community College.md",
+    "PHD.md",
     "High-Performance Computing.md",
     "2024-03-29.md",
     "2024-05-31.md",
