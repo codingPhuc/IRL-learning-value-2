@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHD.md",
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHD"
+              "title": "Golden West Community College"
             }
           },
           {
@@ -259,7 +259,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3effc1a315a90376",
+  "active": "fc282a94eed0d4e9",
   "lastOpenFiles": [
     "PHD.md",
     "collage/Golden  West/Golden West Community College.md",
