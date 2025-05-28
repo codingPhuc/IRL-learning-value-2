@@ -334,6 +334,11 @@ there will also be a link  for the courses  that are there with the material ,  
 
 
 
+###  international tuition payment 
+https://payment.paymytuition.com/paynow/cccd?dataPostGuid=eMWZqTR7H6bFtveq7ibIU3IbdZHdFp2rqI%2BkV9p7WNpVHfII_6G1xgpsf3yhdL6m 
+
+
+
 ### Scholarships
 [Scholarships](https://www.goldenwestcollege.edu/scholarships/index.html)
 
