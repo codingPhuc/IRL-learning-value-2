@@ -1433,3 +1433,94 @@ Let me know if you want to:
 ---
 
 Let me know if you'd like an alternate English or Bio section, or a visual calendar layout!
+
+
+
+
+# Update  28-4   
+
+Here's your schedule formatted in a clean, copy-paste-friendly way for **Obsidian** (using markdown syntax):
+
+---
+
+## 📚 Fall 2025 Class Schedule – Golden West College 
+
+### 🟦 English G100 – Academic Reading and Writing  16/30  
+
+- **CRN:** 22741
+    
+- **Instructor:** Abraham Tarango
+    
+- **Schedule:**
+    
+    - 📅 _Tuesdays & Thursdays_: 2:30 PM – 3:50 PM
+        
+    - 💻 _Arranged Online Component_
+        
+- **Location:** Language Arts, Room 222 + ONLINE
+    
+- **Dates:** 09/22/2025 – 12/13/2025
+    
+
+---
+
+### 🟩 Computer Science G175 – C++ Programming 1 45/13 
+
+- **CRN:** 21363
+    
+- **Instructor:** Cristian Racataian
+    
+- **Schedule:**
+    
+    - 💻 _Lab: Arranged ONLINE_
+        
+    - 💻 _Lecture: Arranged ONLINE_
+        
+- **Dates:** 08/25/2025 – 12/13/2025
+    
+
+---
+
+### 🟨 Mathematics G180 – Calculus 1 have a wait list 
+
+- **CRN:** 21530
+    
+- **Instructor:** Gita Alemansour
+    
+- **Schedule:**
+    
+    - 📅 _Tuesdays & Thursdays_: 11:10 AM – 1:15 PM
+        
+- **Location:** Math & Science Center, Room 155
+    
+- **Dates:** 08/25/2025 – 12/13/2025
+    
+
+---
+
+### 🟥 Communication Studies G110 – Introduction to Public Speaking 20/30 
+
+- **CRN:** 24910
+    
+- **Instructor:** Rachel Wegter
+    
+- **Schedule:**
+    
+    - 📅 _Mondays & Wednesdays_: 11:10 AM – 12:35 PM
+        
+- **Location:** Language Arts, Room 324
+    
+- **Dates:** 08/25/2025 – 12/13/2025
+    
+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**OPEN**|02|![Zero Cost Digital Textbooks](https://ssb-prod.ec.cccd.edu/wtlgifs/book-icon.png "Zero Cost Digital Textbooks")|24909|3.00|M||W|||||09:30am - 10:55am|Language Arts 324|32|21|30|0|Rachel Wegter|08/25-12/13|16|
+|**OPEN**|02|![Zero Cost Digital Textbooks](https://ssb-prod.ec.cccd.edu/wtlgifs/book-icon.png "Zero Cost Digital Textbooks")|24910|3.00|M||W|||||11:10am - 12:35pm|Language Arts 324|32|20|30|0|Rachel Wegter|08/25-12/13|16| 
+
+---
+
+Let me know if you'd like a version with checkboxes, tags, or backlinks for easier integration into a specific vault structure! 
+
+
+there are two class by the same professor 
