@@ -5,8 +5,4 @@
 - [ ] screw driver kit  for cleaning  
 - [ ] new mouse  '
 - [ ] laptop cleaning tower 
-
-
-
-
-
+- [ ] Eubbing alcohole 
