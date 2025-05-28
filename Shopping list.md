@@ -9,4 +9,6 @@
 - [ ] # Le Chef Patissier Hazelnut Choc Crepes, 20 count
 - [ ] Gummy candy 
 - [ ] Crepes 
+- [ ] Swimming cloth
+- [ ]  Body wash 
 - [ ] 
