@@ -7,8 +7,8 @@
 - [ ] laptop cleaning tower 
 - [ ] Eubbing alcohole 
 - [ ] # Le Chef Patissier Hazelnut Choc Crepes, 20 count
-- [ ] Gummy candy 
-- [ ] Crepes 
+- [x] Gummy candy 
+- [x] Crepes 
 - [ ] Swimming cloth
 - [ ]  Body wash 
 - [ ] A congainer for food
