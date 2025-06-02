@@ -88,16 +88,9 @@ Once prepared, the video details how to **clean the carpets**:
     - After cleaning, use a clean stiff brush to **brush all the carpet fibers in one direction**. This makes the carpet look even and consistent in shade and color.
 - **Important Caution:** Do **not oversaturate** the carpets with liquid. The sound deadening material underneath the carpet acts like a sponge, holds water, is hard to dry, and can lead to mold. Use just the carpet cleaner or an extractor.
 
-Next, the video shows how to **clean the floor mats**. The process is similar to cleaning carpets but is easier because the mats are removed from the car.
+[cleaning floormate](https://www.youtube.com/watch?v=4zm4cWtmJLU&ab_channel=PanTheOrganizer) 
 
-- Brush off surface dirt, bang out dirt trapped deep in the fibers, and vacuum any leftovers.
-- **Use a hose or pressure washer** to force out dirt and stains. A pressure washer works "amazing" for this.
-- Spray with carpet cleaner and let it sit.
-- Agitate the cleaner with a brush. A drill brush attachment is suggested as it makes the job "quick and easy" and provides "amazing results". When using a drill brush, use light to medium pressure and keep the drill moving.
-- Use the pressure washer again to wash out dirt and soap.
-- Use an **extractor vacuum** to suck out remaining dirt, water, and cleaner, leaving the mats damp.
-- To help floor mats dry quickly, **hang them on a clothes hanger** out in the open.
-- Finally, **protect the floor mats** using a carpet protector spray. This prevents future stains, makes cleaning easier, and prevents salt stains. Apply light, even, overlapping coats in one direction, let dry, then apply another coat in the opposite direction. The protection makes liquids bead up on the surface instead of absorbing in, making them easy to clean up.
+
 
 Cleaning the **trunk** is the next step.
 
