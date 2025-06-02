@@ -89,7 +89,27 @@ Once prepared, the video details how to **clean the carpets**:
 - **Important Caution:** Do **not oversaturate** the carpets with liquid. The sound deadening material underneath the carpet acts like a sponge, holds water, is hard to dry, and can lead to mold. Use just the carpet cleaner or an extractor.
 
 [cleaning floormate](https://www.youtube.com/watch?v=4zm4cWtmJLU&ab_channel=PanTheOrganizer) 
+Based on the provided sources, the video "HOW TO CLEAN RUBBER FLOOR MATS !! QUICK & EASY !" by Pan The Organizer focuses on providing **pro tips on how to clean rubber floor mats**. The goal is to transform a very dirty mat that has been exposed to conditions like crazy Canadian winters into a **very clean and brand-new looking floor mat** using simple steps, products, and tools.
 
+The technique discussed in the video applies to both **rubber mats and plastic mats**. The example shown is a dirty floor mat caked with road salt, mud, dirt, debris, dust, and other contaminants from Canadian winters.
+
+The recommended **products and tools** for this cleaning process are:
+
+- A **pressure washer or a garden hose**.
+- A **brush** of your choice (bigger or smaller).
+- A **cleaner** of your choice. The presenter likes to use **Super Clean diluted one in three or one in four with water** to create a solution. Other classic options mentioned include McGuire's Super Degreaser or McGuire's All-Purpose Cleaner.
+- A **microfiber towel** to blot dry or a **car dryer** to push hot, filtered air into the nooks and crannies. The specific car dryer mentioned is the **Metro Vac Blaster Sidekick**.
+- As an **optional finishing touch**, **Stoner Trim Shine** is used to give an OEM matte look that is non-greasy for safety.
+
+The main **steps** outlined in the video are:
+
+1. **Rinse the mat**. (Step number one is to go ahead and rinse the mat).
+2. Apply and work in the chosen cleaner using a brush (implied by the mention of brush and cleaner use after rinsing).
+3. **Rinse off** the cleaner.
+4. **Dry the mat** using a microfiber towel or car dryer.
+5. (Optional) Apply a finishing product like Stoner Trim Shine.
+
+The video demonstrates going from a dirty floor mat to one that **looks like it's brand new again**. The results are highlighted as speaking for themselves, showing an amazing brand new looking floor mat achieved from a very dirty starting point. The presenter reminds viewers that links to all products and tools used are included in the video description.
 
 
 Cleaning the **trunk** is the next step.
