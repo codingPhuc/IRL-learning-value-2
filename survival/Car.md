@@ -46,3 +46,9 @@ https://www.youtube.com/watch?v=HPqjLxY9ZCk&ab_channel=CleanThatUp
 
 
 ### cleaning the outside glass of your wind sheild 
+https://www.youtube.com/watch?v=_Dyk5KIq7P0&ab_channel=ShopToolReviews 
+- paper tower 
+- microfiber   tower 
+- water 
+water spot how to remove them [removing water spot](https://dfisolutions.com/how-to-remove-water-stains-from-car-glass/)
+
