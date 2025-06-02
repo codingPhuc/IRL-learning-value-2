@@ -91,3 +91,4 @@ Got it! Here's your updated **Obsidian-style to-do list**, with checkboxes and y
 
 ---
 
+- [] water proof pouch 
