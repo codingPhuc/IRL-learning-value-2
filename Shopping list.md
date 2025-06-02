@@ -91,3 +91,5 @@ Got it! Here's your updated **Obsidian-style to-do list**, with checkboxes and y
 
 ---
 
+- [] water proof pouch 
+- Tempared grass i phone 14$ at wall mark 
