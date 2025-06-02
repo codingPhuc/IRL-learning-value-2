@@ -5,6 +5,7 @@ tags:
   - In_Progress
 reference: https://www.youtube.com/watch?v=CFXfSBR5Q9w&ab_channel=ChrisFix
 Current date: 2025-06-01
+refer:
 ---
 
 
@@ -37,3 +38,11 @@ used the wash mitt first
 rinse of the mitt then dumb it into the soap again do this until it all done 
 behind the gas cap door there is an item inside 
 
+
+
+###  cleaning the inside glass of your car 
+
+https://www.youtube.com/watch?v=HPqjLxY9ZCk&ab_channel=CleanThatUp 
+
+
+### cleaning the outside glass of your wind sheild 
