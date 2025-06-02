@@ -217,7 +217,6 @@ Okay, I just went through this whole thread and compiled a summary of what I fee
 35. Assure the unit has adequate storage space for your needs.
     
 36. 1st floor apartments are most convenient for thieves, and the most frequently broken into.
-    
 37. It's usually best to avoid living in the same building as your landlord, unless the other tenants vouch for them.
     
 38. If there's a homeowner's association, find out its rules.
