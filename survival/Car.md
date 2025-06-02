@@ -28,3 +28,12 @@ Super Clean step
 make sure that the car is cool 
 mirco  fiber tower to pull dirt out of your pain,  pull the tag  off 
 
+### Touch wash 
+
+have  two bucket one for cleaning, one for rinse 
+the rinse bucket have a grit guard inside 
+Tower microfiber wash mitt pull the dirt inside the fiber 
+used the wash mitt first  
+rinse of the mitt then dumb it into the soap again do this until it all done 
+behind the gas cap door there is an item inside 
+
