@@ -238,6 +238,10 @@ Given the conflicting reviews, especially regarding his professionalism and the 
 By diligently following this plan, especially the emphasis on comprehensive reading and detailed note-taking from both lectures and texts, you'll significantly increase your chances of passing his tests and achieving a good grade in Professor Swendson's class.
 
 - [Andrew Dunnigan]()
+Meeting place |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+|GWC Mathematics & Science Ctr 155|32|29|30|0|Andrew Dunnigan|06/09-07/18|6|
+||   |   |   |   ||T|W|Th||||11:20am - 02:30pm|GWC Mathematics & Science Ctr 213|
 
 no courses material require for both of the professor 
 https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true
