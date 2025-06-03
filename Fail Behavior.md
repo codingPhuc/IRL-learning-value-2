@@ -135,7 +135,8 @@ Here's a **cleaned, formatted**, and **numbered version** of your note. Repeated
 
 1. Do **not** wash clothes when the air conditioner is on.
     
-2. Open the washing machine when you're done with the clothes.
+2. Open the washing machine when you're done with the clothes. 
+3. wash your banket separately 
     
 
 ### 🍽️ Dishwashing
