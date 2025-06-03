@@ -6,7 +6,7 @@
 - [ ] new mouse  '
 - [ ] laptop cleaning tower 
 - [ ] Eubbing alcohole 
-- [ ]  Le Chef Patissier Hazelnut Choc Crepes, 20 count
+- [x]  Le Chef Patissier Hazelnut Choc Crepes, 20 count
 - [x] Gummy candy 
 - [x] Crepes 
 - [ ] Swimming cloth 
