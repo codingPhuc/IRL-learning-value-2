@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fail Behavior.md",
+                "file": "collage/Golden  West/Semester at golden  West.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fail Behavior"
+              "title": "Semester at golden  West"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fail_behavior  ",
+                "query": "book ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -164,8 +164,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,13 +261,14 @@
   "active": "bb2806a82560bf8f",
   "lastOpenFiles": [
     "daily note/2025-06-02.md",
-    "daily note/2025-06-01.md",
+    "collage/Golden  West/Semester at golden  West.md",
+    "collage/Golden  West/Golden West Community College.md",
     "Fail Behavior.md",
+    "daily note/2025-06-01.md",
     "daily note/2025-05-31.md",
     "daily note/2025-05-30.md",
     "daily note/2025-05-29.md",
     "daily note/2025-05-28.md",
-    "collage/Golden  West/Golden West Community College.md",
     "2025-04-11.md",
     "perpare too be kick out/rent.md",
     "Shopping list.md",
@@ -277,7 +277,6 @@
     "jobs/career path.md",
     "immigration/h1b/H1B.md",
     "collage/Golden  West/Semester at golden  West fall 2025.md",
-    "collage/Golden  West/Semester at golden  West.md",
     "PHD.md",
     "High-Performance Computing.md",
     "2024-03-29.md",

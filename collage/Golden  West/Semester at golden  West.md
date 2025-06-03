@@ -166,6 +166,8 @@ Let me know if you need any modifications!
 
 ##  reschedule courses 
 - [Paul Swendson](https://www.ratemyprofessors.com/professor/435624) 
+
+https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true
 This professor has a highly mixed bag of reviews, with a significant split between those who find him engaging and fair, and those who find him unprofessional, biased, and a tough grader. However, a clear pattern emerges on how to approach his class and tests.
 
 Here's a summary of the information and a plan to pass his tests:
@@ -237,6 +239,8 @@ By diligently following this plan, especially the emphasis on comprehensive read
 
 - [Andrew Dunnigan]()
 
+no courses material require for both of the professor 
+https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true
 
 
 # good  teacher  
