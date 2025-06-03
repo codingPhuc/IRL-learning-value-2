@@ -1,17 +1,17 @@
 
 # #Todo_question 
-- [ ][ ]  pumice stone 
-- [ ][ ] acer laptop fan  
-- [ ][ ] screw driver kit  for cleaning  
-- [ ][ ] new mouse  '
-- [ ][ ] laptop cleaning tower 
-- [ ][ ] Eubbing alcohole 
-- [ ][ ] # Le Chef Patissier Hazelnut Choc Crepes, 20 count
-- [ ][x] Gummy candy 
-- [ ][x] Crepes 
-- [ ][ ] Swimming cloth 
-- [ ][ ]  Body wash 
-- [ ][ ] A congainer for food
+- [ ]  pumice stone 
+- [ ] acer laptop fan  
+- [ ] screw driver kit  for cleaning  
+- [ ] new mouse  '
+- [ ] laptop cleaning tower 
+- [ ] Eubbing alcohole 
+- [ ] # Le Chef Patissier Hazelnut Choc Crepes, 20 count
+- [x] Gummy candy 
+- [x] Crepes 
+- [ ] Swimming cloth 
+- [x]  Body wash 
+- [ ] A congainer for food
 Got it! Here's your updated **Obsidian-style to-do list**, with checkboxes and your added item ("A container for food") integrated into the correct format. Everything is now consistently in checklist format:
 
 ---
@@ -91,5 +91,5 @@ Got it! Here's your updated **Obsidian-style to-do list**, with checkboxes and y
 
 ---
 
-- [] water proof pouch 
+- [ ] water proof pouch 
 - Tempared grass i phone 14$ at wall mark 
