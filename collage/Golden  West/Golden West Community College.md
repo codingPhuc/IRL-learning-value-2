@@ -416,7 +416,8 @@ there will be  an even
 - [ ] figure out about research opportunity [[PHD#Todo_question]]  
 - [ ] research about who in this https://www.goldenwestcollege.edu/pathways/stem/index.html 
 - [ ] figure out what classes you need to take [class too  take](https://sac.edu/sce/programs/activeadults/Pages/Fitness.aspx)  
-- [ ] class for replacing your tire seem  good enough https://www.goldenwestcollege.edu/noncredit/automotive-technology/index.html 
+- [ ] class for replacing your tire seem  good enough https://www.goldenwestcollege.edu/noncredit/automotive-technology/index.html  
+- [ ] learn how to tuitor https://catalog.cccd.edu/orange-coast/pathways/find-pathway/noncredit-certificate-programs/tutoring/tutoring-skills-strategies-certificate-completion/#text
 
 
 
