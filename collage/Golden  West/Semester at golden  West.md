@@ -242,7 +242,7 @@ Meeting place |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 |GWC Mathematics & Science Ctr 155|32|29|30|0|Andrew Dunnigan|06/09-07/18|6|
 ||   |   |   |   ||T|W|Th||||11:20am - 02:30pm|GWC Mathematics & Science Ctr 213|
-
+https://sites.google.com/view/ad-biol-100-summer-2025?usp=sharing 
 no courses material require for both  of the professor 
 https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true
 
