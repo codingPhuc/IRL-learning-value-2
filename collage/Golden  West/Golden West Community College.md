@@ -415,6 +415,10 @@ there will be  an even
 	![[Semester at golden  West fall 2025#🗓️ Fall 2025 (14 Credits)]]
 - [ ] figure out about research opportunity [[PHD#Todo_question]]  
 - [ ] research about who in this https://www.goldenwestcollege.edu/pathways/stem/index.html 
+- [ ] figure out what classes you need to take [class too  take](https://sac.edu/sce/programs/activeadults/Pages/Fitness.aspx)  
+- [ ] class for replacing your tire seem  good enough https://www.goldenwestcollege.edu/noncredit/automotive-technology/index.html 
+
+
 
 
 
