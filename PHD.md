@@ -238,4 +238,6 @@ Ask professors you've formed meaningful academic connections with, especially th
 - [ ] https://www.fullerton.edu/projectraise/community-college-students/ure/ 
 - [ ] https://sccollege.edu/students/studentservices/careerservices/SitePages/STEM-Career-Information.aspx 
 - [ ] https://www.goldenwestcollege.edu/stem/opportunities/index.html
+- [ ] this  place for certificate https://noce.edu/schedule/ 
+
 
