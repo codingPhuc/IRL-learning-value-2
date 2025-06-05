@@ -13,6 +13,11 @@ Here's a **cleaned, formatted**, and **numbered version** of your note. Repeated
 
 ---
 
+
+# Critical errors 
+- You should tell people everything   
+
+
 # ✅ **General Behavior & Manners**
 
 ### 🗣️ Speaking and Listening

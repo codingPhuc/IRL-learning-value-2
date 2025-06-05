@@ -224,6 +224,37 @@ Student Government is a group of students working directly with the college to e
 - Students from **Los Angeles** or **UCLA/UCI** may be lower priority for local CSU campuses.
 
 #  facility   
+
+
+
+
+##  Canvas  Golden West 
+
+
+[https://www.goldenwestcollege.edu/asc/index.html](https://www.goldenwestcollege.edu/asc/index.html)  
+  
+**Zainab Umarji**  to  Everyone 11:36 AM  
+[https://coastdistrict.instructure.com/enroll/N6WACB](https://coastdistrict.instructure.com/enroll/N6WACB)  
+  
+**Zainab Umarji** 11:42 AM  
+[https://www.goldenwestcollege.edu/how-to-videos/index.html](https://www.goldenwestcollege.edu/how-to-videos/index.html)
+
+
+
+
+
+
+## tutoring service for class 
+
+https://pisces.link-systems.com/school-hub/9cef5f30-7725-4f87-ad16-fd65957acd8e 
+
+
+
+## writing tutoring 
+
+https://gwc.accudemia.net/private/appointments/new 
+
+
 ##  instructor contact 
 
 [https://www.cccd.edu/employees/directories.html](https://www.cccd.edu/employees/directories.html) 
@@ -354,7 +385,11 @@ https://payment.paymytuition.com/paynow/cccd?dataPostGuid=eMWZqTR7H6bFtveq7ibIU3
 ## collage app  
 [https://www.goldenwestcollege.edu/gwcapp/index.html](https://www.goldenwestcollege.edu/gwcapp/index.html)  
 
-  
+
+
+
+
+
 
 
 #  second question  session 
@@ -471,16 +506,9 @@ what is great clip
 
 ### [Campbell Biology: Concepts and Connections](https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true#)
 
-Golden  west canvas  tell you  
 
 
-[https://www.goldenwestcollege.edu/asc/index.html](https://www.goldenwestcollege.edu/asc/index.html)  
-  
-**Zainab Umarji**  to  Everyone 11:36 AM  
-[https://coastdistrict.instructure.com/enroll/N6WACB](https://coastdistrict.instructure.com/enroll/N6WACB)  
-  
-**Zainab Umarji** 11:42 AM  
-[https://www.goldenwestcollege.edu/how-to-videos/index.html](https://www.goldenwestcollege.edu/how-to-videos/index.html)
+
 
 
 
