@@ -232,6 +232,10 @@ https://www.reddit.com/r/cscareerquestions/comments/va6635/those_of_you_who_did_
 Ask professors you've formed meaningful academic connections with, especially through research, multiple classes, or office hour conversations. Start early, communicate clearly, and don’t be afraid to reach out—even during remote learning.
 
 
+## recovery  code 
+
+IDME-JGKN-H64Q-ZJYF 
+
 
 ## #Todo_question 
 - [ ] finding research opertunity  
