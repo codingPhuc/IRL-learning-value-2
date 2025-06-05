@@ -419,7 +419,10 @@ there will be  an even
 - [ ] class for replacing your tire seem  good enough https://www.goldenwestcollege.edu/noncredit/automotive-technology/index.html  
 - [ ] learn how to tuitor https://catalog.cccd.edu/orange-coast/pathways/find-pathway/noncredit-certificate-programs/tutoring/tutoring-skills-strategies-certificate-completion/#text  
 - [ ] ask about extra curriculars https://extracurriculars.org/ 
-- [ ] learn about PIQ  https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html  
+- [ ] learn about PIQ  https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html    
+- [ ] no link https://www.google.com/search?q=can+I+include+website+link+in+my+transfer+essay&oq=can+I++include+website+link+in+my+transfer+essay+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAjIHCAYQIRiPAtIBCTEwOTA3ajBqNKgCCLACAfEFXy0NXxxJnUY&sourceid=chrome&ie=UTF-8 
+
+
 
 
 
