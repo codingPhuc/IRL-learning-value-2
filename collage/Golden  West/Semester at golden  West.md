@@ -273,17 +273,15 @@ https://sites.google.com/view/ad-biol-100-summer-2025?usp=sharing
 #### Question  to ask 
 
 Could you provide a general weekly overview of what topics we'll be covering? I'd like to preview and pace my self-study accordingly. ? 
+
 Can I see a sample of what a typical pre-class assignment or lab report looks like? I’d like to make sure I’m clear on your expectations early on ?  Like a Video of the lab exercise in class for example 
 How many hours per day or week would you recommend spending on self-study and review outside of class? 
 
-Beyond the OpenStax textbook and the assigned videos, are there any websites, YouTube channels, or resources you recommend for better understanding the material?  
-
-What are some habits or strategies that you’ve seen successful students use in this class?
+What are some habits or strategies that you’ve seen successful students use in this class? What are the recommended time for self studying ? 
 
 Do you use the same lecture slides each semester, and are they posted ahead of class? 
 
 Will we get feedback on our lab reports, or just a grade? 
-
 
 Are they multiple choice, short answer, written response, or a combination? Are they focused more on memorization or application/critical thinking?
 
@@ -291,23 +289,20 @@ Are the exams theory-based, or will they include any practical or case-based com
 
 Could you share a sample exam question or a practice test so I can better understand what to expect?
 
-
 Is there a guide, video, or pre-reading for the specific lab experiment we'll be doing?
 
 Does reviewing the lab before class mean studying new concepts, or reviewing concepts already introduced in lecture?
 
 Are the lab quizzes based only on the prep material or also on the previous lab's results and analysis?
-
+"Quizzes (50% of your lab grade)- Students will take an online quiz lab on the material that you are about to perform. This means that it is vitally important that you review the lab BEFORE coming to class!" can you make this section more clearer. Like will you specify the reading material before each lab, so that we can understand it and do the lab more effectively ? 
 
 Can I get a weekly breakdown or overview of what topics we’ll cover in both lecture and lab?  
 (This helps with organizing your time and preparing in advance.)
-What is the expected self-study time per week outside of class and lab hours?
-Will there be any essay writing or long-form assignments in this course?
-What are the final requirements for the course?  Is there a final exam or final project/paper?
+
 Besides the OpenStax textbook and Canvas videos, are there any recommended resources—like YouTube channels, study websites, or apps—that could help me understand the material more effectively?
-What study strategies have you seen work best for students who succeed in this course?
+
 Do you offer any optional review sessions before exams or quizzes?
-If I fall behind, what is the best way to catch up or get help before it’s too late?
+
 
 
 # good  teacher  
