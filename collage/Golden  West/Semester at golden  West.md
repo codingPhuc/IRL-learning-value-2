@@ -236,15 +236,181 @@ Given the conflicting reviews, especially regarding his professionalism and the 
     - **Sensitive Topics:** The review mentioning "inconsiderate thoughts on sexual topics and toys" in his book is a significant red flag. If you are uncomfortable with such content, be prepared to address it (e.g., talk to him, department head, student services) or consider dropping the class if it's a severe issue. Document any such instances.
 
 By diligently following this plan, especially the emphasis on comprehensive reading and detailed note-taking from both lectures and texts, you'll significantly increase your chances of passing his tests and achieving a good grade in Professor Swendson's class.
+Sure! Here's a cleaner and more readable format for the information you provided:
 
-- [Andrew Dunnigan]()
-Meeting place |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-|GWC Mathematics & Science Ctr 155|32|29|30|0|Andrew Dunnigan|06/09-07/18|6|
-||   |   |   |   ||T|W|Th||||11:20am - 02:30pm|GWC Mathematics & Science Ctr 213|
-https://sites.google.com/view/ad-biol-100-summer-2025?usp=sharing 
-no courses material require for both  of the professor 
-https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true
+---
+
+### **Professor:** Andrew Dunnigan
+
+**Course:** BIOL G100 – Introduction to Biology (Summer 2025)  
+**Dates:** June 9 – July 18, 2025  
+**Units:** 6 units  
+**Meeting Days:** Tuesday, Wednesday, Thursday  
+**Time:** 11:20 AM – 2:30 PM  
+**Classroom:**
+
+- **Lecture:** GWC Mathematics & Science Center, Room 155
+    
+- **Lab:** GWC Mathematics & Science Center, Room 213
+    
+
+**Course Website:**  
+[https://sites.google.com/view/ad-biol-100-summer-2025?usp=sharing](https://sites.google.com/view/ad-biol-100-summer-2025?usp=sharing)
+
+**Textbook/Materials:**  
+No course materials required for this class.  
+You can double-check here:  
+[https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true](https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true)
+
+---
+
+
+https://sites.google.com/view/ad-biol-100-summer-2025?usp=sharing
+
+
+
+
+#### Question  to ask 
+
+
+Your questions are thoughtful and show you're trying to get ahead — which is exactly what a fast-paced biology class like this needs. Here’s how you could organize your questions to ask **Professor Dunnigan** (via email, office hours, or the first week of class), along with some improvements and additions to lift your chances of success:
+
+---
+
+### ✅ **Suggested Questions to Ask Professor Dunnigan**
+
+---
+
+#### 🔎 **1. Weekly Overview**
+
+> _"Could you provide a general weekly overview of what topics we'll be covering? I'd like to preview and pace my self-study accordingly."_
+
+🟢 Why: Helps you avoid surprises and plan your studying smartly.
+
+---
+
+#### 📚 **2. Assignment Types & Examples**
+
+> _"Can I see a sample of what a typical pre-class assignment or lab report looks like? I’d like to make sure I’m clear on your expectations early on."_
+
+🟢 Why: Reduces anxiety and increases your confidence on the workload.
+
+---
+
+#### ⏱ **3. Study Time Recommendation**
+
+> _"How many hours per day or week would you recommend spending on self-study and review outside of class?"_
+
+🟢 Why: Gives you a target so you don’t fall behind in this fast-paced 6-week course.
+
+---
+
+#### 📝 **4. Essay Writing**
+
+> _"Will this course involve writing essays or longer written responses beyond lab reports?"_
+
+🟢 Why: Lets you prep your writing and time management.
+
+---
+
+#### 🎓 **5. Final Requirement**
+
+> _"Is there a final exam, project, or paper at the end of the course? If so, could you briefly describe what it involves?"_
+
+🟢 Why: Knowing this early helps you backward-plan your preparation.
+
+---
+
+#### 📖 **6. Extra Learning Resources**
+
+> _"Beyond the OpenStax textbook and the assigned videos, are there any websites, YouTube channels, or resources you recommend for better understanding the material?"_
+
+🟢 Why: Shows motivation and helps you find what works for you.
+
+---
+
+#### 💯 **7. Tips for Succeeding**
+
+> _"What are some habits or strategies that you’ve seen successful students use in this class?"_
+
+🟢 Why: You’ll learn from others’ success and maybe avoid common mistakes.
+
+---
+
+### 🧠 Bonus Questions That Show You’re Serious
+
+If time allows or in office hours, also consider:
+
+- _"Do you use the same lecture slides each semester, and are they posted ahead of class?"_
+    
+- _"Are lab quizzes open-note or closed-book?"_
+    
+- _"Will we get feedback on our lab reports, or just a grade?"_
+    
+- _"If I do poorly on the first exam, is there a way to improve or recover aside from just dropping it?"_
+    
+
+---
+
+Let me know if you'd like help drafting a polished email or message with all of these in a friendly, professional tone!
+
+
+
+Here’s a clean and professional version of your questions, formatted to ask your instructor (Andrew Dunnigan). I've also included **additional smart questions** you can ask to better understand the course and improve your chances of success.
+
+---
+
+### 🔹 Questions to Ask Professor Dunnigan
+
+#### 🧪 Lecture Exams:
+
+1. **What format are the lecture exams?**  
+    Are they multiple choice, short answer, written response, or a combination? Are they focused more on memorization or application/critical thinking?
+    
+2. **Are the exams theory-based, or will they include any practical or case-based components?**
+    
+3. **Could you share a sample exam question or a practice test so I can better understand what to expect?**
+    
+
+---
+
+#### 🧬 Lab Preparation:
+
+4. **When you say it’s “vitally important to review the lab before coming to class,” what exactly should I be reviewing?**  
+    Is there a guide, video, or pre-reading for the specific lab experiment we'll be doing?
+    
+5. **Does reviewing the lab before class mean studying new concepts, or reviewing concepts already introduced in lecture?**
+    
+6. **Are the lab quizzes based only on the prep material or also on the previous lab's results and analysis?**
+    
+
+---
+
+### 📘 Additional Helpful Questions for Success
+
+7. **Can I get a weekly breakdown or overview of what topics we’ll cover in both lecture and lab?**  
+    (This helps with organizing your time and preparing in advance.)
+    
+8. **What is the expected self-study time per week outside of class and lab hours?**
+    
+9. **Will there be any essay writing or long-form assignments in this course?**
+    
+10. **What are the final requirements for the course?**  
+    Is there a final exam or final project/paper?
+    
+11. **Besides the OpenStax textbook and Canvas videos, are there any recommended resources—like YouTube channels, study websites, or apps—that could help me understand the material more effectively?**
+    
+12. **What study strategies have you seen work best for students who succeed in this course?**
+    
+13. **Do you offer any optional review sessions before exams or quizzes?**
+    
+14. **If I fall behind, what is the best way to catch up or get help before it’s too late?**
+    
+
+---
+
+Let me know if you’d like me to turn this into a message/email you can send to the professor!
+
 
 
 # good  teacher  

@@ -502,19 +502,6 @@ what is great clip
 
 
 
-  
-
-### [Campbell Biology: Concepts and Connections](https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCustomerAdoptions=true#)
 
 
-
-
-
-
-
-## Bus pass 
-https://www.goldenwestcollege.edu/public-safety/parking/visitor-guest/index.html
-
-## Driving practice 
-https://www.google.com/maps/@33.8153092,-117.9934216,3a,87.8y,138.6h,75.68t/data=!3m10!1e1!3m8!1s6xW3qbBmzmezAzBqlS51BQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.319203597322826%26panoid%3D6xW3qbBmzmezAzBqlS51BQ%26yaw%3D138.60294928157268!7i16384!8i8192!9m2!1b1!2i49?entry=ttu&g_ep=EgoyMDI1MDUxNS4xIKXMDSoASAFQAw%3D%3D
 
