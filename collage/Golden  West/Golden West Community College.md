@@ -233,6 +233,193 @@ https://www.goldenwestcollege.edu/stem/opportunities/index.html
 https://www.goldenwestcollege.edu/campus-life/volunteer/index.html 
 
 
+# Rules 
+
+Here is your information rewritten in a clear, structured, and readable format:
+
+---
+
+### **IMMIGRATION DOCUMENTS AND REQUIREMENTS**
+
+- **I-94**
+    
+    - Must be printed every month.
+        
+    - Always carry a printed copy.
+        
+- **I-20**
+    
+    - Will be sent to your email.
+        
+    - You must print it.
+        
+    - Page 1: You must sign it.
+        
+    - Page 2: Contains CPT (Curricular Practical Training) and job/volunteer information.
+        
+- **Sending Email to ISP**
+    
+    - Include your full name.
+        
+    - Include your student ID number.
+        
+- **Documents to Carry at All Times**
+    
+    - Printed I-94
+        
+    - Printed and signed I-20
+        
+    - Valid photo identification (e.g., passport or California state ID)
+        
+        - Do **not** use a Real ID.
+            
+        - You **can** use a California ID, available from the DMV.
+            
+- **Address or Phone Number Changes**
+    
+    - You are required to notify the school of any change in address.
+        
+    - Invalid or outdated phone numbers are not acceptable.
+        
+
+---
+
+### **ENROLLMENT AND ACADEMIC REQUIREMENTS**
+
+- **Full-Time Enrollment**
+    
+    - Required during Fall and Spring semesters only.
+        
+    - You must enroll in at least **12 units**.
+        
+        - At least **9 units must be in-person** (on campus).
+            
+    - You do **not** need to attend classes during Summer.
+        
+- **Course Format Rules**
+    
+    - F-1 students must be physically present on campus.
+        
+    - You may take **1 course online**, the rest must be in-person.
+        
+    - **HyFlex courses** can be attended online or in person.
+        
+        - However, if attending online, it still counts as an **online class**.
+            
+- **Class Attendance**
+    
+    - You must attend classes during the **first week**.
+        
+    - For online classes, you must complete any required assignments.
+        
+- **Class Withdrawals**
+    
+    - A "W" (withdrawal) on your record can negatively affect your immigration status.
+        
+- **Failed Classes**
+    
+    - If you fail too many classes, you may **not be allowed to retake** them.
+        
+- **Tutoring and Academic Support**
+    
+    - Free tutoring is available.
+        
+    - If you're struggling, talk to your professor or a counselor.
+        
+- **Changing Majors**
+    
+    - If you change your major, your I-20 **cannot** be automatically updated.
+        
+    - Meet with a counselor to update your educational plan.
+        
+- **Other College Enrollment**
+    
+    - If taking a course at another college (e.g., Coursera or online college):
+        
+        1. You must complete the sequence at your community college.
+            
+        2. You must pay an additional maintenance fee.
+            
+        3. You must prove that you're only taking nearby or related courses.
+            
+
+---
+
+### **HEALTH AND SAFETY**
+
+- **Medical Care**
+    
+    - Two types of situations:
+        
+        - **Non-emergency**: You can go to the campus health center or find a doctor in your area.
+            
+        - **Emergency** (e.g., car crash): Requires urgent care; cannot be delayed.
+            
+    - Ask about your **doctor account**.
+        
+    - **July 10** is the **deadline for health insurance**.
+        
+- **Public Safety Tips**
+    
+    - This is a public campus; always be cautious.
+        
+    - Don’t leave personal items unattended:
+        
+        - Laptops in the library
+            
+        - Credit cards or phones
+            
+    - Use a **U-shaped metal lock** for bikes.
+        
+        - Always lock your bike to a solid structure.
+            
+    - Be aware of your surroundings.
+        
+        - Keep one earphone out while walking.
+            
+- **Driving Rules**
+    
+    - Do **not** use marijuana.
+        
+    - Do **not** drink and drive.
+        
+    - Using your phone at a stoplight can result in a **$500 fine**.
+        
+    - Missing a court date for a traffic ticket is serious.
+        
+    - Avoid speeding — you are expected to follow the law.
+        
+
+---
+
+### **COURSE PLANNING AND SUPPORT**
+
+- You can get help choosing courses, especially in Social Sciences.
+    
+- There is a **Career Center** upstairs:
+    
+    - Offers testing and help with choosing a career track or program.
+        
+- If you feel homesick or overwhelmed, speak to a professor or counselor.
+    
+
+---
+
+### **CLASS FORMAT CLARIFICATIONS**
+
+|Format|Description|
+|---|---|
+|72 (online class)|Fully online, counts as an online course.|
+|02 (on-campus course)|Fully on campus, counts as in-person.|
+|Hy (on-campus)|Hybrid, in-person component included.|
+|Hy (online)|Hybrid with live online sessions – still considered online.|
+
+---
+
+Let me know if you'd like this turned into a printable checklist or official-looking document.
+
+
+
 #  facility   
 
 
@@ -428,6 +615,9 @@ Counseling Office - (714) 892-7711 ext. 58119
 
 Join  club only possible on the fall  
 there will be  an even
+
+
+
 
 
 
