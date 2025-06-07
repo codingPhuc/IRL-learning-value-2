@@ -124,8 +124,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3effc1a315a90376",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
     "daily note/2025-06-02.md",
     "collage/Golden  West/Semester at golden  West.md",
