@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Golden west ",
+                "query": "clothing",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -124,7 +124,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb2806a82560bf8f",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "perpare too be kick out/California license.md",
     "daily note/2025-06-08.md",
