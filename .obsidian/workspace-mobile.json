@@ -106,7 +106,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Golden",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -141,7 +141,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fa1c0affd16e263e",
@@ -208,8 +208,12 @@
   },
   "active": "11dfd77bdf225167",
   "lastOpenFiles": [
-    "daily note/2025-06-07.md",
+    "/daily note/2025-06-08.md",
+    "/daily note",
+    "collage/Golden  West/Golden West Community College.md",
+    "daily note/2025-05-07.md",
     "daily note/2025-06-08.md",
+    "daily note/2025-06-07.md",
     "/perpare too be kick out/California license.md",
     "perpare too be kick out/California license.md",
     "/perpare too be kick out",
@@ -218,7 +222,6 @@
     "daily note/2025-06-05.md",
     "daily note/2025-06-04.md",
     "daily note/2025-06-03.md",
-    "collage/Golden  West/Golden West Community College.md",
     "collage/Golden  West/Semester at golden  West.md",
     "Fail Behavior.md",
     "/perpare too be kick out/rent.md",
@@ -237,9 +240,6 @@
     "daily note/2025-05-30.md",
     "daily note/2025-05-29.md",
     "/daily note/2025-05-28.md",
-    "/daily note",
-    "/collage/Golden  West/Semester at golden  West fall 2025.md",
-    "/collage/Golden  West/Golden West Community College.md",
     "Immigrants law",
     "/immigration/h1b",
     "/immigration",
