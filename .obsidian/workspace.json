@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "food.md",
+                "file": "peoples/person of interest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "food"
+              "title": "person of interest"
             }
           }
         ],
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "food",
+                "query": "relationship",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -139,7 +139,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -235,6 +236,11 @@
   },
   "active": "4ceb58a1a8f42e44",
   "lastOpenFiles": [
+    "collage/Golden  West/Golden West Community College.md",
+    "daily note/2025-05-30.md",
+    "ielts/17 Writing.md",
+    "daily note/2025-06-08.md",
+    "food.md",
     "Fail Behavior.md",
     "What to bring.md",
     "Todo what to bring and  buy.md",
@@ -242,13 +248,10 @@
     "collage/School to transfer to criterial.md",
     "peoples/person of interest.md",
     "perpare too be kick out/Van life/info 1.md",
-    "collage/Golden  West/Golden West Community College.md",
     "Game Plan.md",
-    "food.md",
     "bank food store and other.md",
     "perpare too be kick out/Clothing.md",
     "perpare too be kick out/Untitled.md",
-    "daily note/2025-06-08.md",
     "perpare too be kick out/California license.md",
     "perpare too be kick out/rent.md",
     "perpare too be kick out/Keep  calm  and follow these plan.md",
@@ -259,8 +262,6 @@
     "jobs/High-Performance Computing.md",
     "jobs/Embedded Software Development.md",
     "jobs/DSP.md",
-    "jobs/Data Science.md",
-    "jobs/Computer Engineer.md",
     "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "collage/los angles 1  transfer electric.pdf",
     "collage/Untitled",
