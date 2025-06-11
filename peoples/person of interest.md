@@ -152,13 +152,6 @@ thuốc  turmeric  1 cái  40$  5 cái  200$
 
 
 
-
-##  bà  tư 
-[address](https://www.google.com/maps/dir/3050+West+Ball+Road,+Anaheim,+CA/Lowe's+Home+Improvement,+8175+Warner+Ave,+Huntington+Beach,+CA+92647/11300+Warner+Ave+a111,+Fountain+Valley,+CA+92708/@33.8190713,-118.0069496,2894m/data=!3m1!1e3!4m25!4m24!1m5!1m1!1s0x80dd29361d1bc4b9:0x1b0c86ee89faf974!2m2!1d-117.9962842!2d33.815102!1m10!1m1!1s0x80dd26f6de4e2b23:0xa349bc3deea6bc37!2m2!1d-117.985925!2d33.717075!3m4!1m2!1d-117.9732898!2d33.7144421!3s0x80dd26fd6a8f616b:0x11c61ade0837a176!1m5!1m1!1s0x80dd2760d295590d:0x2829e9417407c086!2m2!1d-117.9306658!2d33.71578!3e0?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D)
-
-
-
-
 #  Todo for living circumstances  
 
 ## my family 
