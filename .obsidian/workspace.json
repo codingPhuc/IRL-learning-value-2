@@ -28,16 +28,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily note/2025-06-10.md",
+                "file": "daily note/2025-06-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-10"
+              "title": "2025-06-11"
+            }
+          },
+          {
+            "id": "82c68243b96a77de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f87431ac6d32dc48",
@@ -139,8 +153,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,10 +247,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ceb58a1a8f42e44",
+  "active": "82c68243b96a77de",
   "lastOpenFiles": [
-    "collage/Golden  West/Semester at golden  West.md",
+    "daily note/2025-06-11.md",
+    "Untitled 2.md",
     "daily note/2025-06-10.md",
+    "collage/Golden  West/Semester at golden  West.md",
     "peoples/person of interest.md",
     "collage/Golden  West/Golden West Community College.md",
     "daily note/2025-05-30.md",
@@ -260,8 +275,6 @@
     "peoples/Todo for Living circumstances.md",
     "peoples/Untitled.md",
     "jobs/Signal Processing.md",
-    "jobs/PHD.md",
-    "jobs/High-Performance Computing.md",
     "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "collage/los angles 1  transfer electric.pdf",
     "collage/Untitled",
