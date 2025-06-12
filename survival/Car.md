@@ -130,3 +130,8 @@ The final cleaning step in this segment is the **headliner**. Headliners are des
 - If a **watermark** occurs, you need to **feather it out**. While the area is still damp, use a clean towel or brush to blend the edge of the damp area outwards into the dry headliner, like feathering paint. Then, lightly wipe up moisture with a dry towel. This prevents a hard watermark line from appearing when it dries.
 
 After cleaning the carpets, floor mats, trunk, and headliner, the interior starts to look "brand spanking new". The carpets look and smell much better, and distracting stains on the headliner are gone. The video indicates that cleaning the dashboard, center console, door panels, and seats will be covered in a future video.
+
+
+# This is the place to contact for car insurant 
+
+12921 Fern St, Garden Grove, CA 92841
