@@ -23,3 +23,9 @@ They are a sack of stuff there is no orangization inside the cell
 The cell wall is made of strack and protein 
 Peptidoglycan thr body make anti biotic 
 Pili are extension or cytoplasm 
+
+
+
+Eukayotic cell 
+
+
