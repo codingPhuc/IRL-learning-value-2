@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "car",
+                "query": "lab",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -247,7 +247,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb2806a82560bf8f",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "survival/Car.md",
     "daily note/2025-06-13.md",
