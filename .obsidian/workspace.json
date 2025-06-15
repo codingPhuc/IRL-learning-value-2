@@ -153,8 +153,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,7 +247,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb2806a82560bf8f",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
     "daily note/2025-06-13.md",
     "ielts/16 Writing.md",
