@@ -236,12 +236,54 @@ Ask professors you've formed meaningful academic connections with, especially th
 
 IDME-JGKN-H64Q-ZJYF 
 
+  
+# [research ](https://www.reddit.com/user/elucidateobfuscation/)
+I graduated from undergrad in 2020 and will be starting an MD/PhD in the summer, so I do apologize if things are out of date or biased towards medicine/biological sciences! To condense some of the resources out there to try:
 
+**Structured UCSD Specific Programs**
+
+**1) Academic Internship Program** (AIP - [https://aip.ucsd.edu/](https://aip.ucsd.edu/)): where you can get credit via a 97 or 197 course while working in internship opportunities, and more specific examples include things like the Biology Research Internship Program (BISP 197 - [https://aip.ucsd.edu/whatwedo/bisp197.html](https://aip.ucsd.edu/whatwedo/bisp197.html))
+
+**2) Faculty Mentor Program** (FMP - [https://ugresearch.ucsd.edu/programs/all-urh-programs/fmp/index.html](https://ugresearch.ucsd.edu/programs/all-urh-programs/fmp/index.html)): where you get credit via 99 or 199 courses centered around research with faculty mentors
+
+**3) Undergraduate Research Hub** (URH - [https://ugresearch.ucsd.edu/programs/all-urh-programs/index.html](https://ugresearch.ucsd.edu/programs/all-urh-programs/index.html)): includes the FMP program mentioned above, but this is the more general list of all the programs out there available!
+
+**General Research Opportunity Postings/Opportunities**
+
+**1) Research Experience and Applied Learning Portal** (REAL - [https://real.ucsd.edu/](https://real.ucsd.edu/)): general listing of faculty/opportunities in different areas/different kinds of positions for them
+
+**2) Handshake** ([https://ucsd.joinhandshake.com/login](https://ucsd.joinhandshake.com/login)): a more formalized listing of jobs, internships, etc. including from companies as well as other research institutions nearby
+
+**Nearby Research Institutes/Opportunities**
+
+**1) Salk** ([https://www.salk.edu/science/directory/faculty/](https://www.salk.edu/science/directory/faculty/)): fantastic place for countless different areas of biological research
+
+**2) Sanford Burnham Prebys** ([https://sbpdiscovery.org/our-scientists](https://sbpdiscovery.org/our-scientists)): another great place to check out
+
+**General Advice**
+
+I've been involved with the selection, interviewing, and final decision process when hiring a new assistant before. This is specific to how that lab considers lab assistants/research assistants, but I'm sure other labs consider these factors too.
+
+We look for things like:
+
+**1) How much time you'll have and how it's distributed** - we'd prefer at least 10 hours/week for an assistant position, and we'd rather have it in larger chunks (ex: 5 hour blocks) rather than many small chunks (ex: five 2 hour blocks). We also prefer more regular hours (ex: during the 8 am - 5 pm chunk) over other schedules (ex: if you can only work from 6 pm - 10 pm).
+
+**2) Any prior experience (prior work, classes, etc)** - it just helps/makes training faster, but not required, and/or shows what you may be able to get started with or work towards during your time here/how you can contribute
+
+**3) Commitment** - if you're only looking to stay for a short amount of time, it's less likely that you'll be selected (ex: places prefer someone with a 1+ year commitment vs someone just staying for the summer). This has an added benefit of the fact that you can sometimes transition from a lab assistant to research assistant. One of my former lab coworkers began as a lab assistant before transitioning to a research assistant within a year or so.
+
+**4) Demonstrated interest** - knowing about what the lab does at a rough/high level, submitting other helpful materials like a cover letter (may not be required but definitely is noticed when it was included), etc. all helps!
+
+**Don't be discouraged!** There's a lot of people and just not enough spots for everyone and many professors/people get lots of emails and things can just slip through the cracks. In the current lab I work at, our undergrad had to follow up 3x since our PI is a physician, but he explicitly commented on appreciating the dedication and effort (not to say this works in every case). In my case, I went through like 20-50+ cold emails before getting any response/interest and I had no prior research experience.
+
+Hope this helps and good luck!
+
+Edit: happy to help further/answer any more questions with getting research, med stuff (if applicable to you), etc.!
 ## #Todo_question 
-- [ ] finding research opertunity  
-- [ ] https://www.fullerton.edu/projectraise/community-college-students/ure/ 
-- [ ] https://sccollege.edu/students/studentservices/careerservices/SitePages/STEM-Career-Information.aspx 
-- [ ] https://www.goldenwestcollege.edu/stem/opportunities/index.html
-- [ ] this  place for certificate https://noce.edu/schedule/ 
+- [x] finding research opertunity  
+- [x] https://www.fullerton.edu/projectraise/community-college-students/ure/ 
+- [x] https://sccollege.edu/students/studentservices/careerservices/SitePages/STEM-Career-Information.aspx 
+- [x] https://www.goldenwestcollege.edu/stem/opportunities/index.html
+- [x] this  place for certificate https://noce.edu/schedule/ 
 
 

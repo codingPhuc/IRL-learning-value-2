@@ -35,7 +35,7 @@ https://www.ivc.edu/financial-aid/scholarship/requirements
 # #Todo_question  
 - [x] if I were to study in one community college and then study in another, will I be able to transfer all the courses in the first and second community college  
 - [x] Can I choose any courses that   I want even thought it is not constraint to major 
-- [ ] How much is the fee for international student I know that it 498$ for unit but is this true 
-- [ ] is there an honor program at the community college 
-- [ ] is these course transferable to from my first semester 
-- [ ] is there finance aid that or scholar ship for international student 
+- [x] How much is the fee for international student I know that it 498$ for unit but is this true 
+- [x] is there an honor program at the community college 
+- [x] is these course transferable to from my first semester 
+- [x] is there finance aid that or scholar ship for international student 

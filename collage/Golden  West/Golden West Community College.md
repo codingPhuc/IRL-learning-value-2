@@ -103,7 +103,7 @@ good place to shop for groceries at no  charge low cost shopping  , and get free
 
 
 ## Clubs 
-
+EOPS/CARE/Guardian Scholars
 ###  contact 
 Dnanez@gwc.cccd.edu  
 
@@ -224,6 +224,81 @@ Student Government is a group of students working directly with the college to e
 - Students from **Los Angeles** or **UCLA/UCI** may be lower priority for local CSU campuses.
 
 
+
+#  Class and courses  information 
+
+## **ENROLLMENT AND ACADEMIC REQUIREMENTS**
+
+- **Full-Time Enrollment**
+    
+    - Required during Fall and Spring semesters only.
+        
+    - You must enroll in at least **12 units**.
+        
+        - At least **9 units must be in-person** (on campus).
+            
+    - You do **not** need to attend classes during Summer.
+        
+- **Course Format Rules**
+    
+    - F-1 students must be physically present on campus.
+        
+    - You may take **1 course online**, the rest must be in-person.
+        
+    - **HyFlex courses** can be attended online or in person.
+        
+        - However, if attending online, it still counts as an **online class**.
+            
+- **Class Attendance**
+    
+    - You must attend classes during the **first week**.
+        
+    - For online classes, you must complete any required assignments.
+        
+- **Class Withdrawals**
+    
+    - A "W" (withdrawal) on your record can negatively affect your immigration status.
+        
+- **Failed Classes**
+    
+    - If you fail too many classes, you may **not be allowed to retake** them.
+        
+- **Tutoring and Academic Support**
+    
+    - Free tutoring is available.
+        
+    - If you're struggling, talk to your professor or a counselor.
+        
+- **Changing Majors**
+    
+    - If you change your major, your I-20 **cannot** be automatically updated.
+        
+    - Meet with a counselor to update your educational plan.
+        
+- **Other College Enrollment**
+    
+    - If taking a course at another college (e.g., Coursera or online college):
+        
+        1. You must complete the sequence at your community college.
+            
+        2. You must pay an additional maintenance fee.
+            
+        3. You must prove that you're only taking nearby or related courses.
+            
+
+### **COURSE PLANNING AND SUPPORT**
+
+- You can get help choosing courses, especially in Social Sciences.
+    
+- There is a **Career Center** upstairs:
+    
+    - Offers testing and help with choosing a career track or program.
+        
+- If you feel homesick or overwhelmed, speak to a professor or counselor.
+    
+
+# Class tip 
+- for general  education class you can just  used a pass or fail system you need to talk to your courses instructor for this 
 # Immigration 
 
 immigrant advisor : mbitar1@gwc.cccd.edu 
@@ -284,67 +359,6 @@ Here is your information rewritten in a clear, structured, and readable format:
 
 ---
 
-### **ENROLLMENT AND ACADEMIC REQUIREMENTS**
-
-- **Full-Time Enrollment**
-    
-    - Required during Fall and Spring semesters only.
-        
-    - You must enroll in at least **12 units**.
-        
-        - At least **9 units must be in-person** (on campus).
-            
-    - You do **not** need to attend classes during Summer.
-        
-- **Course Format Rules**
-    
-    - F-1 students must be physically present on campus.
-        
-    - You may take **1 course online**, the rest must be in-person.
-        
-    - **HyFlex courses** can be attended online or in person.
-        
-        - However, if attending online, it still counts as an **online class**.
-            
-- **Class Attendance**
-    
-    - You must attend classes during the **first week**.
-        
-    - For online classes, you must complete any required assignments.
-        
-- **Class Withdrawals**
-    
-    - A "W" (withdrawal) on your record can negatively affect your immigration status.
-        
-- **Failed Classes**
-    
-    - If you fail too many classes, you may **not be allowed to retake** them.
-        
-- **Tutoring and Academic Support**
-    
-    - Free tutoring is available.
-        
-    - If you're struggling, talk to your professor or a counselor.
-        
-- **Changing Majors**
-    
-    - If you change your major, your I-20 **cannot** be automatically updated.
-        
-    - Meet with a counselor to update your educational plan.
-        
-- **Other College Enrollment**
-    
-    - If taking a course at another college (e.g., Coursera or online college):
-        
-        1. You must complete the sequence at your community college.
-            
-        2. You must pay an additional maintenance fee.
-            
-        3. You must prove that you're only taking nearby or related courses.
-            
-
----
-
 ### **HEALTH AND SAFETY**
 
 - **Medical Care**
@@ -390,21 +404,6 @@ Here is your information rewritten in a clear, structured, and readable format:
     - Avoid speeding — you are expected to follow the law.
         
 
----
-
-### **COURSE PLANNING AND SUPPORT**
-
-- You can get help choosing courses, especially in Social Sciences.
-    
-- There is a **Career Center** upstairs:
-    
-    - Offers testing and help with choosing a career track or program.
-        
-- If you feel homesick or overwhelmed, speak to a professor or counselor.
-    
-
----
-
 ### **CLASS FORMAT CLARIFICATIONS**
 
 |Format|Description|
@@ -441,9 +440,12 @@ Let me know if you'd like this turned into a printable checklist or official-loo
 
 
 
-## tutoring service for class 
+## tutoring center  
 
 https://pisces.link-systems.com/school-hub/9cef5f30-7725-4f87-ad16-fd65957acd8e 
+- if you want to apply for the tutoring center you need to : 
+1. have great grade on a subject 
+2. have a letter of recommendation from a teacher 
 
 
 
@@ -463,7 +465,6 @@ https://gwc.accudemia.net/private/appointments/new
 [park]([https://www.goldenwestcollege.edu/public-safety/parking/index.html](https://www.goldenwestcollege.edu/public-safety/parking/index.html) )
 [parking instruction](https://www.goldenwestcollege.edu/Links/pdf/public-safety/guest-visitor-parking-permit-guide.pdf)
 [parking website](https://cccd.t2hosted.com/cmn/addvehicle.aspx)
-## job at the facility 
 
 https://www.reddit.com/r/OregonStateUniv/comments/1en1q7h/is_it_difficult_for_an_international_graduate/ 
 https://www.schooljobs.com/careers/cccd/transferjobs?sort=Salary%7CAscending
@@ -479,8 +480,49 @@ https://www.schooljobs.com/careers/cccd/transferjobs?sort=Salary%7CAscending
 - Some opportunities include working with the **Academic Success Center** (ASC) as a tutor:  
     🔗 [Academic Success Center – Become a Tutor](https://www.goldenwestcollege.edu/asc/index.html)
     
+### interviewing resources 
 
+### **Interview Skills: Mock Interview**
 
+[Common Interview Questions](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:1d5f0e18-5032-3287-a502-c99c4adcf1f6)
+
+**When preparing for an interview, consider the following:**
+
+**Before the interview**  
+Research  
+Practice  
+Review job description and resume  
+  
+**During the interview**  
+Speak with confidence  
+Be professional  
+Show optimism  
+Answer the entire question(s)  
+Provide examples when responding to a question  
+At the end, thank the employer  
+  
+**After the interview**  
+Reflect on areas of improvement and success (write it down)  
+Write down questions you remember  
+Email employer if possible[](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:1d5f0e18-5032-3287-a502-c99c4adcf1f6)
+
+#### Mock Interviews
+
+Make an appointment to practice interviewing to land your next employment! Call the Career Center (714) 895-8217 or [chat with a representative](https://chat.socialintents.com/c/GWC_Counseling) to schedule an appointment.
+
+**[![](https://www.goldenwestcollege.edu/Links/images/career-center/resume-and-cover-letter-icon2.png)](https://perfectinterview.com/gwc/)**   
+[**Perfect Interview**](https://perfectinterview.com/gwc/)
+
+#### [Interview Prep Resource - Perfect Interview](https://perfectinterview.com/gwc/)
+
+1. Create account: [https://perfectinterview.com/gwc/](https://perfectinterview.com/gwc/)
+2. Confirmation email will be sent with username and password
+3. Log in and practice your interview skills
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| We will also provide you with their contact information to check if they have any available appointments to meet with someone.  <br>  <br>On-Campus Hours:  <br>Mon – Thurs: 8:00 am – 5:00 pm & Fri: 8:00 am – 12:00 pm  <br>Virtual Hours:  <br>Mon – Fri: 8:00 am – 5:00 pm  <br>Closed Weekends and Holidays  <br>Phone  <br>(714) 895-8217  <br>Email  <br>careercntr@gwc.cccd.edu  <br>they also have a live chat!<br><br>okay thank I will check it out<br><br> 12:44 PM |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 ## Health  facility    
 
 
@@ -648,17 +690,18 @@ there will be  an even
 - [x] Why is my email not receiving message from third party  ?   the email will be activated  1 week before class time 
 - [x] how can I see past class material? for example the past spring material so that I can see it before  entering the class 
 	![[Semester at golden  West fall 2025#🗓️ Fall 2025 (14 Credits)]]
-- [ ] figure out about research opportunity [[PHD#Todo_question]]  
-- [ ] research about who in this https://www.goldenwestcollege.edu/pathways/stem/index.html 
-- [ ] figure out what classes you need to take [class too  take](https://sac.edu/sce/programs/activeadults/Pages/Fitness.aspx)  
+- [x] figure out about research opportunity [[PHD#Todo_question]]  
+- [x] research about who in this https://www.goldenwestcollege.edu/pathways/stem/index.html 
+- [x] figure out what classes you need to take [class too  take](https://sac.edu/sce/programs/activeadults/Pages/Fitness.aspx)  
 - [ ] class for replacing your tire seem  good enough https://www.goldenwestcollege.edu/noncredit/automotive-technology/index.html  
 - [ ] learn how to tuitor https://catalog.cccd.edu/orange-coast/pathways/find-pathway/noncredit-certificate-programs/tutoring/tutoring-skills-strategies-certificate-completion/#text  
 - [ ] ask about extra curriculars https://extracurriculars.org/ 
 - [ ] learn about PIQ  https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html    
-- [ ] no link https://www.google.com/search?q=can+I+include+website+link+in+my+transfer+essay&oq=can+I++include+website+link+in+my+transfer+essay+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAjIHCAYQIRiPAtIBCTEwOTA3ajBqNKgCCLACAfEFXy0NXxxJnUY&sourceid=chrome&ie=UTF-8  
+- [x] no link https://www.google.com/search?q=can+I+include+website+link+in+my+transfer+essay&oq=can+I++include+website+link+in+my+transfer+essay+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAjIHCAYQIRiPAtIBCTEwOTA3ajBqNKgCCLACAfEFXy0NXxxJnUY&sourceid=chrome&ie=UTF-8  
 - [ ] 1830 W. Romneya Drive  
+- [ ] Puente  program  
 5th Floor, Office #513  
-Anaheim, CA 92801 office of the  address 
+Anaheim, CA 92801 office of the  address  
 
 
 
@@ -686,8 +729,8 @@ Anaheim, CA 92801 office of the  address
 - [x] are you a  stem major ? 
 	- [ ] if you are a stem major which teacher are the most difficult and which teacher are easy 
 	- [ ] how do you submit your lab assignment  , do teacher require you to enter the book code in order to submit the lab assignment 
-- [ ] do  teacher  monitor student and strict with 
-- [ ] copyrighted material   
+- [x] do  teacher  monitor student and strict with 
+- [x] copyrighted material   
 - [ ] are you a computer science  major 
 	- [ ] if you are  where you  able to access the github free student gift bag ? 
 		- [ ] if you did what  proof did you show to prove to github

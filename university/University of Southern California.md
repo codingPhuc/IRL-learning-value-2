@@ -1,8 +1,86 @@
+: Los Angeles, CA 90007
+
 # Assist  site  for Southern California
 
 [agreement for transfer](https://atweb.usc.edu/articagrmt/index.html)
 [major requirement](https://www.cs.usc.edu/academic-programs/undergrad/computer-engineering-and-computer-science/)
 
+
+1. **Ranking**  
+    → National & program-specific rankings (e.g., CS, Engineering, Business)
+
+- [
+    
+    **#162**
+    
+    in**Electrical and Electronic Engineering (tie)**](https://www.usnews.com/education/best-global-universities/electrical-electronic-engineering)
+
+- [
+    
+    **#91**
+    
+    in**Computer Science (tie)**](https://www.usnews.com/education/best-global-universities/computer-science)
+- [
+    
+    **#175**
+    
+    in**Mathematics (tie)**](https://www.usnews.com/education/best-global-universities/mathematics)
+- [
+    
+    **#63**
+    
+    in**Biology and Biochemistry**](https://www.usnews.com/education/best-global-universities/biology-biochemistry) 
+1. **Cost**  
+    → Tuition, fees,
+    
+## cost of living,
+https://studentbasicneeds.usc.edu/resources/food-insecurity/trojan-food-pantry/ 
+food pantry program seem limited 
+- 
+- 
+- financial aid, scholarships
+https://www.findhelp.org/food/food-pantry--los-angeles-ca?postal=90007&filters=%7B%22cost_filters%22%3A+%5B%22free%22%5D%7D close nearby food pantry < 0.85 because near the city center 
+
+
+
+
+2. **Acceptance Rate**  
+    → General rate + transfer acceptance rate (often different!)
+    
+3. **Major Strength**  
+    → How strong is the specific program (like Computer Engineering) at that school?
+    
+4. **Other Opinions / Student Sentiment**  
+    → Reddit, forums, blogs, and personal experiences
+    
+
+---
+
+### 🔍 **Additional Sections to Add**
+
+6. **Career Outcomes & Job Placement**  
+    → How well do grads do? Job placement stats? Access to internships?  
+    → Career center support, alumni connections, industry pipelines
+    
+7. **Transfer-Friendliness**  
+    → Are articulation agreements in place (like ASSIST)?  
+    → Is the school known for accepting CC transfers?
+    
+8. **Campus Life & Student Culture**  
+    → Social scene, clubs, diversity, mental health support  
+    → Is it competitive or collaborative?
+    
+9. **Location & Safety**  
+    → Cost of living, housing, transportation, neighborhood safety  
+    → (especially important in LA vs Irvine vs Davis, etc.)
+10. **Class Size & Faculty Access**  
+    → Do undergrads get attention or are classes huge lectures?  
+    → Can you build relationships with professors?
+11. **Facilities & Labs** (for STEM majors)  
+    → How good are the labs, classrooms, and technology resources?
+12. **Alumni Network Strength**  
+    → Do grads stay connected and help others?  
+    → Particularly relevant at USC, which markets its Trojan Network 
 
 
 
@@ -57,6 +135,6 @@ The discussion revolves around the reputation of USC's undergraduate and graduat
 Overall, USC has strong programs but some master's degrees are perceived as money-driven with weaker job prospects. 
 
 
-
+[[transfer   to Computer Engineering and Computer Science  in  University  of  southern  california]]
 ## people who  got in 
 u/folabatunde

@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 # Definition  
 High performance computing (HPC) is the practice of aggregating computing resources to gain performance greater than that of a single workstation, server, or computer. HPC can take the form of custom-built supercomputers or groups of individual computers called clusters. HPC can be run on-premises, in the cloud, or as a hybrid of both. Each computer in a cluster is often called a node, with each node responsible for a different task. Controller nodes run essential services and coordinate work between nodes, interactive nodes or login nodes act as the hosts that users log in to, either by graphical user interface or command line, and compute or worker nodes execute the computations. Algorithms and software are run in parallel on each node of the cluster to help perform its given task. HPC typically has three main components: compute, storage, and networking.
 

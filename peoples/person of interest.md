@@ -18,6 +18,12 @@ s
 
 
 
+#relation 
+tai don't like to drink or eat sweet 
+harry and that other kid want to play together 
+
+
+
 #  Tracy Nguyen 
 # Duc  
 

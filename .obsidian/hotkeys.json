@@ -7,5 +7,14 @@
       ],
       "key": "B"
     }
+  ],
+  "pdf-plus:toggle-auto-copy": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }

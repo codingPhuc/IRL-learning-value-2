@@ -84,10 +84,10 @@ Zillow, Rent.com, and Apartments.com.
     
 - **Helpful Resources**: A user shared MLS search links and offered rental assistance. 
 
-you  
 
 
 
+# negotiation of rental  
 
 
 [renting tips](https://www.reddit.com/r/AskLosAngeles/comments/1cn58um/what_are_your_renting_red_flags/)
@@ -136,11 +136,12 @@ you
 - **Demand Repairs in Writing Before Signing** – If repairs are promised, get them in writing before committing.
     
 - **Check the Lease’s First Draft** – Ensure it reflects what was agreed upon, especially for costs and included amenities.
-    
-
-Would you like more details on any of these? 😊 
+ 
 
 
+
+
+# red flag for renter 
 [thing to look out for when renting](https://www.reddit.com/r/AskLosAngeles/comments/1cn58um/what_are_your_renting_red_flags/)
 Okay, I just went through this whole thread and compiled a summary of what I feel to be the most helpful tips you glorious interfolk have posted. The last one is my own. This is an excellent thread, and I wish I had read it ages ago.
 
@@ -230,4 +231,7 @@ Okay, I just went through this whole thread and compiled a summary of what I fee
 42. Try to get a look at as many different options in the area as possible so you can see if what they're offering is competitively priced for the size/type of unit you're seeking.
     
 
-edit: a letter
+
+# different type of renting paper 
+
+

@@ -35,4 +35,35 @@
 - **99 Cents Stores & Dollar Tree**: Budget-friendly essentials.
 
 ### Conclusion
-For unique finds and an engaging shopping experience, **St. Vincent De Paul Thrift Store** and **LA City College Swapmeet** are standout options. For brand-name shopping, try the **Citadel Outlets** or **Beverly Connection**.
+For unique finds and an engaging shopping experience, **St. Vincent De Paul Thrift Store** and **LA City College Swapmeet** are standout options. For brand-name shopping, try the **Citadel Outlets** or **Beverly Connection**. 
+
+
+# food 
+
+https://www.findhelp.org/goods/clothing-vouchers--anaheim-ca?postal=92804#hoursandlocation
+
+Islamic Institue of Orange County  
+1220 N. State College  
+Anaheim, CA 92806
+
+First Saturday of Each Month  
+Gates open at 11:15am  
+Distribution begins at 11:30am
+11 
+
+# Clothing 
+  
+Select the program Basic Necessities
+
+### [Basic Necessities](https://www.findhelp.org/the-tiyya-foundation-inc--santa-ana-ca--basic-necessities/4797612576210944?postal=92804) 
+
+  
+Select the program One on One and Group Lifestyle Services
+
+### [One on One and Group Lifestyle Services](https://www.findhelp.org/dr.-riba%2527s-health-club--santa-ana-ca--one-on-one-and-group-lifestyle-services/5492809969827840?postal=92804)
+
+
+
+
+# #Todo_question 
+find out all the program for food and bank here
