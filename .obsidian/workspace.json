@@ -185,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "university",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -196,7 +196,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -293,7 +294,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a731006d60f653e2",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "picture to chanage/Pasted image 20250727191843.png",
     "conflict-files-obsidian-git.md",
