@@ -280,10 +280,11 @@ Hope this helps and good luck!
 
 Edit: happy to help further/answer any more questions with getting research, med stuff (if applicable to you), etc.!
 ## #Todo_question 
-- [x] finding research opertunity  
-- [x] https://www.fullerton.edu/projectraise/community-college-students/ure/ 
-- [x] https://sccollege.edu/students/studentservices/careerservices/SitePages/STEM-Career-Information.aspx 
+- [ ] finding research opertunity  
+- [ ] https://www.fullerton.edu/projectraise/community-college-students/ure/ 
+- [ ] https://sccollege.edu/students/studentservices/careerservices/SitePages/STEM-Career-Information.aspx 
 - [x] https://www.goldenwestcollege.edu/stem/opportunities/index.html
 - [x] this  place for certificate https://noce.edu/schedule/ 
+
 
 
