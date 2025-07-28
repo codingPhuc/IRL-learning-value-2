@@ -120,7 +120,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Todo_question",
+            "query": "University",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -155,7 +155,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fa1c0affd16e263e",
@@ -220,7 +220,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ba8dda4db00676a",
+  "active": "a83acec1bb0102e2",
   "lastOpenFiles": [
     "daily note/2025-07-22.md",
     "daily note/2025-07-27.md",
