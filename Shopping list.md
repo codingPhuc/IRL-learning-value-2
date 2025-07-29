@@ -5,13 +5,11 @@
 - [ ] screw driver kit  for cleaning  
 - [ ] new mouse  '
 - [ ] laptop cleaning tower 
-- [ ] Eubbing alcohole 
-- [x]  Le Chef Patissier Hazelnut Choc Crepes, 20 count
-- [x] Gummy candy 
-- [x] Crepes 
-- [ ] Swimming cloth 
-- [x]  Body wash 
-- [ ] A congainer for food
+- [ ] rubbing alcohole 
+- [ ] Swimming cloth  
+- [ ] milk 
+- [ ] snack for school specifically the one with almond nut 
+- [ ] 
 Got it! Here's your updated **Obsidian-style to-do list**, with checkboxes and your added item ("A container for food") integrated into the correct format. Everything is now consistently in checklist format:
 
 ---
