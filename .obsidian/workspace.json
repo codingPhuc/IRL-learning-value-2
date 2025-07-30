@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "food.md",
+                "file": "daily note/2025-07-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of food"
+              "title": "Outline of 2025-07-29"
             }
           }
         ],
@@ -296,8 +296,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a41a123c6ae3a7cd",
+  "active": "a731006d60f653e2",
   "lastOpenFiles": [
+    "food.md",
     "bank food store and other.md",
     "collage/Golden  West/Golden West Community College.md",
     "daily note/2025-07-29.md",
@@ -318,7 +319,6 @@
     "perpare too be kick out/Van life/info 1.md",
     "enlish study/ielts/IELTS Writing Task 1.md",
     "making a decision on if I  should go abroad.md",
-    "food.md",
     "Fail Behavior.md",
     "Todo what to bring and  buy.md",
     "daily note/2025-07-28.md",
