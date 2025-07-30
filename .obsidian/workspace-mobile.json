@@ -120,7 +120,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "University",
+            "query": "tag:#fail_behavior",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -226,6 +226,14 @@
   },
   "active": "9ba8dda4db00676a",
   "lastOpenFiles": [
+    "daily note/2025-07-04.md",
+    "daily note/2025-07-07.md",
+    "daily note/2025-07-14.md",
+    "daily note/2025-07-17.md",
+    "daily note/2025-07-29.md",
+    "basic skill/google import and export.md",
+    "picture/two_girl_cute.png",
+    "picture/women face.png",
     "collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
     "/collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
     "/collage/Student Fieldtrip VAP Form - Angels Japanese Heritage Night.pdf",
@@ -233,7 +241,6 @@
     "/collage",
     "/Shopping list.md",
     "daily note/2025-07-28.md",
-    "daily note/2025-07-29.md",
     "/daily note/2025-07-27.md",
     "/daily note",
     "daily note/2025-07-27.md",
@@ -264,13 +271,6 @@
     "perpare too be kick out/wifi  hot spot",
     "daily note/2025-06-28.md",
     "collage/University college.md",
-    "Pasted image 20250723102500.png",
-    "UCLA.md",
-    "daily note/2025-07-26.md",
-    "Pasted image 20250723102931.png",
-    "Pasted image 20250723103512.png",
-    "collage/Uc Irvin Major Table .pdf",
-    "daily note/2025-07-25.md",
-    "daily note/2025-06-23.md"
+    "Pasted image 20250723102500.png"
   ]
 }
