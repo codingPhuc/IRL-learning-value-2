@@ -34,7 +34,7 @@ Nguyen, Hoang Phuc (C03167871)
 [student account website ](https://experience.elluciancloud.com/cccdao472/)
 
 # Driving 
-
+15744 Goldenwest St, Huntington Beach, CA 92647 
 ## bus route  
 ### **Transit Directions: 3050 W Ball Rd → Goldenwest Trans Ctr**
 

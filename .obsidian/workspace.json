@@ -6,7 +6,7 @@
       {
         "id": "ddfa31cfb1a1060b",
         "type": "tabs",
-        "dimension": 84.59167950693374,
+        "dimension": 27.11864406779661,
         "children": [
           {
             "id": "bb2806a82560bf8f",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily note/2025-07-29.md",
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-29"
+              "title": "Golden West Community College"
             }
           },
           {
@@ -100,7 +100,7 @@
       {
         "id": "788048672a09a439",
         "type": "tabs",
-        "dimension": 15.408320493066253,
+        "dimension": 72.88135593220339,
         "children": [
           {
             "id": "dd6b6ebdc25d9cbe",
@@ -136,12 +136,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily note/2025-07-27.md",
+                "file": "daily note/2025-07-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-27"
+              "title": "2025-07-29"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "google calen",
+                "query": "golden",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -295,10 +295,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "a731006d60f653e2",
   "lastOpenFiles": [
-    "basic skill/google import and export.md",
+    "daily note/2025-07-27.md",
+    "collage/Golden  West/Golden West Community College.md",
     "daily note/2025-07-29.md",
+    "daily note/2025-06-11.md",
+    "perpare too be kick out/rent/rent.md",
+    "perpare too be kick out/tax/p515.pdf",
+    "basic skill/google import and export.md",
     "collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
     "collage/Student Fieldtrip VAP Form - Angels Japanese Heritage Night.pdf",
     "Shopping list.md",
@@ -312,12 +317,10 @@
     "enlish study/ielts/IELTS Writing Task 1.md",
     "making a decision on if I  should go abroad.md",
     "food.md",
-    "collage/Golden  West/Golden West Community College.md",
     "Fail Behavior.md",
     "Todo what to bring and  buy.md",
     "daily note/2025-07-28.md",
     "san diego.md",
-    "daily note/2025-07-27.md",
     "career path.md",
     "jobs/career path.md",
     "PHD.md",
@@ -328,8 +331,6 @@
     "picture to chanage/Pasted image 20250704115009.png",
     "picture to chanage/Pasted image 20250704110425.jpg",
     "daily note/2025-07-19.md",
-    "daily note/2025-07-10.md",
-    "daily note/2025-07-09.md",
     "collage/UC sandiego Major Table.pdf",
     "collage/UCLA Major Table (3).pdf",
     "collage/UCLA Major Table (3).pdf.crdownload",
@@ -337,7 +338,6 @@
     "collage/Uc Irvin Major Table .pdf.crdownload",
     "collage/UC sandiego Major Table.pdf.crdownload",
     "collage/Untitled",
-    "PDF reader/java opp.pdf",
     "Pasted image 20250723103512.png",
     "Pasted image 20250723103302.png",
     "Pasted image 20250723103054.png",
