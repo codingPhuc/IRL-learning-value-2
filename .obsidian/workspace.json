@@ -6,7 +6,7 @@
       {
         "id": "ddfa31cfb1a1060b",
         "type": "tabs",
-        "dimension": 27.11864406779661,
+        "dimension": 45.45454545454545,
         "children": [
           {
             "id": "bb2806a82560bf8f",
@@ -100,7 +100,7 @@
       {
         "id": "788048672a09a439",
         "type": "tabs",
-        "dimension": 72.88135593220339,
+        "dimension": 54.54545454545454,
         "children": [
           {
             "id": "dd6b6ebdc25d9cbe",
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily note/2025-07-29.md",
+                "file": "collage/Golden  West/Golden West Community College.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-29"
+              "title": "Outline of Golden West Community College"
             }
           }
         ],
@@ -295,11 +295,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a731006d60f653e2",
+  "active": "a41a123c6ae3a7cd",
   "lastOpenFiles": [
+    "daily note/2025-07-29.md",
     "daily note/2025-07-27.md",
     "collage/Golden  West/Golden West Community College.md",
-    "daily note/2025-07-29.md",
     "daily note/2025-06-11.md",
     "perpare too be kick out/rent/rent.md",
     "perpare too be kick out/tax/p515.pdf",
