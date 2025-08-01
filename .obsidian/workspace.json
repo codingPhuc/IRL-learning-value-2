@@ -198,7 +198,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -295,11 +296,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
+    "daily note/2025-07-31.md",
+    "Davis.md",
     "daily note/2025-08-01.md",
     "food.md",
-    "daily note/2025-07-31.md",
     "daily note/2025-07-30.md",
     "daily note/2025-07-29.md",
     "bank food store and other.md",
@@ -325,7 +327,6 @@
     "Todo what to bring and  buy.md",
     "daily note/2025-07-28.md",
     "san diego.md",
-    "career path.md",
     "picture to chanage/Pasted image 20250727191843.png",
     "picture to chanage/Pasted image 20250704115224.jpg",
     "picture to chanage/Pasted image 20250704115204.png",
