@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "food ",
+                "query": "chat gp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -296,7 +296,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a731006d60f653e2",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
     "daily note/2025-07-30.md",
     "daily note/2025-07-31.md",
