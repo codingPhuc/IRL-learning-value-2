@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily note/2025-07-31.md",
+                "file": "daily note/2025-08-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
+              "title": "2025-08-01"
             }
           }
         ],
@@ -120,7 +120,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Stone",
+            "query": "Shopping",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -226,9 +226,10 @@
   },
   "active": "9ba8dda4db00676a",
   "lastOpenFiles": [
-    "daily note/2025-07-30.md",
-    "daily note/2025-07-31.md",
     "Shopping list.md",
+    "daily note/2025-08-01.md",
+    "daily note/2025-07-31.md",
+    "daily note/2025-07-30.md",
     "daily note/2025-07-29.md",
     "/food.md",
     "/daily note/2025-07-29.md",
@@ -269,7 +270,6 @@
     "perpare too be kick out/rent",
     "Pasted image 20250723102621.png",
     "Pasted image 20250723102514.png",
-    "perpare too be kick out/Untitled.md",
     "Pasted image 20250723102515.png",
     "Pasted image 20250723102500.png"
   ]
