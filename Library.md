@@ -1,4 +1,8 @@
 
+# infomation 
+
+my library card :  23090 010833667 
+
 every first thursday of the month 
 
 ahnehim 
