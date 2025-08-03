@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily note/2025-08-02.md",
+                "file": "daily note/2025-07-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-02"
+              "title": "2025-07-30"
             }
           }
         ],
@@ -120,7 +120,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Golden west",
+            "query": "tag:#relation",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -155,7 +155,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fa1c0affd16e263e",
@@ -167,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shopping list.md",
+            "file": "daily note/2025-07-30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -224,10 +224,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ba8dda4db00676a",
+  "active": "849b9866623480dc",
   "lastOpenFiles": [
-    "collage/Golden  West/Golden West Community College.md",
     "daily note/2025-08-02.md",
+    "collage/Golden  West/Golden West Community College.md",
     "Shopping list.md",
     "/Library.md",
     "daily note/2025-08-01.md",
