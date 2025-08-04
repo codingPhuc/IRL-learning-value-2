@@ -28,24 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "daily note/2025-08-03.md",
-||||||| vault backup: 2025-08-04 13:57:38
-                "file": "collage/University college.md",
-=======
-                "file": "basic skill/Cooking/Cronometer.md",
->>>>>>> master
+                "file": "basic skill/obsidian git bug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "2025-08-03"
-||||||| vault backup: 2025-08-04 13:57:38
-              "title": "University college"
-=======
-              "title": "Cronometer"
->>>>>>> master
+              "title": "obsidian git bug"
             }
           },
           {
@@ -141,38 +129,6 @@
               "icon": "lucide-file",
               "title": "University of Southern California"
             }
-<<<<<<< HEAD
-          },
-          {
-            "id": "a731006d60f653e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collage/University college.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "University college"
-            }
-||||||| vault backup: 2025-08-04 13:57:38
-          },
-          {
-            "id": "a731006d60f653e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basic skill/Cooking/Cronometer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cronometer"
-            }
-=======
->>>>>>> master
           }
         ],
         "currentTab": 1
@@ -217,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "irl ",
+                "query": "shopping",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -228,8 +184,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -295,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily note/2025-08-03.md",
+                "file": "basic skill/obsidian git bug.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-03"
+              "title": "Outline of obsidian git bug"
             }
           }
         ],
@@ -326,81 +281,25 @@
       "templater-obsidian:Templater": false
     }
   },
-<<<<<<< HEAD
-  "active": "981c772747a5cc1e",
-||||||| vault backup: 2025-08-04 13:57:38
-  "active": "a731006d60f653e2",
-=======
   "active": "a41a123c6ae3a7cd",
->>>>>>> master
   "lastOpenFiles": [
-    "collage/University college.md",
-<<<<<<< HEAD
-    "perpare too be kick out/tax/p515.pdf",
-    "daily note/2025-07-31.md",
-    "daily note/2025-08-02.md",
-    "daily note/2025-08-03.md",
-    "Library.md",
-    "university/California state university long beach.md",
-    "Davis.md",
-    "daily note/2025-08-01.md",
-    "food.md",
-    "daily note/2025-07-30.md",
-    "daily note/2025-07-29.md",
-    "bank food store and other.md",
-    "collage/Golden  West/Golden West Community College.md",
-    "daily note/2025-07-27.md",
-    "daily note/2025-06-11.md",
-    "perpare too be kick out/rent/rent.md",
     "basic skill/google import and export.md",
-||||||| vault backup: 2025-08-04 13:57:38
-    "Shopping list.md",
     "basic skill/Cooking/Cronometer.md",
-    "basic skill/computer/google import and export.md",
-    "daily note/2025-08-02.md",
-    "basic skill/computer",
-    "basic skill/Cooking",
-    "daily note/2025-08-04.md",
-    "san diego.md",
-    "university/Cal  Poly  vs University of Southern California.md",
-    "university/California  State  university.md",
-    "California Polytechnic State University.md",
-    "university/California Polytechnic State University.md",
-    "California  State  university.md",
-    "university/University of Southern California.md",
-    "university/university cost.md",
-    "university/Los Angeles University of California.md",
-    "university/California state university long beach.md",
-    "reading documentation.md",
-    "Untitled 4.md",
-    "Untitled.md",
-    "Quantitative Analysis (Finance).md",
-    "phone mobile.md",
-    "README.md",
-    "Ideal to be created.md",
-    "How to read book.md",
-    "AI prompt (1).md",
-    "Application type and version.md",
-    "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
-    "perpare too be kick out/tax/p519.pdf",
-    "perpare too be kick out/tax/p515.pdf",
-=======
-    "conflict-files-obsidian-git.md",
-    "basic skill/computer/google import and export.md",
-    "basic skill/computer/running  linux on Iphone.md",
-    "basic skill/computer/obsidian git bug.md",
-    "basic skill/computer",
-    "basic skill/Cooking/Cronometer.md",
-    "basic skill/Cooking",
     "basic skill/running  linux on Iphone.md",
     "basic skill/obsidian git bug.md",
-    "basic skill/google import and export.md",
     "Untitled.md",
     "Untitled 7.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
+    "collage/University college.md",
+    "conflict-files-obsidian-git.md",
+    "basic skill/computer/google import and export.md",
+    "basic skill/computer/running  linux on Iphone.md",
+    "basic skill/computer/obsidian git bug.md",
+    "basic skill/computer",
+    "basic skill/Cooking",
     "Shopping list.md",
     "daily note/2025-08-02.md",
     "daily note/2025-08-04.md",
@@ -415,18 +314,8 @@
     "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "perpare too be kick out/tax/p519.pdf",
     "perpare too be kick out/tax/p515.pdf",
->>>>>>> master
     "collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
     "collage/Student Fieldtrip VAP Form - Angels Japanese Heritage Night.pdf",
-    "Shopping list.md",
-    "cheap stuff.md",
-    "collage/collage plan.md",
-    "coupon bank and tips.md",
-    "Tasks to do.md",
-    "jobs/Quantitative Analysis (Finance).md",
-    "perpare too be kick out/Van life/Van life.md",
-    "perpare too be kick out/Van life/info 1.md",
-    "enlish study/ielts/IELTS Writing Task 1.md",
     "picture to chanage/Pasted image 20250727191843.png",
     "picture to chanage/Pasted image 20250704115224.jpg",
     "picture to chanage/Pasted image 20250704115204.png",
@@ -435,10 +324,6 @@
     "collage/UC sandiego Major Table.pdf",
     "collage/UCLA Major Table (3).pdf",
     "collage/UCLA Major Table (3).pdf.crdownload",
-    "collage/Uc Irvin Major Table .pdf",
-    "collage/Uc Irvin Major Table .pdf.crdownload",
-    "collage/UC sandiego Major Table.pdf.crdownload",
-    "collage/Untitled",
     "Pasted image 20250723103512.png",
     "Pasted image 20250723103302.png",
     "Pasted image 20250723103054.png",
