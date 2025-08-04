@@ -30,9 +30,13 @@
     **#63**
     
     in**Biology and Biochemistry**](https://www.usnews.com/education/best-global-universities/biology-biochemistry) 
-1. **Cost**  
-    → Tuition, fees,
-    
+
+
+# **Cost**  
+## Tuition, fees,
+https://docs.google.com/spreadsheets/d/1otwtaKUYreI1MZsWzmKW5eu-mHVJLnZik8HP2HrTtZs/edit?gid=1549953579#gid=1549953579
+
+view 5 
 ## cost of living,
 https://studentbasicneeds.usc.edu/resources/food-insecurity/trojan-food-pantry/ 
 food pantry program seem limited 
@@ -44,7 +48,7 @@ https://www.findhelp.org/food/food-pantry--los-angeles-ca?postal=90007&filters=%
 
 
 
-2. **Acceptance Rate**  
+. **Acceptance Rate**  
     → General rate + transfer acceptance rate (often different!)
     
 3. **Major Strength**  

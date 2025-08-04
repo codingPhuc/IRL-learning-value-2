@@ -28,7 +28,7 @@ in**Electrical and Electronic Engineering**](https://www.usnews.com/education/be
     
     in**Biology and Biochemistry**](https://www.usnews.com/education/best-global-universities/biology-biochemistry)
 
-## **Cost**  
+# **Cost**  
 ## Tuition,   
 all the tuition  is above >50k
 ## fees,
@@ -44,7 +44,7 @@ maybe can dumpster drive ?
 
 
 rent  is above 1500$ I saw on craig list that it can be as low as 800 per month 
-## financial aid,  scholarships 
+# financial aid,  scholarships 
 - [Patreon Post 1](https://www.patreon.com/c/bgzconsulting/posts) 
 3. **Acceptance Rate**  
     → General rate + transfer acceptance rate (often different!)
