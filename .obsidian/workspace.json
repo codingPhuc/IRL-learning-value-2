@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "san diego.md",
+                "file": "daily note/2025-08-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "san diego"
+              "title": "2025-08-04"
             }
           },
           {
@@ -198,8 +198,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily note/2025-08-02.md",
+                "file": "daily note/2025-08-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-02"
+              "title": "Outline of 2025-08-04"
             }
           }
         ],
@@ -296,10 +295,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a731006d60f653e2",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
-    "collage/University college.md",
     "san diego.md",
+    "daily note/2025-08-04.md",
+    "daily note/2025-08-02.md",
+    "collage/University college.md",
     "university/Cal  Poly  vs University of Southern California.md",
     "university/California  State  university.md",
     "California Polytechnic State University.md",
@@ -325,8 +326,6 @@
     "perpare too be kick out/tax/p519.pdf",
     "daily note/2025-08-03.md",
     "perpare too be kick out/tax/p515.pdf",
-    "daily note/2025-07-31.md",
-    "daily note/2025-08-02.md",
     "collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
     "collage/Student Fieldtrip VAP Form - Angels Japanese Heritage Night.pdf",
     "picture to chanage/Pasted image 20250727191843.png",

@@ -145,5 +145,3 @@ Choosing the best engineering degree at UCSD can be a daunting task, but here's 
 These communities can provide more personalized advice and up-to-date information about specific programs at UCSD.
 
 
-
-p
