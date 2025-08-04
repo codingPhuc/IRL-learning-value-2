@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic skill/Cooking/Untitled.md",
+                "file": "food.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "food"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shopping",
+                "query": "food",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -198,7 +198,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -264,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basic skill/Cooking/Untitled.md",
+                "file": "food.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of food"
             }
           }
         ],
@@ -297,8 +298,8 @@
   },
   "active": "cfd7adcae9810c7a",
   "lastOpenFiles": [
-    "basic skill/Cooking/Cronometer.md",
     "basic skill/Cooking/Untitled.md",
+    "basic skill/Cooking/Cronometer.md",
     "basic skill/computer/obsidian git bug.md",
     "basic skill/computer/running  linux on Iphone.md",
     "basic skill/computer/google import and export.md",
