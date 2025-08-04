@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping list.md",
+                "file": "daily note/2025-08-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shopping list"
+              "title": "Outline of 2025-08-02"
             }
           }
         ],
@@ -295,8 +295,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "a731006d60f653e2",
   "lastOpenFiles": [
+    "Shopping list.md",
     "collage/University college.md",
     "daily note/2025-08-04.md",
     "san diego.md",
@@ -324,7 +325,6 @@
     "collage/closes college.md",
     "perpare too be kick out/tax/manage your tax account online.md",
     "perpare too be kick out/tax/p519.pdf",
-    "daily note/2025-08-03.md",
     "perpare too be kick out/tax/p515.pdf",
     "collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
     "collage/Student Fieldtrip VAP Form - Angels Japanese Heritage Night.pdf",
