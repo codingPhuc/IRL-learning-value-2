@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/University of Southern California.md",
+                "file": "university/Cal  Poly  vs University of Southern California.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "University of Southern California"
+              "title": "Cal  Poly  vs University of Southern California"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "san diego.md",
+                "file": "collage/University college.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "san diego"
+              "title": "University college"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "southern",
+                "query": "university ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/University of Southern California.md",
+                "file": "collage/University college.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of University of Southern California"
+              "title": "Outline of University college"
             }
           }
         ],
@@ -296,16 +296,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a41a123c6ae3a7cd",
+  "active": "a731006d60f653e2",
   "lastOpenFiles": [
     "san diego.md",
+    "university/Cal  Poly  vs University of Southern California.md",
+    "university/California  State  university.md",
+    "California Polytechnic State University.md",
+    "university/California Polytechnic State University.md",
+    "California  State  university.md",
     "university/University of Southern California.md",
     "university/university cost.md",
     "collage/University college.md",
     "university/Los Angeles University of California.md",
     "university/California state university long beach.md",
-    "university/California  State  university.md",
-    "university/Cal  Poly  vs University of Southern California.md",
     "reading documentation.md",
     "Untitled 4.md",
     "Untitled.md",
@@ -324,9 +327,6 @@
     "perpare too be kick out/tax/p515.pdf",
     "daily note/2025-07-31.md",
     "daily note/2025-08-02.md",
-    "Library.md",
-    "Davis.md",
-    "daily note/2025-08-01.md",
     "collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
     "collage/Student Fieldtrip VAP Form - Angels Japanese Heritage Night.pdf",
     "picture to chanage/Pasted image 20250727191843.png",
