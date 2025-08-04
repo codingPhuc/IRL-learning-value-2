@@ -28,13 +28,12 @@ in**Electrical and Electronic Engineering**](https://www.usnews.com/education/be
     
     in**Biology and Biochemistry**](https://www.usnews.com/education/best-global-universities/biology-biochemistry)
 
-# **Cost**  
+## **Cost**  
 ## Tuition,   
 all the tuition  is above >50k
 ## fees,
 
-https://docs.google.com/spreadsheets/d/1otwtaKUYreI1MZsWzmKW5eu-mHVJLnZik8HP2HrTtZs/edit?gid=1549953579#gid=1549953579
-filter view 4 for the data 
+
 
 ## cost of living, 
 
@@ -43,9 +42,13 @@ https://basicneeds.ucsd.edu/food-security/pantry/index.html they have a food pan
 maybe can dumpster drive ? 
 
 
-rent  is above 1500$ I saw on craig list that it can be as low as 800 per month 
-# financial aid,  scholarships 
-- [Patreon Post 1](https://www.patreon.com/c/bgzconsulting/posts) 
+rent  is above 1500$ 
+
+## financial aid,  scholarships 
+
+
+
+
 3. **Acceptance Rate**  
     → General rate + transfer acceptance rate (often different!)
     
@@ -144,4 +147,42 @@ Choosing the best engineering degree at UCSD can be a daunting task, but here's 
 
 These communities can provide more personalized advice and up-to-date information about specific programs at UCSD.
 
+#### Generated from these posts:
 
+[](https://www.reddit.com/r/UCSD/comments/12rf37o/what_engineering_major_is_easiest_to_get_into_at/)
+
+1 r/UCSD
+
+what engineering major is easiest to get into at ucsd
+
+1
+
+·
+
+10
+
+[](https://www.reddit.com/r/UCSD/comments/1gn4s53/best_engineering_major/)
+
+2 r/UCSD
+
+best engineering major?
+
+7
+
+·
+
+36
+
++8
+
+View all
+
+Is this answer helpful?
+
+HelpfulUnhelpful
+
+Related
+
+best engineering programs at UCSDUCSD engineering major comparisonsjob prospects for UCSD engineering graduates
+
+[Reddit Answers](https://support.reddithelp.com/hc/articles/32026729424916-Reddit-Answers-Currently-in-Beta) are AI-generated from redditors’ posts and comments and may not be accurate. 
