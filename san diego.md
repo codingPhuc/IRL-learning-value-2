@@ -33,7 +33,7 @@ in**Electrical and Electronic Engineering**](https://www.usnews.com/education/be
 all the tuition  is above >50k
 ## fees,
 
-
+https://docs.google.com/spreadsheets/d/1otwtaKUYreI1MZsWzmKW5eu-mHVJLnZik8HP2HrTtZs/edit?gid=1549953579#gid=1549953579
 
 ## cost of living, 
 
