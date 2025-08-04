@@ -42,12 +42,8 @@ https://basicneeds.ucsd.edu/food-security/pantry/index.html they have a food pan
 maybe can dumpster drive ? 
 
 
-rent  is above 1500$ 
-
+rent  is above 1500$ I saw on craig list that it can be as low as 800 per month 
 ## financial aid,  scholarships 
-
-
-
 
 3. **Acceptance Rate**  
     → General rate + transfer acceptance rate (often different!)
