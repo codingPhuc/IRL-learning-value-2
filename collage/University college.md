@@ -83,145 +83,6 @@ Followed by [[Long Beach Community Collage]] and San Diego State, the two highes
 
 
 
-# question to ask about each university 
-Here’s a clean **list of questions** you can use when talking to students or alumni from the universities you listed. These are direct and focused to help you compare schools clearly:
-
----
-
-### 🎓 **University Experience & Outcomes – Question List**
-
-1. **After graduating, did the university’s name/reputation help you get opportunities?**
-    
-2. **Did the university support you in meaningful ways (academically or professionally)?**
-    
-3. **What kinds of networking events did your university organize?**
-    
-4. **How did your university help you get your first internship or job?**
-    
-5. **Was the tuition worth it for what you gained in return?**
-    
-6. **Did the university connect you with alumni or companies directly?**
-    
-7. **Were professors helpful outside of class (mentorship, referrals, advice)?**
-    
-8. **What surprised you the most about the school once you started?**
-    
-9. **How active and helpful is the career center or job placement team?**
-    
-10. **What kind of student fits in best at this university?**
-    
-11. **Would you choose the same university again if you had the chance? Why or why not?**
-    
-12. **What was the biggest challenge you faced at this school?**
-    
-13. **Do you still benefit from being part of the school’s alumni network?**
-    
-14. **How competitive or collaborative is the environment?**
-    
-15. **Any advice for someone considering applying here?**
-    
-
-
-
-### 🔢 **Good Questions for a 1–10 Scale**
-
-1. **How much did the university’s name/reputation help you after graduation?**  
-    _(1 = Not at all, 10 = Helped a lot)_
-    
-2. **How well did the university support you academically or professionally?**  
-    _(1 = Gave no help, 10 = Extremely helpful)_
-    
-3. **How useful were the networking opportunities the university provided?**  
-    _(1 = Useless or non-existent, 10 = Extremely valuable)_
-    
-4. **How effective was the university in helping you get your first job/internship?**  
-    _(1 = Didn’t help at all, 10 = Got my job directly through them)_
-    
-5. **How worth it was the tuition, in your opinion?**  
-    _(1 = Not worth it, 10 = Completely worth it)_
-    
-6. **How helpful was the career center or job placement support?**  
-    _(1 = Not helpful, 10 = Very helpful)_
-    
-7. **How connected do you feel to the alumni network now?**  
-    _(1 = Not connected at all, 10 = Very connected/active)_
-    
-8. **How likely are you to recommend this university to someone else?**  
-    _(1 = Would not recommend, 10 = Absolutely would recommend)_
-    
-
-
-9. **What was your major at [University Name]?**
-    
-10. **Which degree program did you complete?**
-    
-11. **What did you study while you were at [school]?**
-    
-12. **What field did you major in?**
-    
-13. **What was your academic focus or specialization?** _(good if they double-majored or had a concentration)_
-    
-14. **Did your major align with your current career path?** _(optional follow-up)_
-    
-
----
-
-
-
-
-You can also combine it into a longer question if you're making a form or interview script:
-
-> **What was your major, and do you feel it prepared you well for your career? (Why or why not?)**
-
-Let me know if you want to include minors or double majors too.
-
-### ✅ **Suggested Comparison Sections**
-
-1. **Ranking**  
-    → National & program-specific rankings (e.g., CS, Engineering, Business)
-    
-2. **Cost**  
-    → Tuition, fees, cost of living, financial aid, scholarships
-    
-3. **Acceptance Rate**  
-    → General rate + transfer acceptance rate (often different!)
-    
-4. **Major Strength**  
-    → How strong is the specific program (like Computer Engineering) at that school?
-    
-5. **Other Opinions / Student Sentiment**  
-    → Reddit, forums, blogs, and personal experiences
-    
-
----
-
-### 🔍 **Additional Sections to Add**
-
-6. **Career Outcomes & Job Placement**  
-    → How well do grads do? Job placement stats? Access to internships?  
-    → Career center support, alumni connections, industry pipelines
-    
-7. **Transfer-Friendliness**  
-    → Are articulation agreements in place (like ASSIST)?  
-    → Is the school known for accepting CC transfers?
-    
-8. **Campus Life & Student Culture**  
-    → Social scene, clubs, diversity, mental health support  
-    → Is it competitive or collaborative?
-    
-9. **Location & Safety**  
-    → Cost of living, housing, transportation, neighborhood safety  
-    → (especially important in LA vs Irvine vs Davis, etc.)
-10. **Class Size & Faculty Access**  
-    → Do undergrads get attention or are classes huge lectures?  
-    → Can you build relationships with professors?
-11. **Facilities & Labs** (for STEM majors)  
-    → How good are the labs, classrooms, and technology resources?
-12. **Alumni Network Strength**  
-    → Do grads stay connected and help others?  
-    → Particularly relevant at USC, which markets its Trojan Network
----
-
 ### 🧩 **Bonus Sections (Optional)**
 
 - **On-Campus Work Opportunities** (important for grad students)
@@ -494,6 +355,24 @@ There’s **no clear evidence** these campuses offer formal BS→MS acceleration
 
 
 ---
+##  data 
+|                                        |                  |             |            |             |       |              |      |               |               |          |           |           |           |          |           |         |         |       |         |       |         |         |         |         |
+| -------------------------------------- | ---------------- | ----------- | ---------- | ----------- | ----- | ------------ | ---- | ------------- | ------------- | -------- | --------- | --------- | --------- | -------- | --------- | ------- | ------- | ----- | ------- | ----- | ------- | ------- | ------- | ------- |
+| University Name                        | Division/Valley  | City/Suburb | Size       | Co-ed       | No    | Professional | High | Arts/Sciences | Majority      | Balanced | Very High | On-Campus | B-Alone   | Students | Undergrad | Grad    | Q4-25   | Merit | P/F     | %     | No data | No data | No data | No data |
+| University of California-Berkeley      | SFSilicon Valley | City        | XL (20K+)  | Co-ed       | No    |              |      | Arts/Sciences | Majority      |          |           | On-campus | B-Alone   | 181,032  | 203,644   |         | Limited |       |         |       | No data | No data | No data | No data |
+| University of California-Davis         | SFSilicon Valley | Suburb      | Small      | XL (20K+)   | Co-ed | No           |      |               | Arts/Sciences |          | Balanced  |           | On-campus | B-Alone  | 147,592   | 116,428 | 171,108 | Q4-25 | Limited | 119   | 2.90%   | $12,970 | 556 COZ | $1.5m   |
+| University of California-Irvine        | Los Angeles, CA  | City        | Large      | XL (20K+)   | Co-ed | No           |      |               | Arts/Sciences | Majority |           |           | On-campus | B-Alone  | 148,626   | 113,681 | 168,817 | Q4-25 | Merit   | 67    | 1.90%   | $19,879 | 547 TSD | $1.4m   |
+| University of California-Los Angeles   | Los Angeles, CA  | City        | Large      | XL (20K+)   | Co-ed | No           |      |               | Arts/Sciences | Majority |           |           | On-campus | B-Alone  | 148,903   | 113,369 | 168,372 | Q4-25 | None    | 155   | 6.10%   | $25,900 | USN25   | $1.0m   |
+| University of California-Merced        | Suburb           | Midsize     | M (5K-10K) | Co-ed       | No    |              |      | Arts/Sciences |               | Balanced | Very High | On-campus | B-Alone   | 148,906  | 121,446   | 171,063 | Q4-25   | Merit | 5       | 1.40% | $9,900  | 569 COZ | $2.4m   |         |
+| University of California-Riverside     | Los Angeles, CA  | City        | Large      | XL (20K+)   | Co-ed | No           |      |               | Arts/Sciences | High     |           |           | On-campus | B-Alone  | 148,516   | 120,700 | 171,216 | Q4-25 | Limited | 207   | 10.50%  | $7,872  | 566 COZ | $2.0m   |
+| University of California-San Diego     | San Diego, CA    | City        | Large      | XL (20K+)   | Co-ed | No           |      |               | Arts/Sciences | High     |           |           | On-campus | B-Alone  | 181,016   | 110,922 | 171,937 | Q4-25 | Merit   | 55    | 1.40%   | $16,294 | 551 USN | $2.5m   |
+| University of California-Santa Barbara | SFSilicon Valley | Suburb      | Midsize    | XL (20K+)   | Co-ed | No           |      |               | Arts/Sciences | High     |           |           | On-campus | B-Alone  | 147,735   | 119,847 | 171,702 | Q4-25 | Limited | 75    | 3.80%   | $12,953 | 547 SPY | $1.6m   |
+| University of California-Santa Cruz    | SFSilicon Valley | City        | Small      | L (10K-20K) | Co-ed | No           |      |               | Arts/Sciences | High     |           |           | On-campus | B-Alone  | 150,133   | 119,640 | 174,121 | Q4-25 | Limited | 152   | 27.50%  | $6,604  | 569 SSW | $1.0m   |
+
+
+
+
+
 
 ### ✅ Recommendation
 
@@ -507,3 +386,144 @@ If minimizing both **time and cost** is your goal:
     
 
 Would you like to check for similar programs in specific departments (like ECE or Biology) at any of these schools? I can also help verify exact application criteria or deadlines.
+ 
+# question to ask about each university 
+Here’s a clean **list of questions** you can use when talking to students or alumni from the universities you listed. These are direct and focused to help you compare schools clearly:
+
+---
+
+### 🎓 **University Experience & Outcomes – Question List**
+
+1. **After graduating, did the university’s name/reputation help you get opportunities?**
+    
+2. **Did the university support you in meaningful ways (academically or professionally)?**
+    
+3. **What kinds of networking events did your university organize?**
+    
+4. **How did your university help you get your first internship or job?**
+    
+5. **Was the tuition worth it for what you gained in return?**
+    
+6. **Did the university connect you with alumni or companies directly?**
+    
+7. **Were professors helpful outside of class (mentorship, referrals, advice)?**
+    
+8. **What surprised you the most about the school once you started?**
+    
+9. **How active and helpful is the career center or job placement team?**
+    
+10. **What kind of student fits in best at this university?**
+    
+11. **Would you choose the same university again if you had the chance? Why or why not?**
+    
+12. **What was the biggest challenge you faced at this school?**
+    
+13. **Do you still benefit from being part of the school’s alumni network?**
+    
+14. **How competitive or collaborative is the environment?**
+    
+15. **Any advice for someone considering applying here?**
+    
+
+
+
+### 🔢 **Good Questions for a 1–10 Scale**
+
+1. **How much did the university’s name/reputation help you after graduation?**  
+    _(1 = Not at all, 10 = Helped a lot)_
+    
+2. **How well did the university support you academically or professionally?**  
+    _(1 = Gave no help, 10 = Extremely helpful)_
+    
+3. **How useful were the networking opportunities the university provided?**  
+    _(1 = Useless or non-existent, 10 = Extremely valuable)_
+    
+4. **How effective was the university in helping you get your first job/internship?**  
+    _(1 = Didn’t help at all, 10 = Got my job directly through them)_
+    
+5. **How worth it was the tuition, in your opinion?**  
+    _(1 = Not worth it, 10 = Completely worth it)_
+    
+6. **How helpful was the career center or job placement support?**  
+    _(1 = Not helpful, 10 = Very helpful)_
+    
+7. **How connected do you feel to the alumni network now?**  
+    _(1 = Not connected at all, 10 = Very connected/active)_
+    
+8. **How likely are you to recommend this university to someone else?**  
+    _(1 = Would not recommend, 10 = Absolutely would recommend)_
+    
+
+
+9. **What was your major at [University Name]?**
+    
+10. **Which degree program did you complete?**
+    
+11. **What did you study while you were at [school]?**
+    
+12. **What field did you major in?**
+    
+13. **What was your academic focus or specialization?** _(good if they double-majored or had a concentration)_
+    
+14. **Did your major align with your current career path?** _(optional follow-up)_
+    
+
+---
+
+
+
+
+You can also combine it into a longer question if you're making a form or interview script:
+
+> **What was your major, and do you feel it prepared you well for your career? (Why or why not?)**
+
+Let me know if you want to include minors or double majors too.
+
+### ✅ **Suggested Comparison Sections**
+
+1. **Ranking**  
+    → National & program-specific rankings (e.g., CS, Engineering, Business)
+    
+2. **Cost**  
+    → Tuition, fees, cost of living, financial aid, scholarships
+    
+3. **Acceptance Rate**  
+    → General rate + transfer acceptance rate (often different!)
+    
+4. **Major Strength**  
+    → How strong is the specific program (like Computer Engineering) at that school?
+    
+5. **Other Opinions / Student Sentiment**  
+    → Reddit, forums, blogs, and personal experiences
+    
+
+---
+
+### 🔍 **Additional Sections to Add**
+
+6. **Career Outcomes & Job Placement**  
+    → How well do grads do? Job placement stats? Access to internships?  
+    → Career center support, alumni connections, industry pipelines
+    
+7. **Transfer-Friendliness**  
+    → Are articulation agreements in place (like ASSIST)?  
+    → Is the school known for accepting CC transfers?
+    
+8. **Campus Life & Student Culture**  
+    → Social scene, clubs, diversity, mental health support  
+    → Is it competitive or collaborative?
+    
+9. **Location & Safety**  
+    → Cost of living, housing, transportation, neighborhood safety  
+    → (especially important in LA vs Irvine vs Davis, etc.)
+10. **Class Size & Faculty Access**  
+    → Do undergrads get attention or are classes huge lectures?  
+    → Can you build relationships with professors?
+11. **Facilities & Labs** (for STEM majors)  
+    → How good are the labs, classrooms, and technology resources?
+12. **Alumni Network Strength**  
+    → Do grads stay connected and help others?  
+    → Particularly relevant at USC, which markets its Trojan Network
+---
+https://cse.ucsd.edu/graduate/bachelorsmasters-program  
+bachelor to engineering program what is it about is there a bs to master program ? 
