@@ -6,6 +6,7 @@ tags:
 reference: 
 Current date: "2025-08-04"
 ---
+Cronometer 
 
-The password is the dirty email by the way: 
-
+## different calories and application
+ verifired food database, does user enter items  have some obsure or mesuring metric 
