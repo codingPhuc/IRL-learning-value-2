@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping list.md",
+                "file": "collage/University college.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shopping list"
+              "title": "University college"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily note/2025-08-02.md",
+                "file": "basic skill/Cooking/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-02"
+              "title": "Untitled"
             }
           }
         ],
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily note/2025-08-02.md",
+                "file": "basic skill/Cooking/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-02"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -297,11 +297,15 @@
   },
   "active": "a731006d60f653e2",
   "lastOpenFiles": [
-    "Shopping list.md",
     "collage/University college.md",
+    "Shopping list.md",
+    "basic skill/Cooking/Untitled.md",
+    "basic skill/computer/google import and export.md",
+    "daily note/2025-08-02.md",
+    "basic skill/computer",
+    "basic skill/Cooking",
     "daily note/2025-08-04.md",
     "san diego.md",
-    "daily note/2025-08-02.md",
     "university/Cal  Poly  vs University of Southern California.md",
     "university/California  State  university.md",
     "California Polytechnic State University.md",
@@ -322,8 +326,6 @@
     "AI prompt (1).md",
     "Application type and version.md",
     "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
-    "collage/closes college.md",
-    "perpare too be kick out/tax/manage your tax account online.md",
     "perpare too be kick out/tax/p519.pdf",
     "perpare too be kick out/tax/p515.pdf",
     "collage/ssb-prod.ec.cccd.edu_PROD_pw_sched_bill.p_start_here.pdf",
@@ -336,8 +338,6 @@
     "collage/UC sandiego Major Table.pdf",
     "collage/UCLA Major Table (3).pdf",
     "collage/UCLA Major Table (3).pdf.crdownload",
-    "collage/Uc Irvin Major Table .pdf",
-    "collage/Uc Irvin Major Table .pdf.crdownload",
     "Pasted image 20250723103512.png",
     "Pasted image 20250723103302.png",
     "Pasted image 20250723103054.png",
