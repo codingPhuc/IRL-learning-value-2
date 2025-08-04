@@ -34,6 +34,7 @@ all the tuition  is above >50k
 ## fees,
 
 https://docs.google.com/spreadsheets/d/1otwtaKUYreI1MZsWzmKW5eu-mHVJLnZik8HP2HrTtZs/edit?gid=1549953579#gid=1549953579
+filter view 4 for the data 
 
 ## cost of living, 
 
