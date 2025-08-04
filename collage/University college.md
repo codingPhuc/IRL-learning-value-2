@@ -374,7 +374,18 @@ Let me know if you'd like this as a downloadable CSV, Excel file, or formatted f
 
 
 
-# #important_todo
+# #important_todo 
+
+- [ ] ask question about each major in ucsd there are thing to ask like data science vs math-computer science which is better 
+	- [ ]  academic doing or wanting  to do a phd 
+		- [ ] department side and which class is smaller 
+	- [ ] industry does industry reconize the degree with that major more 
+- [ ] go on club program or talk about that school 
+
+
+
+
+
 ### ✅ Recommendation
 
 

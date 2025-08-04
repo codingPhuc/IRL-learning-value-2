@@ -10,7 +10,8 @@
 - [ ] milk 
 - [ ] snack for school specifically the one with almond nut 
 - [ ] It's just a spray bottle with an ear-shaped tip with [hydrogen peroxide](https://www.reddit.com/search/?q=hydrogen+peroxide+ear+wax+removal&cId=95ad1f17-ab1d-4ae3-853c-834c1a35b7a9&iId=ba09607a-408c-45cd-8cb8-e6e510e37345) and water mix. A few sprays and ears are cleaned. In between those months once a week, I put ear wax removal drops in his ear (buy ANYWHERE) It comes with an aspirator but never needs to use it
-- [ ] buy racket for picke ball 
+- [ ] buy racket for picke ball  
+- [ ] buy  bưởi f
 Got it! Here's your updated **Obsidian-style to-do list**, with checkboxes and your added item ("A container for food") integrated into the correct format. Everything is now consistently in checklist format:
 
 ---
