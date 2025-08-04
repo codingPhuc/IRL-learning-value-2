@@ -198,8 +198,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -296,7 +295,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a41a123c6ae3a7cd",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
     "collage/University college.md",
     "daily note/2025-08-04.md",
