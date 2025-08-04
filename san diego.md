@@ -44,7 +44,7 @@ maybe can dumpster drive ?
 
 rent  is above 1500$ I saw on craig list that it can be as low as 800 per month 
 ## financial aid,  scholarships 
-
+- [Patreon Post 1](https://www.patreon.com/c/bgzconsulting/posts) 
 3. **Acceptance Rate**  
     → General rate + transfer acceptance rate (often different!)
     
