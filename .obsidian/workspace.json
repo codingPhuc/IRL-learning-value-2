@@ -198,8 +198,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -296,7 +295,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "981c772747a5cc1e",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
     "collage/University college.md",
     "perpare too be kick out/tax/p515.pdf",
