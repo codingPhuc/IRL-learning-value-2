@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basic skill/Cooking/Cronometer.md",
+                "file": "collage/University college.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cronometer"
+              "title": "Outline of University college"
             }
           }
         ],
@@ -295,11 +295,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a731006d60f653e2",
+  "active": "a41a123c6ae3a7cd",
   "lastOpenFiles": [
+    "basic skill/Cooking/Cronometer.md",
     "collage/University college.md",
     "Shopping list.md",
-    "basic skill/Cooking/Cronometer.md",
     "basic skill/computer/google import and export.md",
     "daily note/2025-08-02.md",
     "basic skill/computer",
