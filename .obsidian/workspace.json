@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic skill/obsidian git bug.md",
+                "file": "basic skill/Cooking/Cronometer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian git bug"
+              "title": "Cronometer"
             }
           },
           {
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basic skill/obsidian git bug.md",
+                "file": "basic skill/Cooking/Cronometer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidian git bug"
+              "title": "Outline of Cronometer"
             }
           }
         ],
@@ -281,12 +281,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a41a123c6ae3a7cd",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
     "basic skill/google import and export.md",
+    "basic skill/obsidian git bug.md",
     "basic skill/Cooking/Cronometer.md",
     "basic skill/running  linux on Iphone.md",
-    "basic skill/obsidian git bug.md",
     "Untitled.md",
     "Untitled 7.md",
     "Untitled 4.md",
