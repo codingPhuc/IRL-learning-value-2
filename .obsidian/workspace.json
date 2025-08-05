@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "food.md",
+                "file": "Shopping list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "food"
+              "title": "Shopping list"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "food",
+                "query": "shopping ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "food.md",
+                "file": "Shopping list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of food"
+              "title": "Outline of Shopping list"
             }
           }
         ],
@@ -298,6 +298,7 @@
   },
   "active": "cfd7adcae9810c7a",
   "lastOpenFiles": [
+    "food.md",
     "basic skill/Cooking/Untitled.md",
     "basic skill/Cooking/Cronometer.md",
     "basic skill/computer/obsidian git bug.md",
@@ -326,7 +327,6 @@
     "California Polytechnic State University.md",
     "university/California Polytechnic State University.md",
     "California  State  university.md",
-    "university/University of Southern California.md",
     "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "perpare too be kick out/tax/p519.pdf",
     "perpare too be kick out/tax/p515.pdf",
