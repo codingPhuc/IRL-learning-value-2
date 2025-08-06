@@ -1,0 +1,1 @@
+It is a mic of different vetabra in a tray mix with ranch and the orange sauce thing
