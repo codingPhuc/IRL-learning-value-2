@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic skill/Cooking/Untitled.md",
+                "file": "basic skill/computer/obsidian git bug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "obsidian git bug"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basic skill/Cooking/Untitled.md",
+                "file": "basic skill/computer/obsidian git bug.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of obsidian git bug"
             }
           }
         ],
@@ -297,8 +297,8 @@
   },
   "active": "cfd7adcae9810c7a",
   "lastOpenFiles": [
-    "basic skill/Cooking/Cronometer.md",
     "basic skill/Cooking/Untitled.md",
+    "basic skill/Cooking/Cronometer.md",
     "career path.md",
     "jobs/High-Performance Computing.md",
     "High-Performance Computing.md",
