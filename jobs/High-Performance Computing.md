@@ -59,3 +59,9 @@ In short: **Linux mastery**, practical experience, and a focus on system archite
 
 people 
 u/duodmas
+
+## site to learn from 
+
+https://ulhpc-tutorials.readthedocs.io/en/latest/ 
+
+
