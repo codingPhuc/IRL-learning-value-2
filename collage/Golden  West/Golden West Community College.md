@@ -574,8 +574,8 @@ https://goldenwestcollege.bncollege.com/course-material-listing-page?bypassCusto
 your id card is the library card   
 you can only brow your book for like 2 hour at a time 
 
-#Todo_question  
-- [ ] do you have the part ranger parking pass ?  where you can park at different location ? 
+
+- [x] do you have the part ranger parking pass ?  where you can park at different location ? 
 
 
 ## IT help desk  
