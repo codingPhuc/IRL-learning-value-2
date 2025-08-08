@@ -65,3 +65,7 @@ u/duodmas
 https://ulhpc-tutorials.readthedocs.io/en/latest/ 
 
 
+https://github.com/trevor-vincent/awesome-high-performance-computing?tab=readme-ov-file#resources 
+
+
+https://www.reddit.com/r/HPC/comments/ayrc0j/certification_recommendations_for_hpc_professional/
