@@ -198,8 +198,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jobs/High-Performance Computing.md",
+                "file": "university/University of Southern California.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of High-Performance Computing"
+              "title": "Outline of University of Southern California"
             }
           }
         ],
@@ -296,8 +295,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cfd7adcae9810c7a",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
+    "jobs/High-Performance Computing.md",
     "collage/Golden  West/Golden West Community College.md",
     "daily note/2025-08-08.md",
     "basic skill/computer/obsidian git bug.md",
@@ -309,7 +309,6 @@
     "basic skill/Cooking/Untitled.md",
     "basic skill/Cooking/Cronometer.md",
     "career path.md",
-    "jobs/High-Performance Computing.md",
     "High-Performance Computing.md",
     "food.md",
     "Shopping list.md",
