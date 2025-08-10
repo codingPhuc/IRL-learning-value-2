@@ -236,7 +236,7 @@ Ask professors you've formed meaningful academic connections with, especially th
 
 IDME-JGKN-H64Q-ZJYF 
 
-  
+  https://atgender.eu/wp-content/uploads/sites/207/2022/03/Eco_How-Write-Thesis.pdf
 # [research ](https://www.reddit.com/user/elucidateobfuscation/)
 I graduated from undergrad in 2020 and will be starting an MD/PhD in the summer, so I do apologize if things are out of date or biased towards medicine/biological sciences! To condense some of the resources out there to try:
 
@@ -278,7 +278,10 @@ We look for things like:
 
 Hope this helps and good luck!
 
-Edit: happy to help further/answer any more questions with getting research, med stuff (if applicable to you), etc.!
+Edit: happy to help further/answer any more questions with getting research, med stuff (if applicable to you), etc.! 
+
+
+
 ## #Todo_question 
 - [ ] finding research opertunity  
 - [ ] https://www.fullerton.edu/projectraise/community-college-students/ure/ 
