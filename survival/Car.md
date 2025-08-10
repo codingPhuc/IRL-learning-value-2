@@ -190,22 +190,7 @@ Saturday: Closed
 
 More Info  Save Notes Suggest  See Next Steps 
 
-
-
-### 🗺️ **Optimized Route (Shortest and Most Efficient Path):**
-
-#### ✅ **Start: 3050 W Ball Rd, Anaheim**
-
-⬇️
-
-#### 1. **2131 W Lincoln Ave, Anaheim, CA 92801** (only 1.5 mi north – quick first stop)  ANAHEIM THRIFT STORE 
-
-### 
-⬇️
-
-#### 3. **10868 Garden Grove Blvd, Garden Grove, CA 92843** (east of Fern St, ~2 mi) _Public Government Car Insurance & Client Choice Food Pantry location_
-
-⬇️
-
-#### 4. **13552 Goldenwest St, Westminster, CA 92683** (last stop, ~5 mi southwest) 4:00 PM - 6:00 PM PDT  food bank 
-
+# how to fix your car battery 
+1. if the car battery is dead then you need to restart it using the write  connections   1 cable end the red side of the car battery to the red pine, connect the black side of the car battery to the black pine 
+2. then connect the other end to another car 
+3. jump start the active car for the other car 
