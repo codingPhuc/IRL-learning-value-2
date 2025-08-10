@@ -136,12 +136,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/University of Southern California.md",
+                "file": "collage/University college.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "University of Southern California"
+              "title": "University college"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HPC",
+                "query": "tag:#Todo_question",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -198,7 +198,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -264,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/University of Southern California.md",
+                "file": "collage/University college.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of University of Southern California"
+              "title": "Outline of University college"
             }
           }
         ],
@@ -295,8 +296,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1519d39e08493179",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
+    "university/University of Southern California.md",
     "daily note/2025-08-09.md",
     "jobs/High-Performance Computing.md",
     "collage/Golden  West/Golden West Community College.md",
@@ -324,7 +326,6 @@
     "basic skill/running  linux on Iphone.md",
     "Untitled.md",
     "Untitled 7.md",
-    "Untitled 4.md",
     "basic skill/Cooking",
     "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "perpare too be kick out/tax/p519.pdf",
