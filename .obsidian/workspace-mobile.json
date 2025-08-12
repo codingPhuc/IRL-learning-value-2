@@ -148,7 +148,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Food",
+            "query": "Say how",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -183,7 +183,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fa1c0affd16e263e",
@@ -195,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily note/2025-08-06.md",
+            "file": "daily note/2025-08-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -254,8 +254,9 @@
   },
   "active": "d9757affcb2ad8e2",
   "lastOpenFiles": [
-    "daily note/2025-08-11.md",
+    "daily note/2025-08-02.md",
     "daily note/2025-08-12.md",
+    "daily note/2025-08-11.md",
     "daily note/2025-08-10.md",
     "basic skill/How to hang clothes.md",
     "/survival/Car.md",
@@ -285,7 +286,6 @@
     "daily note/2025-08-04.md",
     "/basic skill/computer/obsidian git bug.md",
     "/basic skill/computer",
-    "/basic skill/Cooking/Cronometer.md",
     "/basic skill/Cooking",
     "/basic skill",
     "basic skill/computer",
