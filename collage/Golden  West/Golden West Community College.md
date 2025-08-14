@@ -698,6 +698,7 @@ there will be  an even
 - [ ] ask about extra curriculars https://extracurriculars.org/ 
 - [ ] learn about PIQ  https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/personal-insight-questions.html    
 - [x] no link https://www.google.com/search?q=can+I+include+website+link+in+my+transfer+essay&oq=can+I++include+website+link+in+my+transfer+essay+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAjIHCAYQIRiPAtIBCTEwOTA3ajBqNKgCCLACAfEFXy0NXxxJnUY&sourceid=chrome&ie=UTF-8  
+- [ ] How can I do something ab
 - [ ] 1830 W. Romneya Drive  
 - [ ] Puente  program  
 5th Floor, Office #513  
