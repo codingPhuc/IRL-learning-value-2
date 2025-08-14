@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "driv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -198,7 +198,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
