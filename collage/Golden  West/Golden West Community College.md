@@ -609,6 +609,7 @@ https://payment.paymytuition.com/paynow/cccd?dataPostGuid=eMWZqTR7H6bFtveq7ibIU3
 
 
 
+
 ### Scholarships
 [Scholarships](https://www.goldenwestcollege.edu/scholarships/index.html)
 
@@ -623,6 +624,7 @@ https://payment.paymytuition.com/paynow/cccd?dataPostGuid=eMWZqTR7H6bFtveq7ibIU3
 
 ## collage app  
 [https://www.goldenwestcollege.edu/gwcapp/index.html](https://www.goldenwestcollege.edu/gwcapp/index.html)  
+
 
 
 
@@ -657,6 +659,8 @@ Counseling Office - (714) 892-7711 ext. 58119
 
 Join  club only possible on the fall  
 there will be  an even
+
+
 
 
 
@@ -700,6 +704,7 @@ there will be  an even
 - [x] no link https://www.google.com/search?q=can+I+include+website+link+in+my+transfer+essay&oq=can+I++include+website+link+in+my+transfer+essay+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAjIHCAYQIRiPAtIBCTEwOTA3ajBqNKgCCLACAfEFXy0NXxxJnUY&sourceid=chrome&ie=UTF-8  
 - [ ] How can I have p/f grade for general education 
 - [ ] Can I take class at orange county and golden west
+- [ ] Aspire club seem good 
 - [ ] 1830 W. Romneya Drive  
 - [ ] Puente  program  
 5th Floor, Office #513  
