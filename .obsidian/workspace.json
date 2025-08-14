@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "basic skill/driving/Freeway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Freeway"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "driv",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "basic skill/driving/Freeway.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Freeway"
             }
           }
         ],
@@ -297,14 +297,11 @@
   },
   "active": "d7967982e733c0f4",
   "lastOpenFiles": [
-    "basic skill/driving/drive.md",
-    "basic skill/driving/Freeway.md",
-    "basic skill/driving",
-    "conflict-files-obsidian-git.md",
-    "basic skill/Cooking/Cronometer.md",
-    "daily note/2025-08-13.md",
     "PHD.md",
+    "basic skill/driving/Freeway.md",
+    "basic skill/driving/drive.md",
     "daily note/2025-08-12.md",
+    "basic skill/driving",
     "daily note/2025-08-11.md",
     "basic skill/How to hang clothes.md",
     "jobs/High-Performance Computing.md",
@@ -313,6 +310,7 @@
     "collage/University college.md",
     "university/University of Southern California.md",
     "daily note/2025-08-09.md",
+    "jobs/High-Performance Computing.md",
     "collage/Golden  West/Golden West Community College.md",
     "daily note/2025-08-08.md",
     "basic skill/computer/obsidian git bug.md",
@@ -323,8 +321,12 @@
     "basic skill/Cooking/Canh chua.md",
     "basic skill/Cooking/Untitled.md",
     "career path.md",
+    "High-Performance Computing.md",
+    "food.md",
+    "Shopping list.md",
     "collage/Student Fieldtrip VAP Form - Angels Japanese Heritage Night.pdf",
     "basic skill/computer",
+    "basic skill/google import and export.md",
     "basic skill/Cooking",
     "AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
     "perpare too be kick out/tax/p519.pdf",
@@ -337,6 +339,7 @@
     "picture to chanage/Pasted image 20250704110425.jpg",
     "collage/UC sandiego Major Table.pdf",
     "collage/UCLA Major Table (3).pdf",
+    "collage/UCLA Major Table (3).pdf.crdownload",
     "Pasted image 20250723103512.png",
     "Pasted image 20250723103302.png",
     "Pasted image 20250723103054.png",
