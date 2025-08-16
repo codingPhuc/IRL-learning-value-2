@@ -157,6 +157,15 @@ thuốc  turmeric  1 cái  40$  5 cái  200$
 - 1 bịch khô mực của dì Phượng
 
 
+# 
+
+
+
+
+
+
+
+
 
 #  Todo for living circumstances  
 
