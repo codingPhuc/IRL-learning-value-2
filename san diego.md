@@ -186,3 +186,7 @@ Related
 best engineering programs at UCSDUCSD engineering major comparisonsjob prospects for UCSD engineering graduates
 
 [Reddit Answers](https://support.reddithelp.com/hc/articles/32026729424916-Reddit-Answers-Currently-in-Beta) are AI-generated from redditors’ posts and comments and may not be accurate. 
+
+#Todo_question_Important 
+What is ersp as transfer
+https://www.reddit.com/r/UCSD/comments/18jaeiv/comment/kdjqgd2/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button
