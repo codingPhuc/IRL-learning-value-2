@@ -31,8 +31,26 @@ Here is a **clean and organized version** of the information you shared. I’ve 
 Here's a **cleaned, formatted**, and **numbered version** of your note. Repeated actions or rules have been incremented by 2 for clarity and hierarchy. I grouped the content under your original categories and added a **#fail_behavior** section at the end as requested.
 
 ---
+You should have unplug the fried rice if you know there is luttle rice
+K
+You should not talk about anything negative 
+Like your test score and stuff like that you need to be positive
+Froam rollar for your blqkc
+Short hip thrush
+
+For the skin have mosteriser 
+Hryocogozon creamcorizon age cream 10  
 
 
+you should me proactive  when you need a hair cut you need a hair cut don't be lazy 
+when you are about to eat go out their and say you are sorry and tomorow you need a hair cut 
+
+Why did you not greet di quyen when she got home what wrong with you 
+
+You should have said that you cannot eat a lot of a food instead of out rigt saying you cannot eat it  
+
+Why did you not ask exactly where instead of agreeing
+You should not put the smaller bow in the bigger bow
 # Critical errors 
 - You should tell people everything   
 

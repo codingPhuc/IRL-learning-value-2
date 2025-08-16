@@ -7,13 +7,15 @@ reference:
 Current date: "2025-08-15"
 ---
 # Bio class 
+## Joseline
+catholic  
 
 # matthrew 
 Matthew   been in them military , he said that he join the air force, been in the army for about 4 year  have an injury you can reduce your service to about 2 year or shorter  
 
-## 
-
-
+## Minh Khánh Nguyễn 
+friend of matthrew seem to be eyeing for marriage 
+study comp science aiming for long beach 
 # Mom relationship 
 
 ## **Dũng**
