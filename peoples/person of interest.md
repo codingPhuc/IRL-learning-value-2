@@ -6,6 +6,13 @@ tags:
 reference: 
 Current date: "2025-08-15"
 ---
+# Bio class 
+
+# matthrew 
+Matthew   been in them military , he said that he join the air force, been in the army for about 4 year  have an injury you can reduce your service to about 2 year or shorter  
+
+## 
+
 
 # Mom relationship 
 
@@ -155,13 +162,26 @@ Would you also like a slightly more condensed or even bullet-pointed version for
 ## the young son  not wearing glasses   (Andi )
 Adi 
 - like  Roblox 
-- like  coffee candy 
+- like  coffee candy  
+- andi like too have bit of food to eat like snack  he does not like to eat a full meal 
 ## the young son  wearing glasses  (Harry )
 Tyler 
 - like  Roblox
 - like  coffee candy 
 
 
+# Code and Coffe  
+
+## David 
+David play picker ball go to the gym 3 time a week then do another ball thing that I do not remember on the other 3 time of the week usually have break on summer 
+
+
+
+
+
+ ## adpi 
+asian  man  with glasses
+live in **Tustin** or some name in orange county 
 # Nga family 
 ##  Bà nga 
 - used  to live in an apartment with her husband . The condition she live in was very strict due to the husband  of her husband sister .  He would  yell or  complain about electricity  used when ever the TV was on 

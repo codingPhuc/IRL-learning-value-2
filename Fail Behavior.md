@@ -6,6 +6,25 @@ tags:
 reference: 
 updated date: 2025-06-02
 ---
+how to clean the bath, 
+1. first you will spary it with a all purpose cleanner 
+2. let it sit for a bit  
+3. crub it using a brush on your left hand and the water sprayer on your right 
+how to  [re thread](https://www.youtube.com/watch?time_continue=117&v=wnW7OWsq7vk&embeds_referring_euri=https%3A%2F%2Fchatgpt.com%2F&source_ve_path=MjM4NTE) a string pant
+
+You should have rinse the dishese before letting other people wash them 
+You should press the lock button before going out 
+You should take the item that people give you into your room 
+You should remember to buy item for both childrent not just one 
+You fail to put lip grosh on your lips
+
+1 when you wash your cloth you should do the the following 
+Obe gental with the dryer 
+ALWAYS OPEN THE WASHING MACHINE YOU ALWAYS FAIL TO DO THIS
+
+why did you mention about not liking bio to your teacher that was wrong 
+talk more concistantly and better, do not let other people ask you what you mean again 
+filter your word better 
 
 
 Here is a **clean and organized version** of the information you shared. I’ve grouped related items under relevant headings for better readability:
