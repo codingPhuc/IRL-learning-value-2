@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fail Behavior.md",
+                "file": "daily note/2025-08-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fail Behavior"
+              "title": "Outline of 2025-08-02"
             }
           }
         ],
@@ -305,11 +305,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a41a123c6ae3a7cd",
+  "active": "bb2806a82560bf8f",
   "lastOpenFiles": [
+    "Fail Behavior.md",
     "peoples/person of interest.md",
     "daily note/2025-08-02.md",
-    "Fail Behavior.md",
     "daily note/2025-08-01.md",
     "daily note/2025-07-29.md",
     "UCLA.md",
