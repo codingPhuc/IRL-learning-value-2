@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perpare too be kick out/free stuff/free media.md",
+                "file": "daily note/2025-08-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "free media"
+              "title": "2025-08-15"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "free",
+                "query": "relation ship",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -184,7 +184,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "perpare too be kick out/free stuff/free media.md",
+                "file": "daily note/2025-08-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of free media"
+              "title": "Outline of 2025-08-15"
             }
           }
         ],
@@ -281,10 +282,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a41a123c6ae3a7cd",
+  "active": "981c772747a5cc1e",
   "lastOpenFiles": [
-    "cyber security in austrailia.md",
+    "PHD.md",
+    "daily note/2025-08-15.md",
     "perpare too be kick out/free stuff/free media.md",
+    "cyber security in austrailia.md",
     "perpare too be kick out/free stuff",
     "collage/Los Angeles University/collage to transfer.md",
     "collage/collage plan.md",
@@ -292,11 +295,9 @@
     "bank food store and other.md",
     "collage/Golden  West/fall semester/Semester at golden  West fall 2025.md",
     "daily note/2025-08-12.md",
-    "PHD.md",
     "career path.md",
     "jobs/career path.md",
     "2024-03-29.md",
-    "daily note/2025-08-15.md",
     "collage/Golden  West/fall semester/Untitled.md",
     "collage/Golden  West/fall semester/SYLLABUS_202570_21530.PDF",
     "collage/Golden  West/fall semester/SYLLABUS_202570_21530.PDF.crdownload",
