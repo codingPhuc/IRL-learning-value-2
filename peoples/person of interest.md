@@ -1,6 +1,22 @@
 
+# Mom relationship 
 
-s
+## **Dũng**
+
+- Works with user's mom
+    
+- Tall
+    
+- Dark-skinned
+    
+
+## **Cô Hoa**
+
+- Possibly the mother of user's aunt
+    
+- Related to earlier schooling
+    
+
 ## Person of Interest
 
 ### Contact Information
@@ -167,50 +183,175 @@ Here’s a **cleaned-up and organized version** of your notes, separated into ca
 
 - **2020 fire**: Everyone was mandated to stay inside.
     
+Absolutely! Here's the list reformatted so each person has their own `####` heading, followed by their associated attributes in a clean and readable list:
+
+---
+#### Oscar 
+- I talk with him bio and stem xp 
+#### **Aliya**
+
+- Close family
+    
+- Hottest summer (possibly age 12?)
+    
+- Latino
+    
+- Gold earrings
+    
+
+#### **Faras**
+
+- Wants to be a chemical engineer 
+- he talk 
+    
+
+#### **Daylen**
+
+- Car mechanic
+    
+- African descent
+    
+- Has a beard
+    
+
+#### **Joseph White**
+
+- Big man
+    
+- Has a military wife
+    
+
+#### **Jack**
+
+- White
+    
+- Works in Navy resupply
+    
+- Possibly part of the Merchant Marine or Navy
+    
+
+#### **Pietra**
+
+- Hot Latina girl, oscar talk with her a lot 
+    
+
+#### **James Tran**
+
+- Autistic
+    
+- Vietnamese national
+    
+
+#### **Pham Tran J.**
+
+- International student
+    
+- Vietnamese national
+    
+
+#### **Kyler**
+
+- OC Fair employee
+    
+- Seems to know Tina
+    
+
+
+#### **Thomas**
+
+- Tall
+    
+- Wears glasses
+    
+
+
+
+#### **John**
+
+- History major
+    
+- Wears sunglasses
+    
+- Not fluent in English
+    
+
+
+#### **Mika**
+
+-  black girl curly hair 
+    
+
+#### **Jolydan**
+
+- Group leader
+    
+
+#### **Lanio**
+
+- _(No details provided)_
+    
+
+#### **Alany**
+
+- _(No details provided)_
+    
+
+#### **Baylee**
+
+- Tall white guy
+    
+- Curly hair
+    
+
+#### **Sami**
+
+- Cute
+    
+- Tall, like the user
+    
+
+#### **Gita**
+
+- Loves scary movies
+    
+- Loves Vietnamese food
+    
+
+#### **Jon Jon**
+
+- Fat guy
+    
+- Raise  coordinator
+    
+
+#### **Ding**
+
+- Strong arms
+    
+
+#### **Nicoless**
+
+- Nerdy
+    
+- Tall
+    
+- Asian
+    
+- Wears glasses
+    
+
+#### **Daina**
+
+- Hispanic
+    
+- Wears glasses
+    
+- Mesa coordinator
+    
 
 ---
 
-## 🧑‍🤝‍🧑 People Directory
-
-### Students / Classmates
-
-|Name|Notes|
-|---|---|
-|**Aliya**|Close family, hottest summer (age 12?), Latino, gold earrings|
-|**Faras**|Wants to be a chemical engineer|
-|**Daylen**|Car mechanic, African descent, has a beard|
-|**Joseph White**|Big man, military wife|
-|**Jack**|White, does Navy resupply; Merchant Marine or Navy|
-|**Dũng**|Works with user's mom, tall and dark-skinned|
-|**Cô Hoa**|Possibly mother of user's aunt, related to earlier schooling|
-|**Pietra**|Hot Latina girl|
-|**James Tran**|Autistic, Vietnamese national|
-|**Pham Tran J.**|International Vietnamese student|
-|**Kyler**|OC Fair employee, seems to know Tina|
-|**Ravies**|From Sri Lanka, lives with relatives, green card immigrant?|
-|**Serbina**|Got engaged in Vietnam, has a ponytail|
-|**Đạt / Jaiden**|Mixed Hong Kong heritage|
-|**Thomas**|Tall, wears glasses|
-|**Khoa**|Overweight, immigrated at age 6, business major|
-|**Mark (Japanese)**|Nursing major|
-|**John**|History major, wears sunglasses, struggles with English|
-|**Hoàng**|Girl with a single brace|
-|**Markten**|English major, U.S. born, Aspire program, picky eater, recommends Pho 101|
-|**Tina**|Tall girl|
-|**Mika**|Wears sunglasses|
-|**Jolydan**|Group leader|
-|**Lanio**|(No details)|
-|**Alany**|(No details)|
-|**Baylee**|Tall white guy with curly hair|
-|**Sami**|Cute, tall girl like user|
-|**Gita**|Loves scary movies and Vietnamese food|
-|**Jon Jon**|Fat guy, Mesa coordinator|
-|**Ding**|Strong arms|
-|**Nicoless**|Nerdy tall Asian guy with glasses|
-|**Daina**|Hispanic, wears glasses, Mesa coordinator|
-
----
-
+Would you like this exported as a **Markdown**, **PDF**, or **Word** document? Or turned into **flashcards** or a **searchable directory**?
 ## 📍 Mesa Operations
 
 - A girl with glasses (nice figure) manages **operations in Mesa**, possibly has a **queue in California, Cần Thơ, and Huế**.
@@ -234,6 +375,70 @@ Let me know:
 - Or if you'd like to add **photos, roles, or contact info** to turn this into a proper directory.
 
 ## Aspire 
+#### **Khoa**
+
+- Overweight
+    
+- Immigrated at age 6
+    
+- Business major
+    
+
+#### **Mark (Japanese)**
+
+- Nursing major
+    
+
+#### **Ravies**
+
+- From Sri Lanka
+    
+- Lives with relatives
+    
+- Possible green card immigrant
+    
+
+#### **Serbina**
+
+- Got engaged in Vietnam
+    
+- Has a ponytail
+    
+
+#### **Đạt / Jaiden**
+
+- Mixed Hong Kong heritage
+
+
+
+#### **Hoàng**
+
+- Girl with a single brace
+    
+
+#### **Markten**
+
+- English major
+    
+- Born in the U.S.
+    
+- Aspire program (first-year sophomore)
+    
+- Picky eater (avoids spicy or chewy food)
+    
+- Likes English because GED counts for unit credit
+    
+- Recommends Pho 101
+    
+- Likes **cơm tấm** and **lạp xưởng**
+    
+
+#### **Tina**
+
+- Tall girl
+
+
+
 
 
 ## mesa program 
