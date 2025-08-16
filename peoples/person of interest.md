@@ -157,7 +157,130 @@ thuốc  turmeric  1 cái  40$  5 cái  200$
 - 1 bịch khô mực của dì Phượng
 
 
-# 
+# School relation 
+
+You can book a capslide with saundatee
+You can read the book real analysis 
+Sauntelor 
+
+Non pear review paper 
+Pear review reaserch paper so 
+ Capstone projec saundatee 
+ Home brew a 
+
+Aliya have a close night family hotest dummer 12 
+Back in 2020 there was fire mandateted everyone have to stay inside
+
+
+Guantee program  high rate of transfer you notice for graentee program 
+Puentee program I already know road a head of you is hard continue to study hard, really helpful resources for help  
+Library in person tuitoring schedule tutoring doing homework in 2 in the morning there is online tutoring looking into those resources now, so you better understand the concepts looking into the rouces now 
+Math 
+Pass later what is that ?
+Entrophee disorder happend 
+Parometric data
+Matrix
+Tensol 
+Makrop train 
+
+Lambda entropee and decay 
+Static data 
+Prametric and non parametric  
+
+
+Joshep white big man with wife
+Faras the guy that want to be chemical engineer
+Daylen the car mechanic breaded african guy 
+
+
+ Jack  White big man doing resuply navy 
+Merchance marrine and navy 
+West point or aid force 
+Infrinchy officer 
+
+The girl that wae glasses nice rack dont remember her name in charge of operation in mesa she have que in ca can và huế
+
+
+Dũng chú người làm việc với mẹ cao to da ngâm đen
+
+Cô hoa thường đi về mẹ của dì đó hay sao anh cqo cao cóm muối tửng học với mình
+Pietra hot girl latino 
+Jame the autistic guy 
+Sami the cute girl tall like me
+
+Jon jon the fat guy cordinator for mesa 
+Ding the person with strong arm 
+Nicoless nerd asian guy tall glasses
+
+Gita love scary movie 
+Gita love vietnamese food 
+
+Adaylen 
+
+Baylee the tall white cruly hair guy
+
+Alex 
+Important link https://docs.google.com/document/u/0/d/127SR0LzRPFOv4uzwAG4Zb8GzWCDGnlw5dBR4-58R-XQ/mobilebasic
+
+The big white guy marine statictis 
+Daina  wear glasses and hispanic Mesa coordinator
+
+Joshep thwhite fat man military wife 
+
+
+Jame tran austitic guy vietnamnational everyone in my class vietnam national
+ Pham tranj the international student here also vietnamnational
+
+
+The resupply guy name jack 
+Aliya the latino basic girl gold earing
+
+Kyler 
+ OC fair employeee seem to know tina 
+ 
+ Ravies from silank
+ His house in silanka have two bead room 
+ Hsi parent is not with hime, he is with a relative green card immigrant status ? 
+
+Serbina got engage in vietnam the person with pony tail
+
+Đạt/Jaiden mix  hong kong 
+
+Thomas tall glasses guy 
+
+
+Khoa awake kind of fat guy, he said immigrated here 6 years old, major in business 
+
+ the hong kong and viet major in nursing 
+
+Mark the japanese guy major nursing
+
+John major history sun glasses guy not good english 
+
+
+
+
+Hoang girl with brace one single brace 
+
+
+
+Markten  the drug looking guy  Major english, we talk a lot, born here in the United state went on aspire first year softmore. Don't like food that have effect other than good to eat (ect har to chew spicy ) food ahve people in them , have gone to concert dont remember which one, we talk a lot about how cs is hard stuff like that, maybe I should have taken hime on a ride, he like english major because study GED will count in unit 
+He recomend pho 101,  like com tam, like hard sausage thing that is hard to chew in  Lạp xưởng
+Tina the tall girl 
+
+Mika the guy with sun glasses
+ Jolydan she the leader 
+ Lanio 
+Alany
+
+# Mesa porgram
+Liz steam transfer expert fat women really fat
+John john success coach under liz 
+The fall dlied trip and social 
+Ale she her lationo white girl glasss  mentor mesa 
+Erwa arab kabap girl
+Stem related goal community and place of belonging
+Academic and tranfer goal 
 
 
 
