@@ -175,17 +175,8 @@ thuốc  turmeric  1 cái  40$  5 cái  200$
 
 # School relation 
 Here’s a **cleaned-up and organized version** of your notes, separated into categories for better readability. Let me know if you'd like this in table format, bullet points, or exported to a document.
+## stem XP 
 
-
----
-
-## 🔥 Events
-
-- **2020 fire**: Everyone was mandated to stay inside.
-    
-Absolutely! Here's the list reformatted so each person has their own `####` heading, followed by their associated attributes in a clean and readable list:
-
----
 #### Oscar 
 - I talk with him bio and stem xp 
 #### **Aliya**
@@ -202,7 +193,8 @@ Absolutely! Here's the list reformatted so each person has their own `####` head
 #### **Faras**
 
 - Wants to be a chemical engineer 
-- he talk 
+- he from Qata 
+- seem to be going to uc ivine 
     
 
 #### **Daylen**
@@ -212,8 +204,6 @@ Absolutely! Here's the list reformatted so each person has their own `####` head
 - African descent
     
 - Has a beard
-    
-
 #### **Joseph White**
 
 - Big man
@@ -349,31 +339,6 @@ Absolutely! Here's the list reformatted so each person has their own `####` head
 - Mesa coordinator
     
 
----
-
-Would you like this exported as a **Markdown**, **PDF**, or **Word** document? Or turned into **flashcards** or a **searchable directory**?
-## 📍 Mesa Operations
-
-- A girl with glasses (nice figure) manages **operations in Mesa**, possibly has a **queue in California, Cần Thơ, and Huế**.
-    
-
----
-
-## 🔗 Important Link
-
-- [Google Doc](https://docs.google.com/document/u/0/d/127SR0LzRPFOv4uzwAG4Zb8GzWCDGnlw5dBR4-58R-XQ/mobilebasic)
-    
-
----
-
-Let me know:
-
-- If you'd like **sections separated further** (e.g., students vs. staff),
-    
-- If you'd like it in **Markdown**, **Word**, or **Excel**,
-    
-- Or if you'd like to add **photos, roles, or contact info** to turn this into a proper directory.
-
 ## Aspire 
 #### **Khoa**
 
@@ -441,8 +406,6 @@ Let me know:
 
 
 
-## mesa program 
-### Stem XP 
 
 
 
