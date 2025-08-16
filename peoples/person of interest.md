@@ -67,7 +67,29 @@ Bạn trai của chị kỳ kỳ và
 
 
 
-# the Nhung family 
+# the Nhung family  
+
+
+## Chú vũ 
+
+![[Pasted image 20250727191843.png|300]]
+
+
+you should not turn on the high beem 
+
+
+## cô mai 
+
+[[mai house]]
+
+Cô mai 
+![[Pasted image 20250704115009.png]]
+
+
+
+![[Pasted image 20250704115224.jpg]]
+
+
 
 ## Dì Quyen 
 - she see me as her youngest son  ?  
