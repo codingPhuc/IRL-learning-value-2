@@ -662,6 +662,39 @@ there will be  an even
 
 
 
+## 📘 Academic Resources & Programs
+
+### Study Resources
+
+- You can book a **Capslide** with Saundatee.
+    
+- You can read the book **"Real Analysis"**.
+    
+- Use the **library** and **in-person tutoring**.
+    
+- Online tutoring is available (even at 2 AM) – useful for homework and understanding concepts.
+    
+- Look into **helpful resources now** to better grasp material.
+    
+
+### Programs
+
+- **Puente Program**: Known for high transfer rates, very helpful. Encourages continued hard work.
+    
+- **Guaranty Program**: High transfer rate; recommended to notice and take advantage of.
+    
+- **Capstone project** with Saundatee.
+    
+
+### Papers & Projects
+
+- Non-peer-reviewed paper
+    
+- Peer-reviewed research paper
+    
+- Homebrew A (assumed to be a project or class)
+    
+
 
 
 

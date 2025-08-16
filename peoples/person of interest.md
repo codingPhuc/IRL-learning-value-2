@@ -158,6 +158,88 @@ thuốc  turmeric  1 cái  40$  5 cái  200$
 
 
 # School relation 
+Here’s a **cleaned-up and organized version** of your notes, separated into categories for better readability. Let me know if you'd like this in table format, bullet points, or exported to a document.
+
+
+---
+
+## 🔥 Events
+
+- **2020 fire**: Everyone was mandated to stay inside.
+    
+
+---
+
+## 🧑‍🤝‍🧑 People Directory
+
+### Students / Classmates
+
+|Name|Notes|
+|---|---|
+|**Aliya**|Close family, hottest summer (age 12?), Latino, gold earrings|
+|**Faras**|Wants to be a chemical engineer|
+|**Daylen**|Car mechanic, African descent, has a beard|
+|**Joseph White**|Big man, military wife|
+|**Jack**|White, does Navy resupply; Merchant Marine or Navy|
+|**Dũng**|Works with user's mom, tall and dark-skinned|
+|**Cô Hoa**|Possibly mother of user's aunt, related to earlier schooling|
+|**Pietra**|Hot Latina girl|
+|**James Tran**|Autistic, Vietnamese national|
+|**Pham Tran J.**|International Vietnamese student|
+|**Kyler**|OC Fair employee, seems to know Tina|
+|**Ravies**|From Sri Lanka, lives with relatives, green card immigrant?|
+|**Serbina**|Got engaged in Vietnam, has a ponytail|
+|**Đạt / Jaiden**|Mixed Hong Kong heritage|
+|**Thomas**|Tall, wears glasses|
+|**Khoa**|Overweight, immigrated at age 6, business major|
+|**Mark (Japanese)**|Nursing major|
+|**John**|History major, wears sunglasses, struggles with English|
+|**Hoàng**|Girl with a single brace|
+|**Markten**|English major, U.S. born, Aspire program, picky eater, recommends Pho 101|
+|**Tina**|Tall girl|
+|**Mika**|Wears sunglasses|
+|**Jolydan**|Group leader|
+|**Lanio**|(No details)|
+|**Alany**|(No details)|
+|**Baylee**|Tall white guy with curly hair|
+|**Sami**|Cute, tall girl like user|
+|**Gita**|Loves scary movies and Vietnamese food|
+|**Jon Jon**|Fat guy, Mesa coordinator|
+|**Ding**|Strong arms|
+|**Nicoless**|Nerdy tall Asian guy with glasses|
+|**Daina**|Hispanic, wears glasses, Mesa coordinator|
+
+---
+
+## 📍 Mesa Operations
+
+- A girl with glasses (nice figure) manages **operations in Mesa**, possibly has a **queue in California, Cần Thơ, and Huế**.
+    
+
+---
+
+## 🔗 Important Link
+
+- [Google Doc](https://docs.google.com/document/u/0/d/127SR0LzRPFOv4uzwAG4Zb8GzWCDGnlw5dBR4-58R-XQ/mobilebasic)
+    
+
+---
+
+Let me know:
+
+- If you'd like **sections separated further** (e.g., students vs. staff),
+    
+- If you'd like it in **Markdown**, **Word**, or **Excel**,
+    
+- Or if you'd like to add **photos, roles, or contact info** to turn this into a proper directory.
+
+## Aspire 
+
+
+## mesa program 
+### Stem XP 
+
+
 
 You can book a capslide with saundatee
 You can read the book real analysis 
