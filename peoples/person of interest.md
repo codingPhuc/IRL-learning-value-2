@@ -286,36 +286,11 @@ Here’s a **cleaned-up and organized version** of your notes, separated into ca
 
 #### **Pham Tran J.**
 
-- International student
+- green card student
     
 - Vietnamese national
     
 
-#### **Kyler**
-
-- OC Fair employee
-    
-- Seems to know Tina
-    
-
-
-#### **Thomas**
-
-- Tall
-    
-- Wears glasses
-    
-
-
-
-#### **John**
-
-- History major
-    
-- Wears sunglasses
-    
-- Not fluent in English
-    
 
 
 #### **Mika**
@@ -391,7 +366,22 @@ Here’s a **cleaned-up and organized version** of your notes, separated into ca
 - Mesa coordinator
     
 
-## Aspire 
+## Aspire  
+
+#### **Kyler**
+
+- OC Fair employee
+    
+- Seems to know Tina
+    
+
+#### **Thomas**
+
+- Tall
+    
+- Wears glasses
+    
+
 #### **Khoa**
 
 - Overweight
@@ -454,8 +444,14 @@ Here’s a **cleaned-up and organized version** of your notes, separated into ca
 
 - Tall girl
 
+#### **John**
 
-
+- History major
+    
+- Wears sunglasses
+    
+- Not fluent in English
+    
 
 
 

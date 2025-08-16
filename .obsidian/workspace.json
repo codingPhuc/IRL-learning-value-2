@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "peoples/person of interest.md",
+                "file": "Fail Behavior.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of person of interest"
+              "title": "Outline of Fail Behavior"
             }
           }
         ],
@@ -305,10 +305,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d25fd8b758ea07b3",
+  "active": "a41a123c6ae3a7cd",
   "lastOpenFiles": [
-    "daily note/2025-08-02.md",
     "peoples/person of interest.md",
+    "daily note/2025-08-02.md",
     "Fail Behavior.md",
     "daily note/2025-08-01.md",
     "daily note/2025-07-29.md",

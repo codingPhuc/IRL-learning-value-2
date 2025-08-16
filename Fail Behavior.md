@@ -6,76 +6,28 @@ tags:
 reference: 
 updated date: 2025-06-02
 ---
-how to clean the bath, 
-1. first you will spary it with a all purpose cleanner 
-2. let it sit for a bit  
-3. crub it using a brush on your left hand and the water sprayer on your right 
-how to  [re thread](https://www.youtube.com/watch?time_continue=117&v=wnW7OWsq7vk&embeds_referring_euri=https%3A%2F%2Fchatgpt.com%2F&source_ve_path=MjM4NTE) a string pant
 
-You should have rinse the dishese before letting other people wash them 
-You should press the lock button before going out 
-You should take the item that people give you into your room 
-You should remember to buy item for both childrent not just one 
-You fail to put lip grosh on your lips
-
-1 when you wash your cloth you should do the the following 
-Obe gental with the dryer 
-ALWAYS OPEN THE WASHING MACHINE YOU ALWAYS FAIL TO DO THIS
-
-why did you mention about not liking bio to your teacher that was wrong 
-talk more concistantly and better, do not let other people ask you what you mean again 
-filter your word better 
-
-
-Here is a **clean and organized version** of the information you shared. I’ve grouped related items under relevant headings for better readability:
-Here's a **cleaned, formatted**, and **numbered version** of your note. Repeated actions or rules have been incremented by 2 for clarity and hierarchy. I grouped the content under your original categories and added a **#fail_behavior** section at the end as requested.
-
----
-You should have unplug the fried rice if you know there is luttle rice
-K
-You should not talk about anything negative 
-Like your test score and stuff like that you need to be positive
-Froam rollar for your blqkc
-Short hip thrush
-
-For the skin have mosteriser 
-Hryocogozon creamcorizon age cream 10  
-
-
-you should me proactive  when you need a hair cut you need a hair cut don't be lazy 
-when you are about to eat go out their and say you are sorry and tomorow you need a hair cut 
-
-Why did you not greet di quyen when she got home what wrong with you 
-
-You should have said that you cannot eat a lot of a food instead of out rigt saying you cannot eat it  
-
-Why did you not ask exactly where instead of agreeing
-You should not put the smaller bow in the bigger bow
-# Critical errors 
-- You should tell people everything   
-
-
-# ✅ **General Behavior & Manners**
+## ✅ General Behavior & Manners
 
 ### 🗣️ Speaking and Listening
 
 1. Do not speak when talking to someone older unless asked.
     
-2. If an adult asks why you’re quiet, respond with: “I don’t know anything.”
+2. If an adult asks why you're quiet, respond with: "I don't know anything."
     
-3. When someone says “hi,” you should say “hi” back.
+3. When someone says "hi," you should say "hi" back.
     
-4. When someone answers a question incorrectly, do not correct or talk back to them.
+4. When someone answers a question incorrectly, do not correct or talk back.
     
-5. Avoid dirty jokes, especially when it’s about someone else.
+5. Avoid dirty jokes, especially about someone else.
     
-6. Speak concisely: respond with short answers like “yes,” “no,” or “okay.”
+6. Speak concisely: respond with short answers like "yes," "no," or "okay."
     
-7. Do not say “I know” unless you truly do.
+7. Do not say "I know" unless you truly do.
     
 8. Listen first; speak only when appropriate.
     
-9. Do not create an outburst when someone criticizes you.
+9. Do not create an outburst when criticized.
     
 10. Do not sleep all the time—you should go out and listen when others are talking.
     
@@ -93,29 +45,29 @@ You should not put the smaller bow in the bigger bow
 
 ---
 
-# 🍽️ **Dining Etiquette**
+## 🍽️ Dining Etiquette
 
 ### 🔄 Food Behavior
 
 1. Always ask before doing something involving food.
     
-2. You will need to graph, plat, and blow for an adult, not a kid.
+2. You will need to graph, plate, and blow for an adult, not a kid.
     
-3. When taking food from a shared plate, wait until your food appears—don’t shuffle items around.
+3. When taking food from a shared plate, wait until your portion appears—don’t shuffle items.
     
-4. Avoid jokes about someone’s appearance (e.g., what Dì Quyền is wearing).
+4. Avoid jokes about appearances (e.g., what Dì Quyền is wearing).
     
 5. Do not eat or joke about eating in inappropriate places (e.g., toilets).
     
-6. When eating, don’t put your phone on the table.
+6. Don't put your phone on the table while eating.
     
-7. If you want to take something from the other side of the table:
+7. If you want to take something across the table:
     
-    - Stand up and take it.
+    - Stand up and get it.
         
     - Or ask someone to pass it to you.
         
-8. Do not think ahead of anything.
+8. Do not think ahead of anything while eating.
     
 
 ### 🍛 Cooking Instructions
@@ -129,134 +81,156 @@ You should not put the smaller bow in the bigger bow
 
 ---
 
-# 🚗 **Vehicle & Driving Habits**
+## 🚗 Vehicle & Driving Habits
 
 ### 🚘 Car Maintenance
 
 1. Always smoke-check the car before driving.
     
-2. Research or ask questions before doing anything new with the car.
+2. Research or ask questions before trying new car tasks.
     
 3. When washing a car:
     
     - Hose the car with water.
         
-    - Scrub it immediately.
+    - Scrub immediately.
         
     - Use the window sprayer afterward.
         
-4. When you take gas from **ARCO**, ask the cashier for a $10 refill before heading to Costco.
+4. When getting gas at ARCO, ask the cashier for a $10 refill before heading to Costco.
     
 
 ### 🅿️ Parking & Road Safety
 
 1. Look both ways when entering a parking lot.
     
-2. Use the “slow down” signal when stopping or standing still.
+2. Use the "slow down" signal when stopping or standing still.
     
-3. The back window of the car should be visible through your rearview mirror.
+3. The rearview mirror should show the back window clearly.
     
-4. You're still improving:
+4. Areas for improvement:
     
-    - You did good at prioritizing the light.
+    - Good at prioritizing traffic light.
         
-    - Parking needs more adjustment.
+    - Needs improvement in parking.
         
-    - You should have gone through the yellow light instead of stopping suddenly.
+    - Should have passed on yellow light instead of stopping.
         
-    - You leave too much space when catching up to another car.
+    - Leaves too much space behind cars.
         
-5. Don’t turn suddenly—it may cause an accident.
+5. Don’t turn suddenly—it may cause accidents.
     
 
 ---
 
-# 🧼 **Household Tasks**
+## 🧼 Household Tasks
 
 ### 🧺 Laundry
 
-1. Do **not** wash clothes when the air conditioner is on.
+1. Do not wash clothes when the air conditioner is on.
     
-2. Open the washing machine when you're done with the clothes. 
-3. wash your banket separately 
+2. Always open the washing machine after use.
+    
+3. Wash your blanket separately.
     
 
 ### 🍽️ Dishwashing
 
-1. The items for rolling _bánh tráng_ are stored in the **automatic dishwasher below the heater**.
+1. Items for rolling bánh tráng are stored in the automatic dishwasher below the heater.
     
-2. Remove all plastic wrapping from items before use.
+2. Remove plastic wrapping from items before use.
     
 3. Dishwashing steps:
     
     - Rinse the dishes.
         
-    - Wash them using the scrubber side (back).
+    - Wash using the scrubber side (back).
         
-    - Check with your hand to ensure no dirt remains.
+    - Use your hand to check if any dirt remains.
         
-4. When washing your cup, use your hand to clean the top radius.
+4. When washing a cup, clean the top radius with your hand.
+    
+
+### 🛁 Bath Cleaning
+
+1. Spray with all-purpose cleaner.
+    
+2. Let it sit briefly.
+    
+3. Scrub with brush (left hand) and water sprayer (right hand).
     
 
 ---
 
-# 🔁 **Reminders for Action**
+## 🔁 Reminders for Action
 
-1. Always ask before doing something unfamiliar.
+1. Always ask before doing unfamiliar tasks.
     
-2. Be more active and involved in your responsibilities.
+2. Be more active and responsible.
     
-3. You need to organize your money better.
+3. Organize your money better.
     
-4. Always ask for the price before buying something—don’t waste money (e.g., $6 drink).
+4. Always ask the price before buying—don’t overspend (e.g., $6 drink).
+    
+5. Be proactive: get a haircut when you need it.
+    
+6. Greet people properly when they come home.
+    
+7. Clarify instructions instead of blindly agreeing.
+    
+8. Be polite when rejecting food (e.g., "I can't eat a lot," not "I can't eat it").
     
 
 ---
 
-# 🏃 **Fitness & Physical Habits**
+## 🏃 Fitness & Health
 
 1. Run 2–3 times every morning.
     
-2. When running, swing your arms.
+2. Swing your arms when running.
     
-3. When unwrapping candy, rip from the top.
+3. Rip candy wrappers from the top.
+    
+4. Use foam roller for your back.
+    
+5. Do short hip thrusts.
+    
+6. Use moisturizer, hydrocortisone, and age cream for skin care.
     
 
 ---
 
-# ❌ **#fail_behavior (Do Not Do)**
+## ❌ #fail_behavior (Do Not Do)
 
 1. Forgot to put the tea bag in the cup.
     
-2. Forgot to open the washer after a load.
+2. Forgot to open the washer.
     
-3. Didn’t rinse dishes before scrubbing.
+3. Didn’t rinse dishes before washing.
     
-4. Didn't use your hand to check dishes for leftover dirt.
+4. Didn’t check dishes with hand for dirt.
     
-5. Tried to grab food across the table without standing or asking.
+5. Reached across the table without standing or asking.
+    
+6. Failed to apply lip gloss properly.
+    
+7. Didn’t take given item to your room.
+    
+8. Forgot to lock the door before leaving.
+    
+9. Didn’t buy items equally for both children.
+    
+10. Talked inconsistently and unclearly.
+    
+11. Shared negative comments (e.g., test scores).
+    
+12. Mentioned personal dislikes (e.g., bio) to the teacher.
     
 
 ---
 
-Let me know if you want this turned into:
+## ⚠️ Critical Errors
 
-- A printable checklist (PDF or Word)
+- You should tell people everything when needed.
     
-- An interactive habit tracker (Notion, Google Sheets, or app)
-    
-- A condensed “daily reminders” card for your phone or desk 
-
-
-
-
-
-how to clean the bath, 
-1. first you will spary it with a all purpose cleanner 
-2. let it sit for a bit  
-3. crub it using a brush on your left hand and the water sprayer on your right 
-how to  [re thread](https://www.youtube.com/watch?time_continue=117&v=wnW7OWsq7vk&embeds_referring_euri=https%3A%2F%2Fchatgpt.com%2F&source_ve_path=MjM4NTE) a string pant
-
-#relationship 
-andi like too have bit of food to eat like snack  he does not like to eat a full meal 
-
+- Don’t put smaller bowls inside bigger ones if unnecessary.
