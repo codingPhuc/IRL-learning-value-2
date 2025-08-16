@@ -209,3 +209,17 @@ Let me know if you want this turned into:
 - An interactive habit tracker (Notion, Google Sheets, or app)
     
 - A condensed “daily reminders” card for your phone or desk 
+
+
+
+
+
+how to clean the bath, 
+1. first you will spary it with a all purpose cleanner 
+2. let it sit for a bit  
+3. crub it using a brush on your left hand and the water sprayer on your right 
+how to  [re thread](https://www.youtube.com/watch?time_continue=117&v=wnW7OWsq7vk&embeds_referring_euri=https%3A%2F%2Fchatgpt.com%2F&source_ve_path=MjM4NTE) a string pant
+
+#relationship 
+andi like too have bit of food to eat like snack  he does not like to eat a full meal 
+
